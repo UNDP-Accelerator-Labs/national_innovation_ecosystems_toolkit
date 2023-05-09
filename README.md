@@ -22,10 +22,10 @@
     </ul>
     </li>
     <li>
-      <a href="/Understanding%20and%20pitching%20NIE/README.md">Understanding and pitching NIE</a>
+      <a href="/Understanding%20and%20pitching%20NIE/">Understanding and pitching NIE</a>
       <ul>
         <li>
-            <a href="/Understanding%20and%20pitching%20NIE/README.md">About understanding and pitching NIE</a>
+            <a href="/Understanding%20and%20pitching%20NIE/">About understanding and pitching NIE</a>
         </li>
         <li>
             <!-- <ul> -->
