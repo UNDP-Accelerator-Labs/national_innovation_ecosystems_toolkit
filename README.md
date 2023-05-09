@@ -1,3 +1,4 @@
+![undp_accelerator_labs_logo](/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png)
 # How to use this toolkit
 
 ## Glossary
