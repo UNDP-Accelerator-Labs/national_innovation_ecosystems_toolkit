@@ -5,7 +5,6 @@
 
 # Factsheet
 
-#
 
 A step-by-step to draft a National Innovation Policy
 

@@ -3,7 +3,7 @@
 
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-#
+
 # Factsheet
 
 ## A mapping of an innovator's journey from inception to maturation to help coordinate support provided by government stakeholders (Zambia)

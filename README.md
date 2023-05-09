@@ -17,7 +17,7 @@
             </a>
         </li>
         <li>
-            <a href="./Getting%20started/how-to-use-the-toolkit.md">How to use this toolkit </a>
+            <a href="./Getting%20started/how-to-use-the-toolkit">How to use this toolkit </a>
         </li>
     </ul>
     </li>
@@ -267,7 +267,7 @@ Your feedback is hugely appreciated, even (especially!) if critical. Please dire
 
 <br/>
 
-<a href="/Getting%20started/how-to-use-the-toolkit.md">Next - How to use this toolkit </a>
+<a href="./Getting%20started/how-to-use-the-toolkit">Next - How to use this toolkit </a>
 
 <!-- # How to use this toolkit
 
@@ -275,4 +275,4 @@ Your feedback is hugely appreciated, even (especially!) if critical. Please dire
 
 We use the metaphor of the toolkit to emphasize the operational, enabling nature of the work you are reading right now. The following words are used throughout it a metaphorical sense: -->
 
-[learn how to pitch](Understanding%20and%20pitching%20NIE/)
+<!-- [learn how to pitch](Understanding%20and%20pitching%20NIE/) -->
