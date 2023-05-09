@@ -275,4 +275,4 @@ Your feedback is hugely appreciated, even (especially!) if critical. Please dire
 
 We use the metaphor of the toolkit to emphasize the operational, enabling nature of the work you are reading right now. The following words are used throughout it a metaphorical sense: -->
 
-<!-- [learn how to pitch](Understanding%20and%20pitching%20NIE/) -->
+[learn how to pitch](Understanding%20and%20pitching%20NIE/)
