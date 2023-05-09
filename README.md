@@ -1,4 +1,4 @@
-![undp_accelerator_labs_logo](/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png)
+![undp_accelerator_labs_logo](public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png)
 <!-- <img src="/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
 
 # How to use this toolkit
