@@ -1,9 +1,12 @@
 
+[Back to Home](../../README.md)
+
+
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
 # Factsheet
 
-# An interactive employee handbook to digitalize and enhance the onboarding experience of civil servants (Namibia)
+## An interactive employee handbook to digitalize and enhance the onboarding experience of civil servants (Namibia)
 
 **What it does.** In collaboration with the government, it designs a digital set of products to replace the current process of onboarding for civil servants. Onboarding is now delivered via asynchronous learning using a digital, open source platform. This impacts the 125,000 Namibian civil servants.
 

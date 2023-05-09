@@ -1,8 +1,11 @@
+[Back to Home](../../README.md)
+
+
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
 # Factsheet
 
-# An in-depth mapping of an innovation ecosystem to help innovators make sense of the landscape (Kenya)
+## An in-depth mapping of an innovation ecosystem to help innovators make sense of the landscape (Kenya)
 
 
 **What it does.** The map illustrates the key actors and stakeholders in Kenya's innovation ecosystem.

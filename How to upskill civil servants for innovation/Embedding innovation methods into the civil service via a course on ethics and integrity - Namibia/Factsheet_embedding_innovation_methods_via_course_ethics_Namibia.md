@@ -1,8 +1,11 @@
+[Back to Home](../../README.md)
+
+
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
 # Factsheet
 
-# A course on Ethics and Integrity in public services to embed innovation Practices and Methods through the Ethics and Integrity Champions (Namibia)
+## A course on Ethics and Integrity in public services to embed innovation Practices and Methods through the Ethics and Integrity Champions (Namibia)
 
 **What it does.** Helps embedding into government the practice of social innovation through functional service areas such as HR, Procurement, Security, Finance, Public Relations and Ethics / Integrity Officers.
 
