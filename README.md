@@ -17,15 +17,15 @@
             </a>
         </li>
         <li>
-            <a href="/Getting%20started/how-to-use-the-toolkit.md">How to use this toolkit </a>
+            <a href="./Getting%20started/how-to-use-the-toolkit.md">How to use this toolkit </a>
         </li>
     </ul>
     </li>
     <li>
-      <a href="/Understanding%20and%20pitching%20NIE/">Understanding and pitching NIE</a>
+      <a href="./Understanding%20and%20pitching%20NIE/README.md">Understanding and pitching NIE</a>
       <ul>
         <li>
-            <a href="/Understanding%20and%20pitching%20NIE/">About understanding and pitching NIE</a>
+            <a href="./Understanding%20and%20pitching%20NIE/README.md">About understanding and pitching NIE</a>
         </li>
         <li>
             <!-- <ul> -->
@@ -33,7 +33,7 @@
             <ul>
                 <li>
                     <a
-                    href="/Understanding%20and%20pitching%20NIE/Understanding%20NIE%20and%20PSI/Factsheet_understanding_NIE_PSI.md"
+                    href="./Understanding%20and%20pitching%20NIE/Understanding%20NIE%20and%20PSI/Factsheet_understanding_NIE_PSI.md"
                     >
                         Factsheet
                     </a>
@@ -46,7 +46,7 @@
             <ul>
                 <li>
                     <a
-                    href="/Understanding%20and%20pitching%20NIE/National Innovation%20ecosystem%20talking%20points%20and%20value%20proposition/Factsheet.md"
+                    href="./Understanding%20and%20pitching%20NIE/National Innovation%20ecosystem%20talking%20points%20and%20value%20proposition/Factsheet.md"
                     >
                         Factsheet
                     </a>
@@ -61,7 +61,7 @@
         </a>
         <ul>
             <li>
-                <a href="/How%20to%20design%20an%20innovation%20policy/About%20designing%20an%20innovation%20policy.md">About designing an innovation policy </a>
+                <a href="./How%20to%20design%20an%20innovation%20policy/About%20designing%20an%20innovation%20policy.md">About designing an innovation policy </a>
             </li>
             <li>
                 <a href="#">
@@ -70,7 +70,7 @@
                 <ul>
                     <li>
                         <a
-                        href="/How%20to%20design%20an%20innovation%20policy/A%20step-by-step%20journey%20to%20a%20national%20innovation%20policy%20-%20Dominican%20Republic/Factsheet Dominican Republic Innovation Policy.md"
+                        href="./How%20to%20design%20an%20innovation%20policy/A%20step-by-step%20journey%20to%20a%20national%20innovation%20policy%20-%20Dominican%20Republic/Factsheet Dominican Republic Innovation Policy.md"
                         >
                             Factsheet
                         </a>
