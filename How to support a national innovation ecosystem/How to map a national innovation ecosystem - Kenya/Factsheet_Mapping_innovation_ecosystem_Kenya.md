@@ -1,0 +1,29 @@
+<img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
+
+# Factsheet
+
+# An in-depth mapping of an innovation ecosystem to help innovators make sense of the landscape (Kenya)
+
+
+**What it does.** The map illustrates the key actors and stakeholders in Kenya's innovation ecosystem.
+
+**Value proposition for the government or other partner.** The ecosystem research and mapping exercise helped Kenya's National Innovation agency understand the landscape and provided data and evidence that builds a case for the agency, i.e. why it should be supported, why there should be a strategy for innovation and ecosystem engagement. For Konza Technopolis (Kenya's "smart city), which will become the center of Kenya's innovation ecosystem from an infrastructure perspective, insights from the mapping will prevent the project from perpetuating the challenges that innovation hubs have faced.
+
+**Why and when to use it**. A mapping exercise is useful when there is a saw the gap in publicly-available information and analysis on the innovation landscape particularly from an innovator's perspective, i.e. where an innovator with an idea would go for support, and where s/he would be most likely to find success or face challenges.
+
+**Known issues and troubleshooting**. There might be pushback from ecosystem actors who might question the "right" of the mapping entity to do the work.
+
+**Context**. Kenya is a leader in the digital innovation space, but there's a lack of coordination, organization, and clarity within the ecosystem and innovators suffer as a result. Despite this, Kenya attracts a lot of investors and innovators who come in to take advantage of fast-growing environment and human capital to establish hubs and startups. UNDP Accelerator Lab Kenya saw the gap in public ecosystem information for innovators and decided to conduct a research and ecosystem mapping effort.
+
+**Cost to implement** (in USD). Approximately 500K, which includes a co-creative process to design and conduct the mapping and research, travel, stakeholder engagement, data collection, analysis, validation, and publish and managing a knowledge product.
+
+**Time** (in calendar time): Approximately 1 year
+
+**People** (team numerosity): 3 Labbers
+
+**Focal point**. Caroline Kiarie
+ Caroline Kiarie- Kimondo is the Head of Exploration, Kenya Accelerator Lab. Caroline is a social impact strategist with a passion for framing and reframing positive social impact narratives. She has 15 years of experience in philanthropy, movement building, social innovation, and strategic communications. She's also skilled in leadership coaching, human-centered design thinking, decision architecture, agile project management, and adaptive leadership.
+
+**Country and year**. Kenya, December 2021 – December 2022
+
+**Resources**. Digital map; ecosystem research report; Kenya innovation outlook (prepared by the Kenya Innovation Agency)
