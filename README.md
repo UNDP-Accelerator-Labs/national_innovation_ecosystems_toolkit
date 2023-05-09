@@ -1,16 +1,25 @@
 <!-- ![undp_accelerator_labs_logo](public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png) -->
 <img src="public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-#
+  
+<br/><br/>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#background-and-purpose">Getting started</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+        <li>
+            <a href="#background-and-purpose">
+                Background and purpose
+            </a>
+        </li>
+        <li>
+            <a href="/Getting%20started/how-to-use-the-toolkit.md">How to use this toolkit </a>
+        </li>
+    </ul>
     </li>
     <li>
       <a href="/Understanding%20and%20pitching%20NIE/README.md">Understanding and pitching NIE</a>
@@ -235,7 +244,10 @@
   </ol>
 </details>
 
-# 
+<br/>
+
+# Background and purpose 
+
 In 2022, the UNDP Accelerator Labs launched a survey to get a big picture view on the work that its global network of 91 labs was doing to support innovation ecosystems. The results were surprisingly clear-cut and coherent.  
 
 First, we learned that a solid majority of Labs had partnered with governments to deploy interventions in support of national innovation ecosystems, or was planning to do so in the near future. We were looking at a surge of government investment in innovation across the Global South. Furthermore, these Global South governments were looking beyond the usual Global North example of policies to support innovation and learning from each other.  
@@ -251,10 +263,16 @@ Your feedback is hugely appreciated, even (especially!) if critical. Please dire
 **Curation task force:** Tayo Akinyemi (Global Team), Alberto Cottica (Global Team), Ana Grijalva (Ecuador), Eduardo Gustale (Global Team), Calum Handforth (Chief Digital Office), Nicola Holden (Chief Digital Office). 
 **Contributors:** Jerson Del Rosario (Dominican Republic), Yrika Maritz (Namibia), Nguyen Tuan Luong (Viet Nam). 
 
-# How to use this toolkit
+<!-- <button href="/Getting%20started/how-to-use-the-toolkit.md" >Next - How to use this toolkit </button> -->
+
+<br/>
+
+<a href="/Getting%20started/how-to-use-the-toolkit.md">Next - How to use this toolkit </a>
+
+<!-- # How to use this toolkit
 
 ## Glossary
 
-We use the metaphor of the toolkit to emphasize the operational, enabling nature of the work you are reading right now. The following words are used throughout it a metaphorical sense:
+We use the metaphor of the toolkit to emphasize the operational, enabling nature of the work you are reading right now. The following words are used throughout it a metaphorical sense: -->
 
 <!-- [learn how to pitch](Understanding%20and%20pitching%20NIE/) -->
