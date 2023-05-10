@@ -1,43 +1,17 @@
-.markdown-body {
-  font-family: "Noto Sans", sans-serif; /* Primary font */
-}
+/* Error: Can't find stylesheet to import.
+ *   ,
+ * 2 | @import "{{ site.theme }}";
+ *   |         ^^^^^^^^^^^^^^^^^^
+ *   '
+ *   style.scss 2:9  root stylesheet */
 
-body {
-  font-family: "Noto Sans", sans-serif; /* Primary font */
-  margin: 0;
-  padding: 0;
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Can't find stylesheet to import.\a   \2577 \a 2 \2502  @import \"{{ site.theme }}\";\a   \2502          ^^^^^^^^^^^^^^^^^^\a   \2575 \a   style.scss 2:9  root stylesheet";
 }
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Noto Serif", serif; /* Secondary font */
-}
-
-.button {
-  background-color: white;
-  padding: 0 0.8rem;
-  border-radius: 4px;
-  background-color: transparent;
-  border-color: #0087cb;
-  color: #0087cb;
-  letter-spacing: 0;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-.button:hover {
-  background-color: #0087cb;
-  color: white;
-}
-
-/* Styles for the left button */
-#left-button {
-  float: left;
-}
-
-/* Styles for the right button */
-#right-button {
-  float: right;
-}
-
-/*# sourceMappingURL=style.css.map */
