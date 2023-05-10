@@ -9,6 +9,7 @@
     font-size: $h4-size;
     line-height: $body-line-height;
     word-wrap: break-word;
+    background-color: brown;
   
     // Clearfix on the markdown body
     &::before {
