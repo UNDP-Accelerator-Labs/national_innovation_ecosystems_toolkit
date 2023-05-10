@@ -1,5 +1,4 @@
 
-
 [Back to Home](../README.md)
 
 <img src="../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
@@ -60,7 +59,7 @@ All resources have an author. The ethos of UNDP's Accelerator Labs and Chief Dig
 
 
 <!-- Left Button -->
-<a onclick="window.history.back()" class="button" id="left-button">Previous</a>
+<a onclick="window.history.back()" class="button" style ="color:red;" id="left-button">Previous</a>
 
 <!-- Right Button -->
 <a href="./Understanding%20and%20pitching%20NIE/Understanding%20NIE%20and%20PSI/Factsheet_understanding_NIE_PSI" class="button" id="right-button">Next - Factsheet: Understanding NIE and PSI</a>
