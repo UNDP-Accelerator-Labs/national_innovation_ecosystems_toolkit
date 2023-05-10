@@ -1,5 +1,9 @@
 @import "{{ site.theme }}";
 
+.markdown-body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .button {
   background-color: white;
   padding: 0 0.8rem;
@@ -28,3 +32,4 @@
 #right-button {
   float: right;
 }
+
