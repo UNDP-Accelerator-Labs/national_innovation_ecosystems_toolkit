@@ -1,14 +1,14 @@
 
-@import "{{ site.theme }}";
+// @import "{{ site.theme }}";
 
-.markdown-body {
-  font-family: "Noto Sans", sans-serif; /* Primary font */
-}
+// .markdown-body {
+//   font-family: "Noto Sans", sans-serif; /* Primary font */
+// }
 
 body {
     font-family: "Noto Sans", sans-serif; /* Primary font */
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
 }
 
 h1, h2, h3, h4, h5, h6 {
