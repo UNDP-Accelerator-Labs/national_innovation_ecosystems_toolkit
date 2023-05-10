@@ -267,7 +267,7 @@ Your feedback is hugely appreciated, even (especially!) if critical. Please dire
 
 <br/>
 
-<a class="button" href="./Getting%20started/how-to-use-the-toolkit">Next - How to use this toolkit </a>
+<div class="button" href="./Getting%20started/how-to-use-the-toolkit">Next - How to use this toolkit </div>
 
 <!-- # How to use this toolkit
 
