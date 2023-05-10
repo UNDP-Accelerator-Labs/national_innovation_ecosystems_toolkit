@@ -103,37 +103,37 @@
       border-radius: 3px;
       box-shadow: inset 0 -1px 0 $gray-400;
     }
+
+    .button {
+        background-color: white;
+        padding: 0 0.8rem;
+        border-radius: 4px;
+        background-color: transparent;
+        border-color: #0087cb;
+        color: #0087cb;
+        letter-spacing: 0;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      
+        &:hover {
+          background-color: #0087cb; 
+          color: white;
+        }
+      }
+      
+      /* Styles for the left button */
+      #left-button {
+        float: left;
+      }
+      
+      /* Styles for the right button */
+      #right-button {
+        float: right;
+      }
+      
   }
 
-
-
-  .button {
-    background-color: white;
-    padding: 0 0.8rem;
-    border-radius: 4px;
-    background-color: transparent;
-    border-color: #0087cb;
-    color: #0087cb;
-    letter-spacing: 0;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-  
-    &:hover {
-      background-color: #0087cb; 
-      color: white;
-    }
-  }
-  
-  /* Styles for the left button */
-  #left-button {
-    float: left;
-  }
-  
-  /* Styles for the right button */
-  #right-button {
-    float: right;
-  }
   
   
