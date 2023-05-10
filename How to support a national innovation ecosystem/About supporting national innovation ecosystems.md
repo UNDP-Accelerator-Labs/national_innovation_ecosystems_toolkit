@@ -21,6 +21,3 @@ Not all interventions on innovation ecosystems stem from the public sector. UNDP
 </button>
 
 </div>
-
-
-https://undp-accelerator-labs.github.io/national_innovation_ecosystems_toolkit/How%20to%20support%20a%20national%20innovation%20ecosystem/
