@@ -38,7 +38,7 @@
 
 <!-- Right Button -->
 <button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
-<a href="./Embedding%20innovation%20methods%20into%20the%20civil%20service%20via%20a%20course%20on%20ethics%20and%20integrity%20-%20Namibia/Factsheet_embedding_innovation_methods_via_course_ethics_Namibia" class="button" id="right-button">Next - Embedding innovation methods into the civil service via a course on ethics and integrity - Namibia </a>
+<a href="../Embedding%20innovation%20methods%20into%20the%20civil%20service%20via%20a%20course%20on%20ethics%20and%20integrity%20-%20Namibia/Factsheet_embedding_innovation_methods_via_course_ethics_Namibia" class="button" id="right-button">Next - Embedding innovation methods into the civil service via a course on ethics and integrity - Namibia </a>
 </button>
 
 </div>

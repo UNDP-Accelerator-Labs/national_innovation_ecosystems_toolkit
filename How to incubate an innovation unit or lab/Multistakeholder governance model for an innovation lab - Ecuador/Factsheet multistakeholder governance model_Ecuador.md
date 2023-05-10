@@ -80,7 +80,7 @@ Ecuador, 2022, Spanish
 
 <!-- Right Button -->
 <button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
-<a href="./Playbook%20for%20a%20digital%20innovation%20lab%20-%20Dominican%20Republic/Factsheet_Incubating_Labs_Dominican_Republic_Playbook" class="button" id="right-button">Next - Playbook for a digital innovation lab - Dominican Republic </a>
+<a href="../Playbook%20for%20a%20digital%20innovation%20lab%20-%20Dominican%20Republic/Factsheet_Incubating_Labs_Dominican_Republic_Playbook" class="button" id="right-button">Next - Playbook for a digital innovation lab - Dominican Republic </a>
 </button>
 
 </div>
