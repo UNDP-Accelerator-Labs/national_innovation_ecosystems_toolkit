@@ -132,7 +132,7 @@ In 2023, as the Accelerator Labs move to contribute more deliberately to UNDP’
 
 Many champions of innovation in the Global South are to be found within UNDP itself. In particular, we hope this toolkit will help the (many!) Country Offices that are moving to support their government partners on nurturing national innovation ecosystems; the Regional Bureaus of Africa and Asia Pacific (and hopefully the others, soon) in their work on public sector innovation; and – since innovation ecosystems are by definition multistakeholder and need constructive government-civil society partnerships – the Governance Community of Practice in its drive to expand civic spaces. 
 
-Your feedback is hugely appreciated, even (especially!) if critical. Please direct it to anyone in the curationtask force. 
+Your feedback is hugely appreciated, even (especially!) if critical. Please direct it to anyone in the curation task force. 
 
 **Curation task force:** Tayo Akinyemi (Global Team), Alberto Cottica (Global Team), Ana Grijalva (Ecuador), Eduardo Gustale (Global Team), Calum Handforth (Chief Digital Office), Nicola Holden (Chief Digital Office). 
 **Contributors:** Jerson Del Rosario (Dominican Republic), Yrika Maritz (Namibia), Nguyen Tuan Luong (Viet Nam). 
