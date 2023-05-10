@@ -57,13 +57,3 @@ If the factsheet convinces you, you can move on to the resource itself. This mig
 
 All resources have an author. The ethos of UNDP's Accelerator Labs and Chief Digital Office is one of sharing knowledge, so you can reach out to the author if you need more information and support.
 
-
-<!-- Left Button -->
-<button class="button" class="button" style="float: left; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
-<a onclick="window.history.back()" class="button" id="left-button">Previous</a>
-</button>
-
-<!-- Right Button -->
-<button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
-<a href="./Understanding%20and%20pitching%20NIE/Understanding%20NIE%20and%20PSI/Factsheet_understanding_NIE_PSI" class="button" id="right-button">Next - Factsheet: Understanding NIE and PSI</a>
-</button>

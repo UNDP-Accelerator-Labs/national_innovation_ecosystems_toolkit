@@ -53,17 +53,5 @@ XX
 
 
 
-<div style="padding-top:2rem">
-<!-- Left Button -->
-<button class="button" class="button" style="float: left; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
-<a onclick="window.history.back()" class="button" id="left-button">Previous</a>
-</button>
-
-<!-- Right Button -->
-<button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
-<a href="../Digitising%20the%20induction%20process%20for%20civil%20servants%20-%20Namibia/Factsheet_Digitising_induction_civil_servants_Namibia" class="button" id="right-button">Next - Digitising the induction process for civil servants - Namibia </a>
-</button>
-
-</div>
 
 

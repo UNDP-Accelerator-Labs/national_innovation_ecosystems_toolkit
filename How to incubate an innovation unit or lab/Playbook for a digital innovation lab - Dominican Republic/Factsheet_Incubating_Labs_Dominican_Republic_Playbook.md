@@ -39,16 +39,4 @@ Finally, in a COVID-19 pandemic context, the newly established Digital Innovatio
 
 
 
-<div style="padding-top:2rem">
-<!-- Left Button -->
-<button class="button" class="button" style="float: left; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
-<a onclick="window.history.back()" class="button" id="left-button">Previous</a>
-</button>
-
-<!-- Right Button -->
-<button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
-<a href="../TORs%20for%20a%20consultant%20to%20build%20up%20the%20National%20Innovation%20Center%20-%20Viet%20Nam/Factsheet_Incubating_Labs_Viet_Nam_National_Innovation_Center_TOR_consultant_presentation1" class="button" id="right-button">Next - TORs for a consultant to build up the National Innovation Center - Viet Nam </a>
-</button>
-
-</div>
 

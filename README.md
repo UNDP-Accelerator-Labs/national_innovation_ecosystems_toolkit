@@ -137,22 +137,3 @@ Your feedback is hugely appreciated, even (especially!) if critical. Please dire
 **Curation task force:** Tayo Akinyemi (Global Team), Alberto Cottica (Global Team), Ana Grijalva (Ecuador), Eduardo Gustale (Global Team), Calum Handforth (Chief Digital Office), Nicola Holden (Chief Digital Office). 
 **Contributors:** Jerson Del Rosario (Dominican Republic), Yrika Maritz (Namibia), Nguyen Tuan Luong (Viet Nam). 
 
-<!-- <button href="/Getting%20started/how-to-use-the-toolkit.md" >Next - How to use this toolkit </button> -->
-
-<br/>
-
-<button class="button" class="button" style="background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
-<a href="./Getting%20started/how-to-use-the-toolkit">Next - How to use this toolkit </a>
-</button>
-
-
-
-
-
-<!-- # How to use this toolkit
-
-## Glossary
-
-We use the metaphor of the toolkit to emphasize the operational, enabling nature of the work you are reading right now. The following words are used throughout it a metaphorical sense: -->
-
-<!-- [learn how to pitch](Understanding%20and%20pitching%20NIE/) -->
