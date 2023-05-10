@@ -28,3 +28,19 @@
 **Country and year**. Namibia 2022
 
 **Resources.** Ethics and integrity course concept note and learning report; ethics and integrity course curriculum and slide decks. Blog post: [https://www.undp.org/namibia/blog/experimenting-learning-labs-support-initiatives-around-ethics-and-integrity-public-service-namibia](https://www.undp.org/namibia/blog/experimenting-learning-labs-support-initiatives-around-ethics-and-integrity-public-service-namibia)
+
+
+<div style="padding-top:2rem">
+<!-- Left Button -->
+<button class="button" class="button" style="float: left; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a onclick="window.history.back()" class="button" id="left-button">Previous</a>
+</button>
+
+<!-- Right Button -->
+<button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a href="../../How%20to%20support%20a%20national%20innovation%20ecosystem/About%20supporting%20national%20innovation%20ecosystems" class="button" id="right-button">Next - About how to upskill civil servants </a>
+</button>
+
+</div>
+
+

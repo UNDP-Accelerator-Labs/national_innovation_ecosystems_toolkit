@@ -69,3 +69,19 @@ Ecuador, 2022, Spanish
 | ![](RackMultipart20230509-1-txsp4u_html_14e82a0abfb2da32.png) | ![](RackMultipart20230509-1-txsp4u_html_5483f5319b45661e.png) | ![](RackMultipart20230509-1-txsp4u_html_b9435577bcb59cfb.png) |
 | --- | --- | --- |
 | [Blog](https://www.undp.org/es/ecuador/blog/moving-speed-trust-juicy-fruits-collaboration-and-persistence) | [Flyer](https://www.canva.com/design/DAFZRQOvXuw/kbZhZVoz8BvPKL0PAXfrqA/edit?utm_content=DAFZRQOvXuw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | ToRs for one of the team members |
+
+
+
+<div style="padding-top:2rem">
+<!-- Left Button -->
+<button class="button" class="button" style="float: left; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a onclick="window.history.back()" class="button" id="left-button">Previous</a>
+</button>
+
+<!-- Right Button -->
+<button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a href="./Playbook%20for%20a%20digital%20innovation%20lab%20-%20Dominican%20Republic/Factsheet_Incubating_Labs_Dominican_Republic_Playbook" class="button" id="right-button">Next - Playbook for a digital innovation lab - Dominican Republic </a>
+</button>
+
+</div>
+

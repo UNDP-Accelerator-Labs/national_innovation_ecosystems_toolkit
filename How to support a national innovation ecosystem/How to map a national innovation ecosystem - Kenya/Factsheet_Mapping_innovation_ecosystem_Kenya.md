@@ -30,3 +30,19 @@
 **Country and year**. Kenya, December 2021 – December 2022
 
 **Resources**. Digital map; ecosystem research report; Kenya innovation outlook (prepared by the Kenya Innovation Agency)
+
+
+
+<div style="padding-top:2rem">
+<!-- Left Button -->
+<button class="button" class="button" style="float: left; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a onclick="window.history.back()" class="button" id="left-button">Previous</a>
+</button>
+
+<!-- Right Button -->
+<button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a href="./Innovators%20journey%20-%20Zambia/Factsheet_innovators_journey_Zambia" class="button" id="right-button">Next - Innovators journey - Zambia </a>
+</button>
+
+</div>
+

@@ -29,3 +29,18 @@
 **Country and year**. Namibia 2023
 
 **Resources**. Concept not; presentation deck; results of a survey on the perception of the posk
+
+
+<div style="padding-top:2rem">
+<!-- Left Button -->
+<button class="button" class="button" style="float: left; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a onclick="window.history.back()" class="button" id="left-button">Previous</a>
+</button>
+
+<!-- Right Button -->
+<button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a href="./Embedding%20innovation%20methods%20into%20the%20civil%20service%20-%20Namibia/Factsheet_Public_sector_innovation_toolkit_Namibia" class="button" id="right-button">Next - Embedding innovation methods into the civil service - Namibia </a>
+</button>
+
+</div>
+

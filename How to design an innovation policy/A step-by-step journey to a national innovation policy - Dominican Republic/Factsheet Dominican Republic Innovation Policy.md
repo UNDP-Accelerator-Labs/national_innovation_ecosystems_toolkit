@@ -43,3 +43,18 @@ The Lab took on the task of designing theory of change for the national innovati
 **Country and year** : Dominican Republic 2021
 
 **Resources**. National innovation policy, final draft (Spanish); blog post about supporting National Innovation Policy in the Dominican Republic: [https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic](https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic)
+
+
+
+<div style="padding-top:2rem">
+<!-- Left Button -->
+<button class="button" class="button" style="float: left; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a onclick="window.history.back()" class="button" id="left-button">Previous</a>
+</button>
+
+<!-- Right Button -->
+<button class="button" class="button" style="float: right; background-color: white; padding: 0 0.8rem; border-radius: 4px; background-color: transparent; border-color: #0087cb; color: #0087cb; letter-spacing: 0; cursor: pointer; text-align: center; text-decoration: none; display: inline-block;">
+<a href="../../How%20to%20incubate%20an%20innovation%20unit%20or%20lab/About%20incubating%20an%20innovation%20unit%20or%20lab" class="button" id="right-button">Next - About incubating an innovation unit or lab </a>
+</button>
+
+</div>
