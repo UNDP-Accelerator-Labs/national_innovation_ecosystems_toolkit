@@ -1,15 +1,24 @@
 <!-- ![undp_accelerator_labs_logo](public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png) -->
 <img src="public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
+<span>
+<h1>
+National Innovation Ecosystem (NIE) Toolkit
+</h1>
+</span>
   
-<br/><br/>
+<br/>
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#background-and-purpose">Getting started</a>
+      <b>
+        <a href="#background-and-purpose">
+            Getting started
+        </a>
+      </b>
       <ul>
         <li>
             <a href="#background-and-purpose">
@@ -22,10 +31,12 @@
     </ul>
     </li>
     <li>
-      <a href="./Understanding%20and%20pitching%20NIE/">Understanding and pitching NIE</a>
+      <b>
+        <a href="./Understanding%20and%20pitching%20NIE/">Understanding and pitching National Innovation Ecosystem (NIE) </a>
+       </b>
       <ul>
         <li>
-            <a href="./Understanding%20and%20pitching%20NIE/Understanding%20NIE%20and%20PSI/Factsheet_understanding_NIE_PSI">Understanding NIE and PSI</a>
+            <a href="./Understanding%20and%20pitching%20NIE/Understanding%20NIE%20and%20PSI/Factsheet_understanding_NIE_PSI">Understanding National Innovation Ecosystem (NIE) and Public sector innovation (PSI) </a>
         </li>
         <li>
             <!-- <ul> -->
@@ -34,9 +45,9 @@
       </ul>
     </li>
     <li>
-        <a href="./How%20to%20design%20an%20innovation%20policy/About%20designing%20an%20innovation%20policy">
+        <b><a href="./How%20to%20design%20an%20innovation%20policy/About%20designing%20an%20innovation%20policy">
             How to design an innovation policy
-        </a>
+        </a></b>
         <ul>
             <li>
                 <a href="./How%20to%20design%20an%20innovation%20policy/A%20step-by-step%20journey%20to%20a%20national%20innovation%20policy%20-%20Dominican%20Republic/Factsheet Dominican Republic Innovation Policy">
@@ -46,9 +57,9 @@
         </ul>
     </li>
     <li>
-        <a href="./How%20to%20incubate%20an%20innovation%20unit%20or%20lab/About%20incubating%20an%20innovation%20unit%20or%20lab">
+        <b><a href="./How%20to%20incubate%20an%20innovation%20unit%20or%20lab/About%20incubating%20an%20innovation%20unit%20or%20lab">
             How to incubate an innovation unit or lab
-        </a> 
+        </a> </b>
         <ul>
             <li>
                 <a href="./How%20to%20incubate%20an%20innovation%20unit%20or%20lab/Multistakeholder%20governance%20model%20for%20an%20innovation%20lab%20-%20Ecuador/Factsheet%20multistakeholder%20governance model_Ecuador">
@@ -62,15 +73,15 @@
             </li>
             <li>
                 <a href="./How%20to%20incubate%20an%20innovation%20unit%20or%20lab/TORs%20for%20a%20consultant%20to%20build%20up%20the%20National%20Innovation%20Center%20-%20Viet Nam/Factsheet_Incubating_Labs_Viet_Nam_National_Innovation_Center_TOR_consultant_presentation1">
-                    TORs for a consultant to build up the National Innovation Center - Viet Nam
+                    Terms of Reference (TOR) for a consultant to build up the National Innovation Center - Viet Nam
                 </a>
             </li>
         </ul>
     </li>
     <li>
-        <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/About%20how%20to%20upskill%20civil%20servants">
+        <b><a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/About%20how%20to%20upskill%20civil%20servants">
             How to upskill civil servants for innovation
-        </a>
+        </a></b>
         <ul>
             <li>
                 <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/Digital%20Standards%20for%20development%20solutions%20-%20Chief%20Digital%20Office/Factsheet Digital Standards_CDO">
@@ -99,9 +110,9 @@
         </ul>
     </li>
     <li>
-        <a href="./How%20to%20support%20a%20national%20innovation%20ecosystem/About%20supporting%20national%20innovation%20ecosystems">
+        <b><a href="./How%20to%20support%20a%20national%20innovation%20ecosystem/About%20supporting%20national%20innovation%20ecosystems">
             About supporting national innovation ecosystems
-        </a>
+        </a></b>
         <ul>
             <li>
                 <a href="./How%20to%20support%20a%20national%20innovation%20ecosystem/How%20to%20map%20a%20national%20innovation%20ecosystem%20-%20Kenya/Factsheet_Mapping_innovation_ecosystem_Kenya">
