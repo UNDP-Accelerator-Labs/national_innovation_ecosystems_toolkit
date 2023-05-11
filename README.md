@@ -4,7 +4,6 @@
 <h1>
 National Innovation Ecosystem (NIE) Toolkit
 </h1>
-<hr/>
   
 <br/>
 
