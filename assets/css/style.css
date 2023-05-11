@@ -1,20 +1,17 @@
-
-// @import "{{ site.theme }}";
-
 .markdown-body {
   font-family: "Noto Sans", sans-serif; /* Primary font */
 }
 
 body {
-    font-family: "Noto Sans", sans-serif; /* Primary font */
-    margin: 10;
-    padding: 10;
+  font-family: "Noto Sans", sans-serif; /* Primary font */
+  margin: 10;
+  padding: 10;
 }
 
 h1, h2, h3, h4, h5, h6 {
-font-family: "Noto Serif", serif; /* Secondary font */
+  font-family: "Noto Serif", serif; /* Secondary font */
 }
-  
+
 .button {
   background-color: white;
   padding: 0 0.8rem;
@@ -27,11 +24,10 @@ font-family: "Noto Serif", serif; /* Secondary font */
   text-align: center;
   text-decoration: none;
   display: inline-block;
-
-  &:hover {
-    background-color: #0087cb; 
-    color: white;
-  }
+}
+.button:hover {
+  background-color: #0087cb;
+  color: white;
 }
 
 /* Styles for the left button */
@@ -44,3 +40,4 @@ font-family: "Noto Serif", serif; /* Secondary font */
   float: right;
 }
 
+/*# sourceMappingURL=style.css.map */
