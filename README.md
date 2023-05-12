@@ -1,9 +1,9 @@
 <!-- ![undp_accelerator_labs_logo](public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png) -->
 <img src="public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-<h1>
+<h2>
 National Innovation Ecosystem (NIE) Toolkit
-</h1>
+</h2>
   
 <br/>
 
@@ -129,7 +129,7 @@ National Innovation Ecosystem (NIE) Toolkit
 
 <br/>
 
-# Background and purpose 
+### Background and purpose 
 
 In 2022, the UNDP Accelerator Labs launched a survey to get a big picture view on the work that its global network of 91 labs was doing to support innovation ecosystems. The results were surprisingly clear-cut and coherent.  
 
