@@ -1,7 +1,10 @@
-[Back to Home](../../README.md)
+---
+title: Embedding innovation methods into the civil service via a course on ethics and integrity - Namibia
+parent: How to upskill civil servants for innovation
+layout: default
+grand_parent: Home
 
-
-<!-- <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
 
 ## A course on Ethics and Integrity in public services to embed innovation Practices and Methods through the Ethics and Integrity Champions (Namibia)
 

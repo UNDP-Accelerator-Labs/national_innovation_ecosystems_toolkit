@@ -1,7 +1,11 @@
-[Back to Home](../../README.md)
+---
+title: A step-by-step journey to a national innovation policy - Dominican Republic
+parent: How to design an innovation policy
+layout: default
+grand_parent: Home
+has_children: true
 
-
-<!-- <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
 
 ## A step-by-step to draft a National Innovation Policy
 

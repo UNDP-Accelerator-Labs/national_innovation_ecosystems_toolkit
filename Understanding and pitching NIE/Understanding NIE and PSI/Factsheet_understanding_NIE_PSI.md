@@ -1,6 +1,8 @@
-[Back to Home](../../README.md)
-
-<!-- <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
+title: Understanding National Innovation Ecosystem (NIE) and Public sector innovation (PSI)
+parent: Understanding and pitching NIE
+grand_parent: Home
+---
 
 
 ## Talking points to argue for the engagement of governments to support their national innovation ecosystem, and to argue for UNDP to encourage its government partners in this sense

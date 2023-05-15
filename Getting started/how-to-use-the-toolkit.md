@@ -1,8 +1,10 @@
 
 
-[Back to Home](../README.md)
+---
+title: How to use the toolkit
+parent: Home
 
-<!-- <img src="../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
 
 
 ## How to use this toolkit

@@ -1,7 +1,10 @@
-[Back to Home](../../README.md)
+---
+title: How to map a national innovation ecosystem - Kenya
+parent: How to support a national innovation ecosystem
+layout: default
+grand_parent: Home
 
-
-<!-- <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
 
 ## An in-depth mapping of an innovation ecosystem to help innovators make sense of the landscape (Kenya)
 

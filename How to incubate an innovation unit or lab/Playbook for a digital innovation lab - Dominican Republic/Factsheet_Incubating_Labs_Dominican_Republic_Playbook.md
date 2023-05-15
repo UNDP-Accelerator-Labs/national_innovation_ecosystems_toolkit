@@ -1,7 +1,11 @@
-[Back to Home](../../README.md)
+---
+title: Playbook for a digital innovation lab - Dominican Republic
+parent: How to incubate an innovation unit or lab
+layout: default
+grand_parent: Home
+has_children: true
 
-
-<!-- <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
 
 ## Benchmarking participatory innovation processes with a playbook for a digital innovation unit or laboratory (Dominican Republic)
 

@@ -1,7 +1,10 @@
-[Back to Home](../../README.md)
+---
+title: Digital Standards for development solutions - Chief Digital Office
+parent: How to upskill civil servants for innovation
+layout: default
+grand_parent: Home
 
-
-<!-- <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
 
 ## UNDP DIGITAL STANDARDS
 

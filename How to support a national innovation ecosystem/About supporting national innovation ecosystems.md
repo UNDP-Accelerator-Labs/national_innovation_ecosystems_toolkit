@@ -1,7 +1,10 @@
-[Back to Home](../README.md)
+---
+title: How to support a national innovation ecosystem
+layout: default
+parent: Home
+has_children: true
 
-
-<!-- <img src="../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
 
 ## About supporting national innovation ecosystems
 

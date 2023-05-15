@@ -1,8 +1,10 @@
+---
+title: Digitising the induction process for civil servants - Namibia
+parent: How to upskill civil servants for innovation
+layout: default
+grand_parent: Home
 
-[Back to Home](../../README.md)
-
-
-<!-- <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
 
 ## An interactive employee handbook to digitalize and enhance the onboarding experience of civil servants (Namibia)
 
