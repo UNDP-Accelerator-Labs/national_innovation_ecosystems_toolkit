@@ -33,6 +33,6 @@ grand_parent: Home
 
 **Resources**.
 
-- A slide deck containing one slide each for the two use cases of talking to UNDP officials and talking to government officials.
-- A longer-form essay unpacking the survey on which the talking points are based, as well as its main results.
+- [A slide deck](https://undp.sharepoint.com/:p:/s/AcceleratorLabsNetwork/EVjYNKYaWuJFp8ct5YNd8esBmQaRwh56GLdiSXu79HulOQ?e=cS3oIL) containing one slide each for the two use cases of talking to UNDP officials and talking to government officials.
+- [A 1,100 words essay](https://undp.sharepoint.com/:w:/s/AcceleratorLabsNetwork/EUO6AkwTvm1OuTqVK3XHTv4B8G59-jfrkkN1izeWgmVSRw?e=BzS9Ix) unpacking the survey on which the talking points are based, as well as its main results.
 
