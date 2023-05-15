@@ -13,7 +13,7 @@
     | where_exp: "item", "item.title != nil"
     | where_exp: "item", "item.nav_exclude != true" -%}
 
-{%- include sorted_pages.html pages = nav_pages -%}
+{%- include components/sorted_pages.html pages = nav_pages -%}
 
 {%- assign first_level_pages = sorted_pages
     | where_exp: "item", "item.parent == nil" -%}
