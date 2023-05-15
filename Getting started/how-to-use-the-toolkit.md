@@ -1,11 +1,7 @@
-
-
 ---
 title: How to use the toolkit
 parent: Home
-
 ---
-
 
 ## How to use this toolkit
 

@@ -1,10 +1,8 @@
-
 ---
 title: How to design an innovation policy
 layout: default
 parent: Home
 has_children: true
-
 ---
 
 ## About designing an innovation policy

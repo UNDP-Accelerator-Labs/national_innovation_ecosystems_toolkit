@@ -3,7 +3,6 @@ title: How to incubate an innovation unit or lab
 layout: default
 parent: Home
 has_children: true
-
 ---
 
 ## About incubating an innovation unit or lab

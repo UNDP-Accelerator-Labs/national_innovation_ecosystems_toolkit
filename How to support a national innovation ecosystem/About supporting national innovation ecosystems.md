@@ -3,7 +3,6 @@ title: How to support a national innovation ecosystem
 layout: default
 parent: Home
 has_children: true
-
 ---
 
 ## About supporting national innovation ecosystems

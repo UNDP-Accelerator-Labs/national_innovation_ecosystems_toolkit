@@ -33,7 +33,7 @@ National Innovation Ecosystem (NIE) Toolkit
     </li>
     <li>
       <b>
-        <a href="./Understanding%20and%20pitching%20NIE/">Understanding and pitching National Innovation Ecosystem (NIE) </a>
+        <a href="./Understanding%20and%20pitching%20NIE/README">Understanding and pitching National Innovation Ecosystem (NIE) </a>
        </b>
       <ul>
         <li>

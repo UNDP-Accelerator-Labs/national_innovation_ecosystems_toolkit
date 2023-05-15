@@ -1,10 +1,8 @@
-
 ---
 title: How to upskill civil servants for innovation
 layout: default
 parent: Home
 has_children: true
-
 ---
 
 ## About upskilling civil servants
