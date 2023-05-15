@@ -24,7 +24,7 @@
       }
 
       .breadcrumb-nav {
-        background-color: #f2f2f2;
+        background-color: transparent;
         padding: 10px;
       }
 
@@ -38,6 +38,14 @@
         display: table-cell;
         margin-right: 5px;
         font-size: 12px !important;
+      }
+
+      .breadcrumb-nav-list-item::after {
+        display: inline-block;
+        margin-right: 0.5rem;
+        margin-left: 0.5rem;
+        color: #959396;
+        content: "/";
       }
 
       .breadcrumb-nav-list-item a:not([class]) {
