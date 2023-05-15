@@ -1,8 +1,7 @@
 ---
-layout: default
 title: National Innovation ecosystem toolkit
 parent: Understanding and pitching NIE
-nav_order: 1
+grand_parent: Home
 ---
 
 <!-- [Back to Home](../../README.md) -->
