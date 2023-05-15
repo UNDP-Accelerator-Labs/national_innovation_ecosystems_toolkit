@@ -18,33 +18,42 @@
       body {
        font-family: "Noto Sans", sans-serif; /* Primary font */
       }
+
+      nav {
+        display: block;
+      }
+
       .breadcrumb-nav {
         background-color: #f2f2f2;
         padding: 10px;
       }
 
       .breadcrumb-nav-list {
+        padding-left: 0;
+        margin-bottom: 0.75rem;
         list-style: none;
-        margin: 0;
-        padding: 0;
       }
 
       .breadcrumb-nav-list-item {
-        display: inline-block;
+        display: table-cell;
         margin-right: 5px;
+        font-size: 12px !important;
+      }
+
+      .breadcrumb-nav-list-item a:not([class]) {
+          text-decoration: underline;
+          text-decoration-color: #eeebee;
+          text-underline-offset: 2px;
       }
 
       .breadcrumb-nav-list-item a {
-        color: #333333;
-        text-decoration: none;
+          color: #7253ed;
+          text-decoration: none;
+          background-color: transparent;
       }
 
       .breadcrumb-nav-list-item a:hover {
         text-decoration: underline;
-      }
-
-      .breadcrumb-nav-list-item span {
-        font-weight: bold;
       }
 
     </style>
@@ -56,6 +65,8 @@
     {% include components/partial-header.html %}
 
     <div class="container-lg px-3 my-5 markdown-body">
+
+      <img src="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
       {% include components/breadcrumbs.html %}
 
