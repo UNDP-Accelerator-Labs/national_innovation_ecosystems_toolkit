@@ -1,5 +1,5 @@
 <!-- ![undp_accelerator_labs_logo](public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png) -->
-<img src="public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
+<!-- <img src="public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
 
 <h2>
 National Innovation Ecosystem (NIE) Toolkit

@@ -1,7 +1,7 @@
 [Back to Home](../../README.md)
 
 
-<img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
+<!-- <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
 
 ## An in-depth mapping of an innovation ecosystem to help innovators make sense of the landscape (Kenya)
 

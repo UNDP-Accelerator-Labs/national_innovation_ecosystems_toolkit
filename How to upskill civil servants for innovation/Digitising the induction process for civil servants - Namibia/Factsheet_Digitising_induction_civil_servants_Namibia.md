@@ -2,7 +2,7 @@
 [Back to Home](../../README.md)
 
 
-<img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
+<!-- <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
 
 ## An interactive employee handbook to digitalize and enhance the onboarding experience of civil servants (Namibia)
 
