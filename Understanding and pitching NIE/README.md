@@ -1,6 +1,9 @@
-[Back to Home](../README.md)
-
-<!-- <img src="../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo"> -->
+---
+title: Understanding and pitching NIE
+layout: default
+parent: Home
+has_children: true
+---
 
 ## Understanding and pitching national innovation ecosystems 
 
