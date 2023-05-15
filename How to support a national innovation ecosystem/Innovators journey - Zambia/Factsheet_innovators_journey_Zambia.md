@@ -5,7 +5,7 @@
 
 
 
-A mapping of an innovator's journey from inception to maturation to help coordinate support provided by government stakeholders (Zambia)
+## A mapping of an innovator's journey from inception to maturation to help coordinate support provided by government stakeholders (Zambia)
 
 **What it does.** The innovator's journey provides a holistic understanding of an innovator's pathway and their sequential steps to scale. It also aims to describe the players and key opportunities within the innovation ecosystem in Zambia.
 
