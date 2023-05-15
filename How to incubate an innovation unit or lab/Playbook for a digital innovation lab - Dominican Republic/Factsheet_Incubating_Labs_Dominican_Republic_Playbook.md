@@ -3,13 +3,9 @@
 
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-# Factsheet
-
 ## Benchmarking participatory innovation processes with a playbook for a digital innovation unit or laboratory (Dominican Republic)
 
-**What it does.** Spells out a five-steps methodology for an innovation unit or lab to develop participatory solutions to problems of common interest. It includes elements like criteria for evaluating ideas, methods to guide their development, deployment and evaluationevaluation, design of the roles and job profiles for the Digital Lab. Additionally, it clearly spells out the values that an innovation unit or lab run by the public sector should put front and center, starting with "empathy for the users".
-
-ABOUT OGTIC DIGITAL LAB
+**What it does.** Spells out a five-steps methodology for an innovation unit or lab to develop participatory solutions to problems of common interest. It includes elements like criteria for evaluating ideas, methods to guide their development, deployment and evaluation, design of the roles and job profiles for the Digital Lab. Additionally, it clearly spells out the values that an innovation unit or lab run by the public sector should put front and center, starting with "empathy for the users".
 
 **Value proposition.** By benchmarking the process of creating new solutions, the playbook helps an innovation unit or lab maintain a clear vision of its work as it rolls out new products and services, and stay true to its mandate.
 
@@ -31,12 +27,7 @@ Finally, in a COVID-19 pandemic context, the newly established Digital Innovatio
 
 **Country and year**. Dominican Republic, 2021-2022
 
-**Resources** (The ones not meant for publishing are shared in the same folder as the factsheet).
+**Resources**
 
-- The playbook (Spanish)
-- Blog: [Supporting innovation for systemic change through public policy: the case of the Dominican Republic](https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic): [https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic](https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic)
--
-
-
-
-
+- [The playbook](https://undp.sharepoint.com/:b:/s/AcceleratorLabsNetwork/EYtr4ZB8qFdBvQfXyzME_vgBIqN5mHUScqG2aXkqZ3lg1Q?e=PsqVLD) (Spanish)
+- [Blog post](https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic)

@@ -82,6 +82,13 @@ National Innovation Ecosystem (NIE) Toolkit
         </a></b>
         <ul>
             <li>
+                <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/Data-to-policy%20navigator%20-%20Chief%20Digital%20Office/Factsheet">
+                    Data-to-policy navigator - Chief Digital Office
+                </a>
+                <ul>
+                </ul>
+            </li>
+            <li>
                 <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/Digital%20Standards%20for%20development%20solutions%20-%20Chief%20Digital%20Office/Factsheet Digital Standards_CDO">
                     Digital Standards for development solutions - Chief Digital Office
                 </a>
@@ -103,6 +110,11 @@ National Innovation Ecosystem (NIE) Toolkit
             <li>
                 <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/Embedding%20innovation%20methods%20into%20the%20civil%20service%20via%20a%20course%20on%20ethics%20and%20integrity%20-%20Namibia/Factsheet_embedding_innovation_methods_via_course_ethics_Namibia">
                     Embedding innovation methods into the civil service via a course on ethics and integrity - Namibia
+                </a>
+            </li>
+            <li>
+                <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/Public Innovators%20Program%20Paraguay/Factsheet">
+                    Public Innovators Program Paraguay
                 </a>
             </li>
         </ul>

@@ -3,8 +3,6 @@
 
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-# Factsheet
-
 ## A toolkit to embed innovation methods into the civil service (Namibia)
 
 **What it does.** It provides a collection of resources and methods for service design, with a view to their application in a public sector innovation context. Methods include stakeholder mapping, personas, positive deviance; collective intelligence, behavioral insights. Contains various canvases to make applying the methods more intuitive.
@@ -27,5 +25,7 @@
 
 **Country and year**. Namibia 2021
 
-**Resources**. Toolkit; slide deck to introduce the toolkit in bootcamp form.
+**Resources**.
 
+- [Toolkit](https://undp.sharepoint.com/:p:/s/AcceleratorLabsNetwork/EQb7Zf9hJLtJm-x97XtGhC0BCQcJqQw6JMDa1HQs_TJ1Wg?e=iBszHV)
+- [Slide deck](https://undp.sharepoint.com/:p:/s/AcceleratorLabsNetwork/EQb7Zf9hJLtJm-x97XtGhC0BCQcJqQw6JMDa1HQs_TJ1Wg?e=teT6fJ) to introduce the toolkit in bootcamp form.

@@ -4,8 +4,6 @@
 
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-# Factsheet
-
 ## An interactive employee handbook to digitalize and enhance the onboarding experience of civil servants (Namibia)
 
 **What it does.** In collaboration with the government, it designs a digital set of products to replace the current process of onboarding for civil servants. Onboarding is now delivered via asynchronous learning using a digital, open source platform. This impacts the 125,000 Namibian civil servants.
@@ -18,18 +16,18 @@
 
 **Context**. Namibia's Directorate of Human Resource Development under the Office of the Prime Minister requested UNDP's assistance to digitize their employee manual (called "the pocket guide to being a public servant in Namibia") and enhance the employee experience of onboarding and induction for the public service. This request was addressed by drawing on the internal capacity of UNDP's talent through a platform called Fuel 50 and handled by the Namibia Accelerator Lab, which has good relationships with UNDP's Chief Digital Office and Talent Development Unit at the Office of Human Resources (the latter runs Fuel 50). The government is the largest employer in Namibia; the new employee manual impacts all 125,000 Namibian civil servants.
 
-**Cost to implement** (in USD). About 20,000 USD for catering, workshops and training, plus 5,000 for three international colleagues to attend a two week in person event to conduct the user acceptance training and hand over the developed products / solutions.
+**Cost to implement**. About 20,000 USD for catering, workshops and training, plus 5,000 for three international colleagues to attend a two week in person event to conduct the user acceptance training and hand over the developed products / solutions.
 
-**Time** (in calendar time): Approximately 6 months to a year to implement.
+**Time** : Approximately 6 months to a year to implement.
 
-**People** (team numerosity): Accelerator Lab + 3 Labbers / Digital Advocates from Bosnia Herzegovina, Montenegro, Paraguay and 6 technical staff from the Office of the Prime Minister
+**People** : 3 digital advocates from the Accelerator Labs; 6 technical staff from the Office of the Prime Minister
 
 **Focal point**. Yrika Maritz
 
 **Country and year**. Namibia 2023
 
-**Resources**. Concept not; presentation deck; results of a survey on the perception of the posk
+**Resources**.
 
-
-
-
+- [Concept note](https://undp.sharepoint.com/:w:/s/AcceleratorLabsNetwork/ERXVkRFtLDlIpsn9vPFT6RUBcTnMgd6MZ1sXYwRapv41_A?e=8Zt7lK)
+- [Presentation deck](https://undp.sharepoint.com/:p:/s/AcceleratorLabsNetwork/ER67tT1_N8VEjCCT8aDP93kBomZnGuuB3sj77dK7FiKjYA?e=rvdyqm)
+- [Results of a survey on the perception of the pocket guide](https://undp.sharepoint.com/:b:/s/AcceleratorLabsNetwork/EXzhmrhuI79EuWi7c9hEgkIBE4k94GsfvruNU8X3BIuvpQ?e=V5oboY)

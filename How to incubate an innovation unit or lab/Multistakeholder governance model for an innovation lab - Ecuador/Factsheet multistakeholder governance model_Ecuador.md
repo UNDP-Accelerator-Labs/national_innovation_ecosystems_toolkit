@@ -3,8 +3,7 @@
 
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-
-# A GOVERNANCE MODEL FOR AN INNOVATION UNIT RUN BY DIVERSE ACTORS
+## A GOVERNANCE MODEL FOR AN INNOVATION UNIT RUN BY DIVERSE ACTORS
 
 1. **What it does.**
 
@@ -45,8 +44,6 @@ To use this tool the following team members will be required:
 
 Ana M. Grijalva, Head of Exploration in UNDP Ecuador, [ana.grijalva@undp.org](mailto:ana.grijalva@undp.org)
 
-Short bio:
-
 Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has a vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity and governance.
 
 She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador.
@@ -57,19 +54,9 @@ She is excited to collaborate to the change of the status quo through public and
 
 Ecuador, 2022, Spanish
 
-1. **Tool**
+1. **Resources**
 
-![](RackMultipart20230509-1-txsp4u_html_5b7b139c1d045afd.png)
-
-[Governance model](https://www.undp.org/sites/g/files/zskgke326/files/2022-08/Thinkia%20laboratorio%20ciudadano%20modelo%20gesti%C3%B3n%20%281%29.pdf)
-
-1. **Other related resources**
-2.
-
-| ![](RackMultipart20230509-1-txsp4u_html_14e82a0abfb2da32.png) | ![](RackMultipart20230509-1-txsp4u_html_5483f5319b45661e.png) | ![](RackMultipart20230509-1-txsp4u_html_b9435577bcb59cfb.png) |
-| --- | --- | --- |
-| [Blog](https://www.undp.org/es/ecuador/blog/moving-speed-trust-juicy-fruits-collaboration-and-persistence) | [Flyer](https://www.canva.com/design/DAFZRQOvXuw/kbZhZVoz8BvPKL0PAXfrqA/edit?utm_content=DAFZRQOvXuw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | ToRs for one of the team members |
-
-
-
-
+- [Governance model](https://www.undp.org/sites/g/files/zskgke326/files/2022-08/Thinkia%20laboratorio%20ciudadano%20modelo%20gesti%C3%B3n%20%281%29.pdf) (Spanish)
+- [Blog post](https://www.undp.org/es/ecuador/blog/moving-speed-trust-juicy-fruits-collaboration-and-persistence)
+- [Flyer](https://www.canva.com/design/DAFZRQOvXuw/kbZhZVoz8BvPKL0PAXfrqA/edit?utm_content=DAFZRQOvXuw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (Spanish)
+- [TORs for one of the team members](https://undp.sharepoint.com/:w:/s/AcceleratorLabsNetwork/ES55U-jFlc5EukwPnYm5i-cBJ6D7L59-H5AaSY5jJa6Ddw?e=goJMeE)

@@ -3,8 +3,6 @@
 
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-# Factsheet
-
 ## A course on Ethics and Integrity in public services to embed innovation Practices and Methods through the Ethics and Integrity Champions (Namibia)
 
 **What it does.** Helps embedding into government the practice of social innovation through functional service areas such as HR, Procurement, Security, Finance, Public Relations and Ethics / Integrity Officers.
@@ -27,8 +25,8 @@
 
 **Country and year**. Namibia 2022
 
-**Resources.** Ethics and integrity course concept note and learning report; ethics and integrity course curriculum and slide decks. Blog post: [https://www.undp.org/namibia/blog/experimenting-learning-labs-support-initiatives-around-ethics-and-integrity-public-service-namibia](https://www.undp.org/namibia/blog/experimenting-learning-labs-support-initiatives-around-ethics-and-integrity-public-service-namibia)
+**Resources**
 
-
-
-
+- [Ethics and integrity course concept note and learning report](https://undp.sharepoint.com/:f:/s/AcceleratorLabsNetwork/Eog-w8YSd8JMtrejd7BLVjsBkfo1HGWe8f1MbQs2mh6vgQ?e=YOhjdF) (folder)
+- [Ethics and integrity course curriculum and slide decks](https://undp.sharepoint.com/:f:/s/AcceleratorLabsNetwork/EgahR0adJMdEpE1Z5_jeadoB56O2V7N1lEjZN4C0clJmRA?e=kGgVrW) (folder)
+- [Blog post](https://www.undp.org/namibia/blog/experimenting-learning-labs-support-initiatives-around-ethics-and-integrity-public-service-namibia)

@@ -2,13 +2,11 @@
 
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-# Factsheet
+## Terms of reference to introduce a National Innovation Lab from paper to practice (Viet Nam)
 
-## Terms of reference to take introduce a National Innovation Lab from paper to practice to government counterpart (Viet Nam)
+**What it does.** Deploys the expertise necessary to bootstrapping a National Innovation Center. This includes defining success and performance indicators; assembling and upskilling a public sector innovation task force within the government: and getting it to cut its teeth by hosting some innovation policy debates.
 
-**What it does.** Deploy the expertise necessary to bootstrapping a Viet Nam's National Innovation Center. This includes defining success and performance indicators; assembling and upskilling a public sector innovation task force within the government: and getting it to cut its teeth by hosting some innovation policy debates.
-
-**Value proposition.** By agreeing, across stakeholders, on indicators of success; creating and upskilling a government task force; and testing it as a convener and host of innovation policy debates, we will help the government establish an authoritative platform for innovation policy making.
+**Value proposition.** By unpacking the concept of Public Sector Innovation; agreeing, across relevant stakeholders, on indicators of success; creating and upskilling a government task force; and testing it as a convener and host of innovation policy debates, we will help the government establish an authoritative platform for innovation policy making.
 
 **Why and when to use it**. Bootstrapping a National Innovation Lab is appropriate when the political will and the funding to create a dedicated government unit are in place.
 
@@ -20,15 +18,13 @@
 
 **Time** (in calendar time): 8 months, not counting procurement.
 
-**People** (team numerosity): about 6
+**People** (team numerosity): about 64 (from UNDP) and 10 (from NIC)
 
 **Focal point**. Nguyen Tuan Luong
 
 **Country and year**. Viet Nam, 2022
 
-**Resources** (The ones not meant for publishing are shared in the same folder as the factsheet).
+**Resources**
 
-Terms of reference for a consulting organization
-
-Slide deck, used to present the work plan to the government.
-
+- [Terms of reference](https://undp.sharepoint.com/:w:/s/AcceleratorLabsNetwork/EfLPwEZjWRpEriuwDy6dQT8B32oc2CDf3YbfvMgjTJJweg?e=iKynCO) for a consulting organization
+- [Slide deck](https://undp.sharepoint.com/:p:/s/AcceleratorLabsNetwork/EcQfmZqhrSNKh-R3gHmCvwwBQi39_G7hBorVbe4q40Sd0A?e=aJqnfS), used to present the work plan to the government.

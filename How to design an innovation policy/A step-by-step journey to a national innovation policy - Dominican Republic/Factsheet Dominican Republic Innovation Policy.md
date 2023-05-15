@@ -3,16 +3,13 @@
 
 <img src="../../public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
 
-# Factsheet
-
-
-A step-by-step to draft a National Innovation Policy
+## A step-by-step to draft a National Innovation Policy
 
 **What it does**. Helps you prepare an enabling environment for the government as it drafts its first national innovation policy. This component will provide you with examples of how to prepare the ground to facilitate the drafting of National Innovation Policy, design a theory of change for national innovation policy and give you access to a National Innovation Strategy for Dominican Republic.
 
 **Value proposition for the government or other partner.** Serves as an overarching reference model to identify, structure and prioritize national digital transformation efforts and agendas. Framing for UNDP support.
 
-**Why and when to use it**. This approach is most useful when a government is just starting to move into the innovation space and needs to create a policy from scratch. This situation calls for quickly socializing senior officials to the domain of innovation policy.
+**Why and when to use it**. This approach is most useful when a government is taking its first steps towards taking an active role in the support of a national innovation ecosystem, and no official policy exists yet. This situation calls for quickly socializing senior officials to the domain of innovation policy.
 
 **Known issues and troubleshooting**. This process takes you to a final draft of the policy. Full It is important then to have a follow up for implementation of the strategy (from paper to practice).
 
@@ -42,6 +39,7 @@ The Lab took on the task of designing theory of change for the national innovati
 
 **Country and year** : Dominican Republic 2021
 
-**Resources**. National innovation policy, final draft (Spanish); blog post about supporting National Innovation Policy in the Dominican Republic: [https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic](https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic)
+**Resources**.
 
-
+- National innovation policy, [final draft](https://undp.sharepoint.com/:b:/s/AcceleratorLabsNetwork/EfwM4suU5OVHgwB1X4dC7kcBDyRdl2HyLVnK3gzJk4_r-g?e=5smUvD) (Spanish)
+- [Blog post](https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic)
