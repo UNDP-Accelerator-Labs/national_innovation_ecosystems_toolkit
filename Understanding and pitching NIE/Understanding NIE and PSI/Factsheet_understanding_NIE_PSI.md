@@ -17,3 +17,5 @@ grand_parent: Home
 
 **UNDP's role is to help engineer national innovation ecosystems that prioritize sustainable development goals (SDGs)**. We will help governments understand and capture the opportunity to build national innovation ecosystems that are inclusive and use innovation as an enabler of the SDGs.
 
+![without PSI](public/imgs/NIE1.png) 
+![woth PSI](public/imgs/NIE2.png)
