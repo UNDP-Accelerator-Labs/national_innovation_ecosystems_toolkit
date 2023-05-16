@@ -7,6 +7,12 @@ has_children: true
 
 ---
 
+<style>
+    li {
+        list-style: disc;
+    }
+</style>
+
 ## A step-by-step to draft a National Innovation Policy
 
 **What it does**. Helps you prepare an enabling environment for the government as it drafts its first national innovation policy. This component will provide you with examples of how to prepare the ground to facilitate the drafting of National Innovation Policy, design a theory of change for national innovation policy and give you access to a National Innovation Strategy for Dominican Republic.
