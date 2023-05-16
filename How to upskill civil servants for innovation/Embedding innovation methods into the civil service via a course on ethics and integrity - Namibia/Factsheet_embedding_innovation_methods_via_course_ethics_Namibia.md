@@ -28,6 +28,8 @@ grand_parent: Home
 
 **Country and year**. Namibia 2022
 
+Yrika Vanessa Maritz is the Head of Experimentation at the UNDP Accelerator Lab Namibia. She previously worked at the Office of the Prime Minister in various roles, including Learning and Development Officer and Deputy Director of the Efficiency and Charter Unit.  She also served as the former Director of the Centre for Management and Leadership Development at the National School of Government, NIPAM.  Yrika is a Clinical Psychologist by profession and holds a Master in Public Administration, as well as a PhD in Public and Development Management.  She has been trained in various specialized learning and development models and schools in Tanzania, the UK, Germany, Sweden, Japan, and China. She is an accredited Management Consultant with the CIMC in the UK and registered with the Social Work and Psychology Council of Namibia.
+
 **Resources**
 
 - [Ethics and integrity course concept note and learning report](https://undp.sharepoint.com/:f:/s/AcceleratorLabsNetwork/Eog-w8YSd8JMtrejd7BLVjsBkfo1HGWe8f1MbQs2mh6vgQ?e=YOhjdF) (folder)
