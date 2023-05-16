@@ -23,7 +23,7 @@ They embarked on this journey by understanding the regional landscape of innovat
 
 The workshops aimed at three things:
 
-1. Building consensus on what is the definition of innovation among stakeholders.
+1.  Building consensus on what is the definition of innovation among stakeholders.
 2. Sharing learnings and insights from different countries in the region.
 3. Introduce and practice innovation tools such as stakeholder mapping, issue mapping and portfolio approaches.
 
@@ -45,5 +45,5 @@ The Lab took on the task of designing theory of change for the national innovati
 
 **Resources**.
 
-- National innovation policy, [final draft](https://undp.sharepoint.com/:b:/s/AcceleratorLabsNetwork/EfwM4suU5OVHgwB1X4dC7kcBDyRdl2HyLVnK3gzJk4_r-g?e=5smUvD) (Spanish)
-- [Blog post](https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic)
+-    National innovation policy, [final draft](https://undp.sharepoint.com/:b:/s/AcceleratorLabsNetwork/EfwM4suU5OVHgwB1X4dC7kcBDyRdl2HyLVnK3gzJk4_r-g?e=5smUvD) (Spanish)
+-    [Blog post](https://www.undp.org/es/dominican-republic/blog/supporting-innovation-systemic-change-through-public-policy-case-dominican-republic)
