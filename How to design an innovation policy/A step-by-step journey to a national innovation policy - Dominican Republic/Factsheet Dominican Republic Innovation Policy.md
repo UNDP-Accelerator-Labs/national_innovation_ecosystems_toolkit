@@ -9,7 +9,7 @@ has_children: true
 
 <style>
     li {
-        list-style: disc;
+        list-style: disc !important;
     }
 </style>
 
