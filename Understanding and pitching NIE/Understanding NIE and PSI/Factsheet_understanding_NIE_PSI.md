@@ -5,28 +5,17 @@ grand_parent: Home
 ---
 
 
-## Talking points to argue for the engagement of governments to support their national innovation ecosystem, and to argue for UNDP to encourage its government partners in this sense
+# Understanding National Innovation Ecosystem (NIE) and Public sector innovation (PSI)
 
-**What it does.** Makes a case for getting involved in supporting innovation ecosystems.
+**As part of its mandate, UNDP contributes to building national innovation ecosystems**. Two thirds of UNDP's Accelerator Labs are already supporting national innovation, and most of the remaining third plan to do so.
 
+**We focus on supporting the ecosystem's foundations**. Like biological ecosystems, innovation ecosystems require a nourishing foundation, the equivalent of the coral branches in coral reefs. Built by coral polyps, reefs provide an environment for many species to grow and thrive. We see the role of UNDP and its government partners as analogous to that of coral: focus on building the infrastructure that will make the ecosystem hospitable to the diverse actor on the innovation ecosystem. Ecosystem-building activities are highly context-specific and will differ depending on the conditions on the ground.
 
-**Why and when to use it**. There are two use cases. The first one: when you wish to enlist the support of senior UNDP officials. The second one: when you wish to enlist the support of government officials. You can think of it as a pitch, to be delivered in a meeting or in a carefully crafted email, that opens a conversation.
+**Public sector innovation contributes to the foundations for national innovation ecosystems**. Public sector innovation has evolved from focusing on the innovative, technology-enabled delivery of public services to the practice of using innovation to advance economic and social progress across the board.
 
-**Known issues and troubleshooting**. Risks are low, the worst that can happen is that you get turned down.
+**The public sector is the natural candidate to provide the foundations for national innovation ecosystems**. In many countries, governments play a catalytic role in boosting national innovation ecosystems by making policy, convening key stakeholders, and sustaining key activities.
 
-**Context**. The Global Team in the UNDP Accelerator Labs produced these talking points on the basis of a survey ran in the summer of 2022, to which 84 Labs in as many Country Offices responded. A longer writeup about the results of the survey is available in this toolkit.
+**UNDP's role is to help engineer national innovation ecosystems that prioritize sustainable development goals (SDGs)**. We will help governments understand and capture the opportunity to build national innovation ecosystems that are inclusive and use innovation as an enabler of the SDGs.
 
-**Cost to implement** (in USD): zero
-
-**Time** (in calendar time): negligible.
-
-**People** (team numerosity): 1
-
-**Focal point**. Alberto Cottica and Eduardo Gustale
-
-**Country and year**. Global Team, 2023
-
-**Resources**.
-
-- A slide deck containing one slide each for the two use cases of talking to UNDP officials and talking to government officials.
-- A longer-form essay unpacking the survey on which the talking points are based, as well as its main results.
+![without PSI](public/imgs/NIE1.png) 
+![woth PSI](public/imgs/NIE2.png)
