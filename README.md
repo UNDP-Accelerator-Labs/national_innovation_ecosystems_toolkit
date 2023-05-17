@@ -120,11 +120,16 @@ National Innovation Ecosystem (NIE) Toolkit
                     Public Innovators Program Paraguay
                 </a>
             </li>
+            <li>
+                <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/MOOC%20public%20and%20social%20innovation%20concepts%20and%20tools%20-%20Ecuador/Factsheet">
+                    MOOC public and social innovation concepts and tools - Ecuador
+                </a>
+            </li>
         </ul>
     </li>
     <li>
         <b><a href="./How%20to%20support%20a%20national%20innovation%20ecosystem/About%20supporting%20national%20innovation%20ecosystems">
-            About supporting national innovation ecosystems
+            How to support a national innovation ecosystem
         </a></b>
         <ul>
             <li>
@@ -135,6 +140,11 @@ National Innovation Ecosystem (NIE) Toolkit
             <li>
                 <a href="./How%20to%20support%20a%20national%20innovation%20ecosystem/Innovators%20journey%20-%20Zambia/Factsheet_innovators_journey_Zambia">
                     Innovators journey - Zambia
+                </a>
+            </li>
+            <li>
+                <a href="./How%20to%20support%20a%20national%20innovation%20ecosystem/Online%20and%20collaborative%20mapping%20NIE%20-%20Ecuador/Factsheet">
+                    Online and collaborative mapping NIE - Ecuador
                 </a>
             </li>
         </ul>
