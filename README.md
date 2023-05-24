@@ -169,5 +169,5 @@ Many champions of innovation in the Global South are to be found within UNDP its
 Your feedback is hugely appreciated, even (especially!) if critical. Please direct it to anyone in the curation task force. 
 
 **Curation task force:** Tayo Akinyemi (Global Team), Alberto Cottica (Global Team), Ana Grijalva (Ecuador), Eduardo Gustale (Global Team), Calum Handforth (Chief Digital Office), Nicola Holden (Chief Digital Office). 
-**Contributors:** Jerson Del Rosario (Dominican Republic), Yrika Maritz (Namibia), Nguyen Tuan Luong (Viet Nam). 
 
+**Contributors:** Jerson Del Rosario (Dominican Republic), Caroline Kiarie-Kimondo (Kenya), Yrika Maritz (Namibia), Nampaka Nkumbula (Zambia), Nguyen Tuan Luong (Viet Nam). 
