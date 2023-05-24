@@ -121,7 +121,7 @@ National Innovation Ecosystem (NIE) Toolkit
                 </a>
             </li>
 			-->
-            <<li>
+            <li>
                 <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/MOOC%20public%20and%20social%20innovation%20concepts%20and%20tools%20-%20Ecuador/Factsheet">
                     MOOC public and social innovation concepts and tools - Ecuador
                 </a>
