@@ -173,4 +173,4 @@ Your feedback is hugely appreciated, even (especially!) if critical. Please dire
 
 **Contributors:** Jerson Del Rosario (Dominican Republic), Caroline Kiarie-Kimondo (Kenya), Yrika Maritz (Namibia), Nampaka Nkumbula (Zambia), Nguyen Tuan Luong (Viet Nam). 
 
-**Technical support:** Adedapo Aderemi, Jeremy Boy (Global Team)
+**Technical support:** Adedapo Aderemi, Jeremy Boy (Global Team).
