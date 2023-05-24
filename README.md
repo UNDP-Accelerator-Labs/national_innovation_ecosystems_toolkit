@@ -115,17 +115,17 @@ National Innovation Ecosystem (NIE) Toolkit
                     Embedding innovation methods into the civil service via a course on ethics and integrity - Namibia
                 </a>
             </li>
-            <li>
+            <!-- <li>
                 <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/Public Innovators%20Program%20Paraguay/Factsheet">
                     Public Innovators Program Paraguay
                 </a>
             </li>
-            <!-- <li>
+			-->
+            <<li>
                 <a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/MOOC%20public%20and%20social%20innovation%20concepts%20and%20tools%20-%20Ecuador/Factsheet">
                     MOOC public and social innovation concepts and tools - Ecuador
                 </a>
-            </li> 
-			-->
+            </li>
         </ul>
     </li>
     <li>
