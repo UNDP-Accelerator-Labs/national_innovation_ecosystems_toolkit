@@ -5,14 +5,12 @@ parent: Home
 
 ## How to use this toolkit
 
-### Glossary
-
-We use the metaphor of the toolkit to emphasize the operational, enabling nature of the work you are reading right now. The following words are used throughout it a metaphorical sense:
+We use the metaphor of the toolkit to emphasize the operational, enabling nature of the work you are reading right now. 
 
 - The **Toolkit** is a set of resources and their documentation materials meant to help people and organizations who want to support innovation ecosystems.
-- The toolkit contains **tools**. Each tool consists of one or more **resources**. Each resourcecomes with a **factsheet**.
-  - A resource is a document that can be re-used, in part or as a whole. Examples are talking points or slide decks to argue for supporting innovation ecosystems; workplans and lists of deliverables to achieve operational status for a government innovation unit; agendas for workshops meant to socialize key concepts around innovation with senior civil servants; curricula for courses on key skills useful to employees of an innovation unit.
-  - A factsheet is a resource's metadata. It explains what the resource is good for; what it is not good for; the context in which it was produced; how much money and time you will need to deploy it, and so on. You will also find a reference to the person or people who created the resource in the first place.
+- The toolkit contains **tools**. Each tool consists of one or more **resources**, documented in a page of this website.
+  - A resource is a document that can be re-used, in part or as a whole. Examples are talking points or slide decks to argue for supporting innovation ecosystems; workplans and lists of deliverables to achieve operational status for a government innovation unit; agendas for workshops meant to socialize key concepts around innovation with senior civil servants; curricula for courses on key skills useful to employees of an innovation unit. **Resources are accessible via live links from the factsheets, with a UNDP corporate login**.
+  - Website pages contain resources metadata, accessible to everyone. Each page is dedicated to one tool, and explains what the tool is good for; what it is *not* good for; the context in which it was produced; how much money and time you will need to deploy it, and so on. You will also find a reference to the person or people who created the resource in the first place. 
 
 ### Values and attitude
 
