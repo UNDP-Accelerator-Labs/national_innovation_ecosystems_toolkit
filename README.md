@@ -28,7 +28,7 @@ National Innovation Ecosystem (NIE) Toolkit
 					</a>
 	        	</li>	        	
 				<li>
-	            	<a href="./values">
+	            	<a href="./Getting%20started/values">
 						Values 
 					</a>
 	        	</li>
