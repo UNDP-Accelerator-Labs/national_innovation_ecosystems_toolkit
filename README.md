@@ -30,7 +30,7 @@ National Innovation Ecosystem (NIE) Toolkit
 	    	</ul>
 	</details>
     <details>
-		<summary> 2. Understanding and pitching National Innovation Ecosystem (NIE)</summary>
+		<summary>2. Understanding and pitching National Innovation Ecosystem (NIE)</summary>
       		<ul>
         		<li>
             		<a href="./Understanding%20and%20pitching%20NIE/Understanding%20NIE%20and%20PSI/Factsheet_understanding_NIE_PSI">Understanding National Innovation Ecosystem (NIE) and Public sector innovation (PSI) </a>
