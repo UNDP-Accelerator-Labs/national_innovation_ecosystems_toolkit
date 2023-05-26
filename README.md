@@ -11,7 +11,7 @@ National Innovation Ecosystem (NIE) Toolkit
 <br/>
 
 <!-- TABLE OF CONTENTS -->
-<details open>
+<details>
   <summary>	TABLE OF CONTENTS
   </summary>
   	<details>
