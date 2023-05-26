@@ -52,6 +52,7 @@ National Innovation Ecosystem (NIE) Toolkit
             	</li>
         	</ul>
 	</details>
+	<details>
 		<summary>4. How to incubate an innovation unit or lab</summary>
         	<ul>
             	<li>
@@ -71,6 +72,7 @@ National Innovation Ecosystem (NIE) Toolkit
             	</li>
         	</ul>
 	</details>
+	<details>
     	<summary>5. How to upskill civil servants for innovation</summary>
         	<ul>
             	<li>
@@ -111,6 +113,7 @@ National Innovation Ecosystem (NIE) Toolkit
             	</li>
         	</ul>
     </details>
+	<details>
 		<summary>6. How to support a national innovation ecosystem</summary>
         	<ul>
             	<li>
