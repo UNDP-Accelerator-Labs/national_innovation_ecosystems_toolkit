@@ -11,8 +11,10 @@ National Innovation Ecosystem (NIE) Toolkit
 <br/>
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>### **Table of Contents**</summary>
+<details open>
+  <summary>
+	  ### **Table of Contents**
+  </summary>
   	<details>
 		<summary>1. Getting started</summary>
 	    	<ul>
