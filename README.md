@@ -26,6 +26,11 @@ National Innovation Ecosystem (NIE) Toolkit
 	            	<a href="./Getting%20started/how-to-use-the-toolkit">
 						How to use this toolkit 
 					</a>
+	        	</li>	        	
+				<li>
+	            	<a href="./values">
+						Values 
+					</a>
 	        	</li>
 	    	</ul>
 	</details>
