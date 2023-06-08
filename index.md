@@ -106,7 +106,7 @@ National Innovation Ecosystem (NIE) Toolkit
             	</li>
                 <li>
                 	<a href="./How%20to%20upskill%20civil%20servants%20for%20innovation/Public Innovators%20Program%20Paraguay/Factsheet_public_innovators_programme_Paraguay">
-                    Public Innovators Programme Paraguay
+                    Public Innovators Programme - Paraguay
                 </a>
                 </li>
             	<li>
