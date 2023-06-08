@@ -29,8 +29,8 @@ One of the first results of the collaboration among the various actors running _
 
 **People**. To run this course and make it available to the public the following team members will be required:
 
-1. A course leader who strategizes the use of the course and generates the needed partnerships.
-2. A course administrator in charge of solving all enquiries related to the platform and managing the registration process.
+* 1. A course leader who strategizes the use of the course and generates the needed partnerships.
+* 2. A course administrator in charge of solving all enquiries related to the platform and managing the registration process.
 
 **Focal point**. Ana M. Grijalva, Head of Exploration in UNDP Ecuador, [ana.grijalva@undp.org](mailto:ana.grijalva@undp.org)
 
