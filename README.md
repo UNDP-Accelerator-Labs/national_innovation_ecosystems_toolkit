@@ -1,8 +1,4 @@
----
-title: Home
-layout: default
-has_children: true
----
+
 
 <h2>
 National Innovation Ecosystem (NIE) Toolkit
