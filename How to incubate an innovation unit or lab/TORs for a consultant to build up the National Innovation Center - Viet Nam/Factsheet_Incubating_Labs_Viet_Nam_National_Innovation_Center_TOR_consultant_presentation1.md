@@ -2,7 +2,10 @@
 title: TORs for a consultant to build up the National Innovation Center - Viet Nam
 parent: How to incubate an innovation unit or lab
 layout: default
-grand_parent: Home
+grand_parent: Getting Started
+# has_children: true
+
+menu_parent: 4
 
 ---
 

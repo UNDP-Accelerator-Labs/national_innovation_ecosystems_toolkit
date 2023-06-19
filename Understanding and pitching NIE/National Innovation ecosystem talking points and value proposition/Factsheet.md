@@ -1,12 +1,11 @@
 ---
 title: National Innovation ecosystem toolkit
 parent: Understanding and pitching NIE
-grand_parent: Home
+grand_parent: Getting Started
+layout: default
+
+menu_parent: 2
 ---
-
-<!-- [Back to Home](../../README.md) -->
-
-
 
 
 ## Talking points to argue for the engagement of governments to support their national innovation ecosystem, and to argue for UNDP to encourage its government partners in this sense

@@ -1,8 +1,11 @@
 ---
 title: How to design an innovation policy
 layout: default
-parent: Home
+parent: Getting Started
 has_children: true
+
+menu: 3
+nav_order: 3
 ---
 
 ## About designing an innovation policy

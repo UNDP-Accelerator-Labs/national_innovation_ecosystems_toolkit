@@ -12,155 +12,26 @@
     <link rel="icon" type="image/x-icon" href="/public/imgs/favicon.ico">
     <link rel="manifest" href="/public/imgs/site.webmanifest">
 
-{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
-    <style>
-      body {
-       font-family: "Noto Sans", sans-serif; /* Primary font */
-       margin: 10px;
-       padding: 10px;
-      }
-
-      ol li {
-        list-style: number !important;
-      }
-
-      ul li{
-        list-style: disc !important;
-      }
-
-      nav {
-        display: block;
-      }
-
-      .breadcrumb-nav {
-        background-color: transparent;
-        padding: 10px;
-      }
-
-      .breadcrumb-nav-list {
-        padding-left: 0;
-        margin-bottom: 0.75rem;
-        list-style: none;
-        margin-left: -2.5rem;
-      }
-
-      .breadcrumb-nav-list-item {
-        display: table-cell;
-        margin-right: 5px;
-        font-size: 12px !important;
-      }
-
-      .breadcrumb-nav-list-item::after {
-        display: inline-block;
-        margin-right: 0.5rem;
-        margin-left: 0.5rem;
-        color: #959396;
-        content: "/";
-      }
-
-      .breadcrumb-nav-list-item a:not([class]) {
-          text-decoration: underline;
-          text-decoration-color: #eeebee;
-          text-underline-offset: 2px;
-      }
-
-      .breadcrumb-nav-list-item a {
-          color: #7253ed;
-          text-decoration: none;
-          background-color: transparent;
-      }
-
-      .breadcrumb-nav-list-item a:hover {
-        text-decoration: underline;
-      }
-
-      .side-bar {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 250px;
-        height: 100%;
-        background-color: #f0f0f0;
-        overflow-y: auto;
-      }
-
-      .site-header {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        padding: 10px;
-      }
-
-      .site-title {
-        font-size: 24px;
-        font-weight: bold;
-        color: #333333;
-      }
-
-      .site-button {
-        display: block;
-        width: 40px;
-        height: 40px;
-      }
-
-      .icon {
-        fill: #333333;
-      }
-
-      .site-nav {
-        margin-top: 20px;
-      }
-
-      .nav-list {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-      }
-
-      .nav-list-item {
-        margin-bottom: 10px;
-      }
-
-      .nav-list-link {
-        display: block;
-        padding: 10px;
-        text-decoration: none;
-      }
-
-      .nav-list-link:hover {
-        background-color: #e0e0e0;
-      }
-
-      .external {
-        color: #666666;
-      }
-    </style>
-
-    {% include head-custom.html %}
   </head>
   <body>
+    {% include components/sidebar.html %}
+
+    {% include components/header.html %}
 
     {% include components/partial-header.html %}
-    
-    <!-- {% include components/sidebar.html %} -->
 
     <div class="container-lg px-3 my-5 markdown-body">
 
-      <img src="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
-
       {% include components/breadcrumbs.html %}
 
-      <!-- {% if site.title and site.title != page.title %} -->
-      <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1> -->
-      <!-- {% endif %} -->
 
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. {% github_edit_link "Improve this page" %}.
+        This site is open source. Improve this page.
       </div>
       {% endif %}
 
@@ -168,7 +39,8 @@
     </div>
 
     {% include components/footer.html %}
-    
+  <!-- </div> -->
+  
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     <script type='javascript'>

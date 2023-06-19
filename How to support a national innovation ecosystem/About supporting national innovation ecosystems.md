@@ -1,8 +1,11 @@
 ---
 title: How to support a national innovation ecosystem
 layout: default
-parent: Home
+parent: Getting Started
 has_children: true
+
+menu: 6
+nav_order: 6
 ---
 
 ## About supporting national innovation ecosystems

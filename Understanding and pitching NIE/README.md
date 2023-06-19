@@ -1,8 +1,10 @@
 ---
 title: Understanding and pitching NIE
 layout: default
-parent: Home
 has_children: true
+menu: 2
+
+nav_order: 2
 ---
 
 ## Understanding and pitching national innovation ecosystems 

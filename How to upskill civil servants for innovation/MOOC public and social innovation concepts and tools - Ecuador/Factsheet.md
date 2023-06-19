@@ -2,7 +2,9 @@
 title: MOOC public and social innovation concepts and tools - Ecuador
 parent: How to upskill civil servants for innovation
 layout: default
-grand_parent: Home
+grand_parent: Getting Started
+
+menu_parent: 5
 
 ---
 

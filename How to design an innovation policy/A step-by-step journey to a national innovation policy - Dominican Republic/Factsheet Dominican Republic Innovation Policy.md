@@ -2,9 +2,10 @@
 title: A step-by-step journey to a national innovation policy - Dominican Republic
 parent: How to design an innovation policy
 layout: default
-grand_parent: Home
+# grand_parent: Getting Started
 has_children: true
 
+menu_parent: 3
 ---
 
 ## A step-by-step to draft a National Innovation Policy

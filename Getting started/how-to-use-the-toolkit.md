@@ -1,6 +1,10 @@
 ---
 title: How to use the toolkit
-parent: Home
+parent: Getting Started
+layout: default
+nav_order: 1
+
+menu_parent: 1
 ---
 
 ## How to use this toolkit

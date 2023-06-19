@@ -1,3 +1,12 @@
+---
+title: Values and attitude
+parent: Getting Started
+layout: default
+nav_order: 2
+
+menu_parent: 1
+---
+
 ## Values and attitude
 
 ### Values
