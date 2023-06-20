@@ -22,7 +22,7 @@
                 <ul class="submenu-list">
                   {% for submenu_page in submenu_pages %}
                     <li class="submenu-item">
-                      <a class="submenu-link" href="{{ submenu_page.url }}">{{ submenu_page.title }}</a>
+                      <a class="submenu-link" href="{{ site.baseurl }}{{ submenu_page.url }}">{{ submenu_page.title }}</a>
                     </li>
                   {% endfor %}
                 </ul>
