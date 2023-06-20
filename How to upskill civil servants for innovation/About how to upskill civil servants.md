@@ -1,8 +1,11 @@
 ---
 title: How to upskill civil servants for innovation
 layout: default
-parent: Home
+parent: Getting Started
 has_children: true
+
+menu: 5
+nav_order: 5
 ---
 
 ## About upskilling civil servants

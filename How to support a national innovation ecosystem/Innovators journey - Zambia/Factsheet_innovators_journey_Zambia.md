@@ -2,7 +2,9 @@
 title: Innovators journey - Zambia
 parent: How to support a national innovation ecosystem
 layout: default
-grand_parent: Home
+grand_parent: Getting Started
+
+menu_parent: 6
 
 ---
 

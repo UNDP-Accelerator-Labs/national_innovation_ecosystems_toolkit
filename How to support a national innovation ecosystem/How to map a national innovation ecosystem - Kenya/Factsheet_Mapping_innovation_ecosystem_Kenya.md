@@ -2,7 +2,9 @@
 title: How to map a national innovation ecosystem - Kenya
 parent: How to support a national innovation ecosystem
 layout: default
-grand_parent: Home
+grand_parent: Getting Started
+
+menu_parent: 6
 
 ---
 

@@ -1,7 +1,10 @@
 ---
 title: Understanding National Innovation Ecosystem (NIE) and Public sector innovation (PSI)
 parent: Understanding and pitching NIE
-grand_parent: Home
+grand_parent: Getting Started
+layout: default
+
+menu_parent: 2
 ---
 
 

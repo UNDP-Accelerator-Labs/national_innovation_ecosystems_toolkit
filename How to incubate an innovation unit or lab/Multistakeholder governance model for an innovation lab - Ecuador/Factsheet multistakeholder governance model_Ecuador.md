@@ -2,9 +2,10 @@
 title: Multistakeholder governance model for an innovation lab - Ecuador
 parent: How to incubate an innovation unit or lab
 layout: default
-grand_parent: Home
-has_children: true
+grand_parent: Getting Started
+# has_children: true
 
+menu_parent: 4
 ---
 
 ## A GOVERNANCE MODEL FOR AN INNOVATION UNIT RUN BY DIVERSE ACTORS

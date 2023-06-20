@@ -1,8 +1,11 @@
 ---
 title: How to incubate an innovation unit or lab
 layout: default
-parent: Home
+parent: Getting Started
 has_children: true
+
+menu: 4
+nav_order: 4
 ---
 
 ## About incubating an innovation unit or lab

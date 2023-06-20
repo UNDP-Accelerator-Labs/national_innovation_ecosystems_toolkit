@@ -1,69 +1,47 @@
 <div class="side-bar">
-    <div class="site-header">
-      <a href="{{ '/' | relative_url }}" class="site-title lh-tight">{% include components/title.html %}</a>
-      <a href="#" id="menu-button" class="site-button">
-        <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
-      </a>
-    </div>
-    <nav aria-label="Main" id="site-nav" class="site-nav">
-      {% assign pages_top_size = site.html_pages
-            | where_exp:"item", "item.title != nil"
-            | where_exp:"item", "item.parent == nil"
-            | where_exp:"item", "item.nav_exclude != true"
-            | size %}
-      {% if pages_top_size > 0 %}
-        {% include components/nav.html pages=site.html_pages key=nil %}
-      {% endif %}
-      {%- if site.nav_external_links -%}
-        <ul class="nav-list">
-          {%- for node in site.nav_external_links -%}
-            <li class="nav-list-item external">
-              <a href="{{ node.url | absolute_url }}" class="nav-list-link external">
-                {{ node.title }}
-                {% unless node.hide_icon %}<svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>{% endunless %}
-              </a>
-            </li>
-          {%- endfor -%}
-        </ul>
-      {%- endif -%}
-      {% if site.just_the_docs.collections %}
-        {% assign collections_size = site.just_the_docs.collections | size %}
-        {% for collection_entry in site.just_the_docs.collections %}
-          {% assign collection_key = collection_entry[0] %}
-          {% assign collection_value = collection_entry[1] %}
-          {% assign collection = site[collection_key] %}
-          {% if collection_value.nav_exclude != true %}
-            {% if collections_size > 1 or pages_top_size > 0 %}
-              {% if collection_value.nav_fold == true %}
-                <ul class="nav-list nav-category-list">
-                  <li class="nav-list-item{% if page.collection == collection_key %} active{% endif %}">
-                    {%- if collection.size > 0 -%}
-                    <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
-                    {%- endif -%}
-                    <div class="nav-category">{{ collection_value.name }}</div>
-                    {% include components/nav.html pages=collection key=collection_key %}
-                  </li>
+  <div class="site-header">
+    <a href="{{ '/' | relative_url }}" class="site-title lh-tight">
+      <img src="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" width="150" alt="undp_accelerator_labs_logo">
+    </a>
+    <a href="#" id="menu-button" class="site-button">
+      <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+    </a>
+  </div>
+  <nav aria-label="Main" id="site-nav" class="site-nav">
+    <div class="sidebar">
+      <ul class="menu-list">
+        {% assign ordered_pages = site.pages | sort: 'nav_order' %}
+        {% for page in ordered_pages %}
+          {% if page.menu %}
+            <li class="menu-item{% if page.has_children %} collapsed{% endif %}">
+              <a class="menu-link" href="#">{{ page.title }}</a>
+              <i class="menu-icon fa fa-chevron-left"></i>
+              
+              {% assign submenu_pages = site.pages | where: 'menu_parent', page.menu %}
+              {% if submenu_pages.size > 0 %}
+                <ul class="submenu-list">
+                  {% for submenu_page in submenu_pages %}
+                    <li class="submenu-item">
+                      <a class="submenu-link" href="{{ submenu_page.url }}">{{ submenu_page.title }}</a>
+                    </li>
+                  {% endfor %}
                 </ul>
-              {% else %}
-                <div class="nav-category">{{ collection_value.name }}</div>
-                {% include components/nav.html pages=collection key=collection_key %}
               {% endif %}
-            {% else %}
-              {% include components/nav.html pages=collection key=collection_key %}
-            {% endif %}
+            </li>
           {% endif %}
         {% endfor %}
-      {% endif %}
-    </nav>
-  
-    {% capture nav_footer_custom %}
-      {%- include components/nav_footer_custom.html -%}
-    {% endcapture %}
-    {% if nav_footer_custom != "" %}
-      {{ nav_footer_custom }}
-    {% else %}
-      <footer class="site-footer">
-        &copy; 2023 United Nations Development Programme
-      </footer>
-    {% endif %}
-  </div>
+      </ul>
+    </div>
+  </nav>
+
+  <script>
+    // Add click event listeners to menu items
+    var menuItems = document.querySelectorAll('.sidebar .menu-item');
+    menuItems.forEach(function(menuItem) {
+      menuItem.addEventListener('click', function() {
+        this.classList.toggle('collapsed');
+        this.classList.toggle('expanded');
+      });
+    });
+  </script>
+</div>

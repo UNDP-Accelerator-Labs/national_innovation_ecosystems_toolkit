@@ -2,7 +2,9 @@
 title: Data-to-policy navigator - Chief Digital Office
 parent: How to upskill civil servants for innovation
 layout: default
-grand_parent: Home
+grand_parent: Getting Started
+
+menu_parent: 5
 
 ---
 
