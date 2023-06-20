@@ -6727,7 +6727,7 @@ ol li {
 
   .breadcrumb-nav {
     background-color: transparent;
-    padding: 10px;
+    padding: 0 10px;
   }
 
   .breadcrumb-nav-list {
@@ -6758,7 +6758,7 @@ ol li {
   }
 
   .breadcrumb-nav-list-item a {
-      color: #7253ed;
+      color: #006eb5;
       text-decoration: none;
       background-color: transparent;
   }
@@ -6803,7 +6803,7 @@ ol li {
 
   .header {
     background-color: #005687;
-    padding: 20px;
+    padding: 10px 20px;
     margin: 0;
     margin-left: 270px;
     color: #fff;
