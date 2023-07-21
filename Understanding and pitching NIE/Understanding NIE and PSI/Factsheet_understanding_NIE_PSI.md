@@ -1,14 +1,15 @@
 ---
-title: Understanding National Innovation Ecosystem (NIE) and Public sector innovation (PSI)
-parent: Understanding and pitching NIE
+title: Understanding National Innovation Ecosystems (NIEs) and Public sector innovation (PSI)
+parent: Understanding and pitching NIEs
 grand_parent: Getting Started
 layout: default
+submenu_order: 1
 
 menu_parent: 2
 ---
 
 
-# Understanding National Innovation Ecosystem (NIE) and Public sector innovation (PSI)
+# Understanding National Innovation Ecosystems (NIEs) and Public sector innovation (PSI)
 
 **As part of its mandate, UNDP contributes to building national innovation ecosystems**. Two thirds of UNDP's Accelerator Labs are already supporting national innovation, and most of the remaining third plan to do so.
 
