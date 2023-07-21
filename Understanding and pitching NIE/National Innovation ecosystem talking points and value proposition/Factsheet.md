@@ -1,14 +1,15 @@
 ---
-title: National Innovation ecosystem toolkit
-parent: Understanding and pitching NIE
+title: Pitching for NIEs and PSI
+parent: Understanding and pitching NIEs
 grand_parent: Getting Started
 layout: default
+submenu_order: 2
 
 menu_parent: 2
 ---
 
 
-## Talking points to argue for the engagement of governments to support their national innovation ecosystem, and to argue for UNDP to encourage its government partners in this sense
+## Talking points and slide deck to pitch for supporting National Innovation Ecosystems
 
 **What it does.** Makes a case for getting involved in supporting innovation ecosystems.
 

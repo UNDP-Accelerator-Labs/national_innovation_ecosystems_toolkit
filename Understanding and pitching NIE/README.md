@@ -1,5 +1,5 @@
 ---
-title: Understanding and pitching NIE
+title: Understanding and pitching NIEs
 layout: default
 has_children: true
 menu: 2

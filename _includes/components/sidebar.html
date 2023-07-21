@@ -17,7 +17,7 @@
               <a class="menu-link" href="#">{{ page.title }}</a>
               <i class="menu-icon fa fa-chevron-left"></i>
               
-              {% assign submenu_pages = site.pages | where: 'menu_parent', page.menu %}
+              {% assign submenu_pages = site.pages | where: 'menu_parent', page.menu | sort: 'submenu_order' %}
               {% if submenu_pages.size > 0 %}
                 <ul class="submenu-list">
                   {% for submenu_page in submenu_pages %}
