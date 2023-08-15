@@ -28,7 +28,6 @@ menu_parent: 6
 **People** (team numerosity): 3 Accelerator Labs staff
 
 **Focal point**. Caroline Kiarie
- Caroline Kiarie-Kimondo is the Head of Exploration, Kenya Accelerator Lab. Caroline is a social impact strategist with a passion for framing and reframing positive social impact narratives. She has 15 years of experience in philanthropy, movement building, social innovation, and strategic communications. She's also skilled in leadership coaching, human-centered design thinking, decision architecture, agile project management, and adaptive leadership.
 
 **Country and year**. Kenya, December 2021 – December 2022
 

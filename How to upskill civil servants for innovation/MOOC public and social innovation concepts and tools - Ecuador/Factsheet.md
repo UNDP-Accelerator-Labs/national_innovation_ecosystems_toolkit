@@ -34,13 +34,7 @@ One of the first results of the collaboration among the various actors running _
 * A course leader who strategizes the use of the course and generates the needed partnerships.
 * A course administrator in charge of solving all enquiries related to the platform and managing the registration process.
 
-**Focal point**. Ana M. Grijalva, Head of Exploration in UNDP Ecuador, [ana.grijalva@undp.org](mailto:ana.grijalva@undp.org)
-
-Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity, and governance.
-
-She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador.
-
-She is excited to collaborate to the change of the status quo through public and social innovation, data analysis, technology, and civic engagement.
+**Focal point**. Ana Grijalva
 
 **Country, year, and language**. Ecuador, 2022, Spanish
 
