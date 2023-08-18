@@ -1,0 +1,27 @@
+Jane-doe:
+  name: Jane Doe
+  bio: This is Jane Doe bio
+  email: Jane.doe@email.com
+  # picture_dir: '/img/contributors/Jane.png'
+  organization: UNDP Accelerator Labs
+  twitter: #
+  github: https://github.com/this-pama
+  linkedin: https://www.linkedin.com/
+
+Jake-doe:
+  name: Jake Doe
+  bio: This is Jake Doe bio
+  email: Jake.doe@email.com
+  # picture_dir: '/img/contributors/Jake.png'
+  twitter: #
+  github: https://github.com/this-pama
+  linkedin: https://www.linkedin.com/
+
+John-doe:
+  name: John Doe
+  bio: This is John Doe bio
+  email: John.doe@email.com
+  # picture_dir: '/img/contributors/John.png'
+  twitter: #
+  github: https://github.com/this-pama
+  linkedin: https://www.linkedin.com/

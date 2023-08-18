@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="card">
+    {% if page.contributor.picture_dir %}
+    <img src="{{ page.contributor.picture_dir }}" alt="{{ page.contributor.name }}" class="profile-image">
+    {% else %}
+    <img src="{{ site.baseurl }}/public/imgs/contributors/blank.png" alt="Blank" class="profile-image">
+    {% endif %}
+    <h1>{{ page.contributor.name }}</h1>
+    <p class="title">{{ page.contributor.title }}</p>
+    <p>{{ page.contributor.organization }}</p>
+    <p>{{ page.contributor.bio }}</p>
+    <a class="profile-link" target="_blank" href="{{ page.contributor.email }}"><i class="fa fa-email"></i></a>
+    <a class="profile-link" target="_blank" href="{{ page.contributor.twitter }}"><i class="fa fa-twitter"></i></a>
+    <a class="profile-link" target="_blank" href="{{ page.contributor.linkedin }}"><i class="fa fa-linkedin"></i></a>
+    <a class="profile-link" target="_blank" href="{{ page.contributor.github }}"><i class="fa fa-github"></i></a>
+    <p>
+        <button>
+            <a href="mailto:{{ page.contributor.email }}" style="color: white;">
+                Contact 
+            </a>
+        </button>
+    </p>
+</div>

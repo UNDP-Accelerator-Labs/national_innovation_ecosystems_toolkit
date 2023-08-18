@@ -1,4 +1,4 @@
-<div class="side-bar">
+<div class="side-bar" style="background-color: {{ site.data.site_styles.sidebar_styles.background_color }}; ">
   <div class="site-header">
     <a href="{{ '/' | relative_url }}" class="site-title lh-tight">
       <img src="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" width="150" alt="undp_accelerator_labs_logo">
@@ -10,14 +10,17 @@
   <nav aria-label="Main" id="site-nav" class="site-nav">
     <div class="sidebar">
       <ul class="menu-list">
-        {% assign ordered_pages = site.pages | sort: 'nav_order' %}
+        {% assign ordered_pages = site.pages | sort: 'menu' %}
         {% for page in ordered_pages %}
           {% if page.menu %}
-            <li class="menu-item{% if page.has_children %} collapsed{% endif %}">
-              <a class="menu-link" href="#">{{ page.title }}</a>
+            <li class="menu-item{% if page.has_children %} collapsed {% endif %}">
+              <a class="menu-link" href="{% if page.has_children == false %} {{ site.baseurl }}{{ page.url }} {% else %} # {% endif %}">{{ page.title }}</a>
+              {% if page.has_children == false  %}
+              {% else %}
               <i class="menu-icon fa fa-chevron-left"></i>
-              
-              {% assign submenu_pages = site.pages | where: 'menu_parent', page.menu | sort: 'submenu_order' %}
+              {% endif %}
+ 
+              {% assign submenu_pages = site.pages | where: 'menu_parent', page.menu | sort: 'nav_order' %}
               {% if submenu_pages.size > 0 %}
                 <ul class="submenu-list">
                   {% for submenu_page in submenu_pages %}

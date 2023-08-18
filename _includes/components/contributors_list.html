@@ -1,0 +1,34 @@
+<div class="row">
+    {% for contributor_data in site.data.contributors %}
+      {% assign contributor_key = contributor_data[0] %}
+      {% assign contributor = contributor_data[1] %}
+      <div class="column">
+        <div class="card">
+          {% if contributor.picture_dir %}
+            <img src="{{ contributor.picture_dir }}" alt="{{ contributor.name }}" class="profile-image">
+          {% else %}
+            <img src="{{ site.baseurl }}/public/imgs/contributors/blank.png" alt="Blank" class="profile-image">
+          {% endif %}
+          <div class="card-container">
+            <h2>{{ contributor.name }}</h2>
+            <p class="title">{{ contributor.organization }}</p>
+            <p>{{ contributor.bio }}</p>
+            <!-- <p>{{ contributor.email }}</p> -->
+            <a class="profile-link" target="_blank" href="{{ contributor.email }}"><i class="fa fa-email"></i></a>
+            <a class="profile-link" target="_blank" href="{{ contributor.twitter }}"><i class="fa fa-twitter"></i></a>
+            <a class="profile-link" target="_blank" href="{{ contributor.linkedin }}"><i class="fa fa-linkedin"></i></a>
+            <a class="profile-link" target="_blank" href="{{ contributor.github }}"><i class="fa fa-github"></i></a>
+            
+            <p>
+                <button>
+                    <a href="mailto:{{ contributor.email }}" style="color: white;">
+                        Contact 
+                    </a>
+                </button>
+            </p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  
