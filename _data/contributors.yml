@@ -12,19 +12,38 @@ Jerson-del-Rosario:
 Ana-Grijalva:
   name: Ana M. Grijalva
   bio: Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has a vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity and governance. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador. She is excited to collaborate to the change of the status quo through public and social innovation, data analysis, technology, and civic engagement.
-  job_title: Head of Exploration, UNDP Ecuador Accelerator Lab
+  job_title: Head of Exploration
+	organization: UNDP Ecuador Accelerator Lab
   email: ana.grijalva@undp.org
   picture_dir: '/imgs/contributors/ana_grijalva.png'
   twitter: #
-  linkedin: https://www.linkedin.com/in/ana-grijalva/
+  linkedin: https://www.linkedin.com/in/ana-grijalva 
+	
+Nguyen-Tuan-Luong:
+	name: Nguyen Tuan Luong
+	email: nguyen.tuan.luong@undp.org
+	job_title: Head of Solutions Mapping
+	organization: UNDP Viet Nam Accelerator Lab
+	bio: | 
+		Luong grew up around the world as a “third culture kid” and now sees himself as a global citizen. Having worked with the Innovation Partnership Programme between Finland and Vietnam, and contributed towards developing a thriving innovation ecosystem in Vietnam, Luong brings expertise in public-private partnerships. He is passionate about helping changemaker communities such as Knowmads Hanoi and Art of Hosting in creating space for meaningful conversations. 
+		Luong is a Swedish Institute alumnus and graduated in Master’s in strategic leadership toward Sustainability from Sweden. By combining his cross-cultural understanding, tech-savviness, and business sense, he hopes to facilitate organizations transformation toward greater sustainability, collaboration and creativity. 
+		In his spare time, you can find him learning and practicing his hobbies. He is always excited to meet new people and looks forward to listening and sharing good stories with them. 
+  picture_dir: '/imgs/contributors/nguyen_luong.png'
+  twitter: #
+  linkedin: https://www.linkedin.com/in/luongn/
 
 Sandy-Ramirez:
   name: Sandy Ramirez
   bio: Innovation and digital business specialist. Sandy has worked in promoting and developing policies to strengthen MSMEs and before joining the lab was the coordinator of Digital Economy for the Ministry of Industry, Commerce and MSMEs. Sandy has coordinated the execution of cooperation projects to promote innovation with governments of Taiwan, Korea and Spain. Sandy holds a masters degree in Digital Business and Digital Marketing as well as a masters in Business Administration. 
   email: sandy.ramirez@undp.org
   job_title: Head of Exploration
-  picture_dir: '/imgs/contributors/sandy_ramirez.jpg
+	organization: UNDP Dominican Republic Accelerator Lab
+  picture_dir: '/imgs/contributors/sandy_ramirez.jpg'
   twitter: #
-  linkedin: https://www.linkedin.com/in/sandyramirezp/
+  linkedin: https://www.linkedin.com/in/sandyramirezp
+	
+
   
-  
+
+	
+	
