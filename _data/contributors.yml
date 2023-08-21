@@ -2,7 +2,7 @@ Jerson del Rosario:
   name: Jerson del Rosario
   # bio: This is Jane Doe bio
   email: jerson@delrosario.undp.org
-  picture_dir: '/img/contributors/jerson_del_rosario.png'
+  picture_dir: '/imgs/contributors/jerson_del_rosario.png'
   job title: Head of Solutions Mapping
   organization: UNDP Dominican Republic Accelerator Lab
   twitter: #
@@ -12,7 +12,7 @@ Jake-doe:
   name: Jake Doe
   bio: This is Jake Doe bio
   email: Jake.doe@email.com
-  # picture_dir: '/img/contributors/Jake.png'
+  # picture_dir: '/imgs/contributors/Jake.png'
   twitter: #
   github: https://github.com/this-pama
   linkedin: https://www.linkedin.com/
@@ -21,7 +21,7 @@ John-doe:
   name: John Doe
   bio: This is John Doe bio
   email: John.doe@email.com
-  # picture_dir: '/img/contributors/John.png'
+  # picture_dir: '/imgs/contributors/John.png'
   twitter: #
   github: https://github.com/this-pama
   linkedin: https://www.linkedin.com/
