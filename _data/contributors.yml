@@ -38,8 +38,119 @@ Sandy-Ramirez:
   job_title: Head of Exploration
 	organization: UNDP Dominican Republic Accelerator Lab
 	picture_dir: '/imgs/contributors/sandy_ramirez.jpg'
-  twitter: #
   linkedin: https://www.linkedin.com/in/sandyramirezp
+	
+Caroline-Kiarie:
+	name: Caroline Kiarie-Kimondo
+	email: caroline.kiarie@undp.org
+	job_title: Head of Exploration
+	organization: UNDP Kenya Accelerator Lab
+	bio: Caroline Kiarie-Kimondo is the Head of Exploration, Kenya Accelerator Lab. Caroline is a social impact strategist with a passion for framing and reframing positive social impact narratives. She has 15 years of experience in philanthropy, movement building, social innovation, and strategic communications. She's also skilled in leadership coaching, human-centered design thinking, decision architecture, agile project management, and adaptive leadership.
+	picture_dir: '/imgs/contributors/caroline_kiarie.jpg'
+  linkedin: https://www.linkedin.com/in/caroline-kiarie-kimondo/
+	
+Nampaka-Nkumbula:
+	name: Nampaka Nkumbula
+	email: nampaka.nkumbula@undp.org
+	job_title: Head of Experimentation
+	organization: UNDP Zambia Accelerator Lab
+	bio: Nampaka is currently the Zambia Accelerator Lab Head of Experimentation and is a seasoned researcher within experience supporting the Zambian Innovation ecosystem with a bias on strengthening Research and development pathways for the growth of innovations by influencing government approach and methods towards responding aptly to grassroots innovations. Prior to joining UNDP, Nampaka worked at Innovations for Poverty Action. She has experience working in the development sector, promoting the use of rigorously generated evidence with partners, conducting policy driven research, and leveraging large administrative data systems to inform decision making processes and develop scaling pathways to move promising interventions from research to scale. Working in the Health, Education and Financial Inclusion sectors in Zambia, Nampaka also has experience in agricultural policy analysis and banking with a specific focus on fund management and marketing. As a successful applicant to the B360 internship at Credit Suisse, Nampaka worked in the Export Finance Department under Corporate and Specialty Lending as a Junior Portfolio Manager. She holds a Master of Arts Degree in Economics from the University of Zambia (UNZA) and a Bachelor of Arts Degree in Economics with Mathematics and Statistics from UNZA.
+	picture_dir: '/imgs/contributors/nampaka_nkumbula.jpg'
+  linkedin: https://www.linkedin.com/in/nampaka-nkumbula-1603bb102/
+	
+Alena-Klatte:
+	name: Alena Klatte
+	email: alena.klatte@undp.org
+	job_title: Global Project Manager, Strategic Data Initiatives
+	organization: UNDP Chief Digital Office
+	bio: #
+	picture_dir: '/imgs/contributors/alena_klatte.jpg'
+	linkedin: #
+		
+Christof-Hawle:
+	name: Christof Hawle
+	email: christof.hawle@undp.org
+	job_title: Digital Innovation and Transformation Specialist
+	organization: UNDP Chief Digital Office
+	bio: >-
+		Christof has a background in private sector digital transformation consulting and development innovation and has been with the CDO since 2021. He has been supporting individual digital innovation projects and Digital X, and coordinates efforts to implement "Digital by Default": assuring digital is embedded in our(1) business processes and programming life cycle.
+	picture_dir: '/imgs/contributors/christof-hawle.jpg'
+	linkedin: https://www.linkedin.com/in/christof-hawle/
+	
+Yrika-Maritz:
+	name: Yrika Maritz
+	email: yrika.maritz@undp.org
+	job title: Head of Experimentation
+	organization: UNDP Namibia Accelerator Lab
+	bio: Yrika Vanessa Maritz is the Head of Experimentation at the UNDP Accelerator Lab Namibia. She previously worked at the Office of the Prime Minister in various roles, including Learning and Development Officer and Deputy Director of the Efficiency and Charter Unit.  She also served as the former Director of the Centre for Management and Leadership Development at the National School of Government, NIPAM.  Yrika is a Clinical Psychologist by profession and holds a Master in Public Administration, as well as a PhD in Public and Development Management.  She has been trained in various specialized learning and development models and schools in Tanzania, the UK, Germany, Sweden, Japan, and China. She is an accredited Management Consultant with the CIMC in the UK and registered with the Social Work and Psychology Council of Namibia.
+	picture_dir: '/imgs/contributors/yrika_maritz.jpg'
+	linkedin: https://www.linkedin.com/in/yrika-vanessa-maritz-she-her-5310a952
+	
+Cristhian-Parra:
+	name: Cristhian Parra
+	email: cristhian.parra@undp.org
+	job title: Head of Experimentation
+	organization: UNDP Paraguay Accelerator Lab
+	bio: Cristian Parra has a Ph.D. in Information and Communication Technologies from University of Trento, Italy, and an Informatics Engineering degree from the Polytechnic School of UNA. For the past 10 years, he has been working in social informatics R&D projects, using participatory design and human-centered design approaches to topics in community-based public health, social inclusion, civic technologies and citizen participation. He was a postdoctoral researcher at the University of California, Berkeley, where he led the projects of the Social Apps Lab (CITRIS). As consultant, he helped organizations like the World Bank, the IADB, the SSI of Berkeley, among others. Before joining AccLab, he was working as a Senior Researcher at the Catholic University of Asunción, where he led projects like TopaDengue, which combines community participation with technologies to fight the spread of the Aedes Aegypti through a bottom-up citizen science approach, within a controlled experiment. In 2018, with his team, he was the recipient of one of the Honorific Mentions of the National Prize for Science for some of these works. Cristhian has always had a passion for initiatives at intersections, bridging Computer and Social Sciences to inform research, development, and implementation of innovative socio-technical solutions for social or community challenges. This passion led him straight to this lab, where he sees a unique opportunity to contribute to the already great work that UNDP is doing in solving the big societal and development challenges of our century.
+	picture_dir: '/imgs/contributors/cristhian_parra.jpg'
+	linkedin: https://www.linkedin.com/in/cdparra/
+	
+Eduardo-Gustale:
+	name: Eduardo Gustale
+	email: eduardo.gustale@undp.org
+	job title: Monitoring, Experimentation and Learning Specialist
+	organization: UNDP Accelerator Labs
+	picture_dir: '/imgs/contributors/eduardo_gustale.jpg'
+	bio: >-
+		Experienced in Sustainable Development and Social Innovation. Worked repeated times in academic research, survey development and market insight. Elected Global Shaper by the World Economic Forum & Chevening Scholar for an MSc in Innovation and Entrepreneurship at University of Warwick.
+		Eduardo is currently part of the UNDP Accelerator Lab Network as Monitoring, Experimentation and Learning Specialist. Until 2020 he headed the Poverty Stoplight team, a metric and methodology developed by Fundación Paraguaya that aims to change the way we measure and work with poverty worldwide.
+	linkedin: https://www.linkedin.com/in/eduardo-gustale-gill-4548a927/
+	
+Tayo-Akinyemi:
+	email: tayo.akinyemi@undp.org
+	job title: Learning and Community Manager
+	organization: UNDP Accelerator Labs
+	picture_dir: '/imgs/contributors/tayo_akinyemi.jpg'
+	linkedin: https://www.linkedin.com/in/tayoakinyemi/
+	bio: I have spent most of my career creating order from ambiguity, whether it's charting my own vocational journey, supporting an African entrepreneurial leadership center launch, building the first pan-African network of tech hubs, or decoding early stage investing in Africa. In other words, I like to help great people build great things, ideally by marrying vision (dream+strategy) with implementation (getting stuff done). African tech entrepreneurship and innovation trends on all of my feeds, with a special emphasis on building enabling infrastructure (think hubs and accelerators) enhancing, the capacity of those enablers (especially early stage investors).
+	
+Calum-Handforth:
+	name: Calum Handforth
+	email: calum.handforth@undp.org
+	job title: Digital Programmes Strategic Manager
+	organization: UNDP Chief Digital Office
+	picture_dir: '/imgs/contributors/calum_handforth.jpg'
+	linkedin: https://www.linkedin.com/in/calumhandforth/
+	bio: UN Advisor and Fellow - focusing on data, innovation, and digital tech in international development and government.	
+		
+Alberto-Cottica:
+	name: Alberto Cottica
+	email: alberto.cottica@undp.org
+	job title: R&D Specialist
+	organization: UNDP Accelerator Labs
+	bio: Originally a development/environmental economist, now more of a quantitative social scientist. Anthropology, ethnography, network science. Interested in epistemology. Committed citizen. Runner. Ex-minor rockstar.
+	picture_dir: '/imgs/contributors/alberto_cottica.jpg'
+	linkedin: https://www.linkedin.com/in/albertocottica/
+
+Nicola-Holden:
+	name: Nicola Holden
+	email: nicola.holden@undp.org
+	job title: Digital Experience Advisor
+	organization: UNDP Chief Digital Office
+	bio: #
+	picture_dir: '/imgs/contributors/nicola_holden.jpg'
+	linkedin: #
+	
+Adedapo-Aderemi:
+	name: Adedapo Aderemi
+	email: adedapo.aderemi@undp.org
+	job title: Full Stack Developer
+	organization: UNDP Accelerator Labs
+	bio: Senior software engineer.
+	picture_dir: '/imgs/contributors/adedapo_aderemi.jpg'
+	linkedin: https://www.linkedin.com/in/adedapo-aderemi-03237271/
+	
+		
 	
 
   

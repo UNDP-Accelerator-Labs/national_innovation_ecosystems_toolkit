@@ -29,7 +29,7 @@ The innovator's journey concept emerged from the lab's experience navigating its
 
 **People** (team numerosity): 3 Labbers
 
-**Focal point**. Nampaka Nkumbula.
+**Focal point**. [Nampaka Nkumbula](/national_innovation_ecosystems_toolkit/Contributors/nampaka-nkumbula.html).
 
 **Country and year**. Zambia, 2022-2023 (ongoing)
 

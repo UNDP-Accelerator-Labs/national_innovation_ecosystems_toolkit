@@ -8,7 +8,7 @@ grand_parent: Getting Started
 menu_parent: 4
 ---
 
-## A GOVERNANCE MODEL FOR AN INNOVATION UNIT RUN BY DIVERSE ACTORS
+## A governance model for an innovation lab or unit run by diverse actors
 
 **What it does.**
 

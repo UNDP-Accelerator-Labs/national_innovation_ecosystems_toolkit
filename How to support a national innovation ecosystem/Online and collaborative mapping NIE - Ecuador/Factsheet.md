@@ -46,9 +46,7 @@ To design, develop, and implement a similar tool the following team members will
 1. A software development firm with experience in open code and collaborative platforms.
 2. An ally institution within the public innovation sector that aims to contribute to the NIE, and within that institution two focal points which are an IT person and program officer person.
 
-**Focal point**.
-
-Ana M. Grijalva
+**Focal point**. [Ana M. Grijalva](/national_innovation_ecosystems_toolkit/Contributors/ana-grijalva.html)
 
 **Country, year, and language**.
 

@@ -26,7 +26,7 @@ menu_parent: 5
 
 **People**. Self-led.
 
-**Focal point. ** Christof Hawle.
+**Focal point. ** [Christof Hawle](/national_innovation_ecosystems_toolkit/Contributors/christof-hawle.html).
 
 **Country, year, and language.** Global, 2021
 
