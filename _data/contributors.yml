@@ -1,6 +1,7 @@
 Jerson-del-Rosario:
   name: Jerson del Rosario
-  # bio: This is Jane Doe bio
+  bio: As a sociologist, qualitative researcher and development practitioner, Jerson has worked as local development facilitator for grassroots community organizations and was a researcher and social policy analyst for the Social Policy Coordination Cabinet of the Dominican Republic. He has conducted ethnographic research on education, youth and teen pregnancy, precarious livelihoods and income generation policies, with a strong interest in small-scale entrepreneurs and the ways they understand the economic complexities of globalization. 
+  Jerson holds a bachelor’s in International Relations, a master’s in Local Development and International Cooperation, a master’s in Sociology and Education and is currently pursuing doctoral studies in Sociology
   email: jerson@delrosario.undp.org
   picture_dir: '/imgs/contributors/jerson_del_rosario.png'
   job_title: Head of Solutions Mapping
@@ -13,15 +14,17 @@ Ana-Grijalva:
   bio: Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has a vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity and governance. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador. She is excited to collaborate to the change of the status quo through public and social innovation, data analysis, technology, and civic engagement.
   job_title: Head of Exploration, UNDP Ecuador Accelerator Lab
   email: ana.grijalva@undp.org
-  # picture_dir: '/imgs/contributors/Jake.png'
+  picture_dir: '/imgs/contributors/ana_grijalva.png'
   twitter: #
-  linkedin: https://www.linkedin.com/
+  linkedin: https://www.linkedin.com/in/ana-grijalva/
 
-John-doe:
-  name: John Doe
-  bio: This is John Doe bio
-  email: John.doe@email.com
-  # picture_dir: '/imgs/contributors/John.png'
+Sandy-Ramirez:
+  name: Sandy Ramirez
+  bio: Innovation and digital business specialist. Sandy has worked in promoting and developing policies to strengthen MSMEs and before joining the lab was the coordinator of Digital Economy for the Ministry of Industry, Commerce and MSMEs. Sandy has coordinated the execution of cooperation projects to promote innovation with governments of Taiwan, Korea and Spain. Sandy holds a masters degree in Digital Business and Digital Marketing as well as a masters in Business Administration. 
+  email: sandy.ramirez@undp.org
+  job_title: Head of Exploration
+  picture_dir: '/imgs/contributors/sandy_ramirez.jpg
   twitter: #
-  github: https://github.com/this-pama
-  linkedin: https://www.linkedin.com/
+  linkedin: https://www.linkedin.com/in/sandyramirezp/
+  
+  
