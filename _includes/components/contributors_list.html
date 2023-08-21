@@ -5,7 +5,7 @@
       <div class="column">
         <div class="card">
           {% if contributor.picture_dir %}
-            <img src="{{ contributor.picture_dir }}" alt="{{ contributor.name }}" class="profile-image">
+            <img src="{{ site.baseurl }}/public{{ contributor.picture_dir }}" alt="{{ contributor.name }}" class="profile-image">
           {% else %}
             <img src="{{ site.baseurl }}/public/imgs/contributors/blank.png" alt="Blank" class="profile-image">
           {% endif %}
