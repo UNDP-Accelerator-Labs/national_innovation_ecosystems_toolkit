@@ -1,12 +1,12 @@
-Jane-doe:
-  name: Jane Doe
+Jerson del Rosario:
+  name: Jerson del Rosario
   bio: This is Jane Doe bio
-  email: Jane.doe@email.com
+  email: jerson@delrosario.undp.org
   # picture_dir: '/img/contributors/Jane.png'
-  organization: UNDP Accelerator Labs
+  job title: Head of Solutions Mapping
+  organization: UNDP Dominican Republic Accelerator Lab
   twitter: #
-  github: https://github.com/this-pama
-  linkedin: https://www.linkedin.com/
+  linkedin: https://www.linkedin.com/in/delj/
 
 Jake-doe:
   name: Jake Doe
