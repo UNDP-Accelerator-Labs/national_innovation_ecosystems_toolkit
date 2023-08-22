@@ -26,7 +26,7 @@ With CONACYT, the UNDP Paraguay Accelerator lab has collaborated with mentoring 
 
 **People**. At least 2-3 hours per week from 2 of the Lab heads, plus a similar number of hours from our associate researcher for program monitoring, which could also be monetized. And finally, there is the ENI team, consisting of 2 individuals plus 1 focal point at Conacyt.
 
-**Focal point**. [Cristhian Parra](/national_innovation_ecosystems_toolkit/Contributors/cristhian-parra.html)
+**Focal point**. [Cristhian Parra](/national_innovation_ecosystems_toolkit/contributors/cristhian-parra.html)
 
 **Country, year, and language**. Paraguay 2022, Spanish
 

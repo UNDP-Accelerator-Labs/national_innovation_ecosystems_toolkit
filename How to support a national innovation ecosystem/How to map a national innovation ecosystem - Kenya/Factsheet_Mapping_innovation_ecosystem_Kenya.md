@@ -27,7 +27,7 @@ menu_parent: 6
 
 **People** (team numerosity): 3 Accelerator Labs staff
 
-**Focal point**. [Caroline Kiarie-Kimondo](/national_innovation_ecosystems_toolkit/Contributors/caroline-kiarie.html)
+**Focal point**. [Caroline Kiarie-Kimondo](/national_innovation_ecosystems_toolkit/contributors/caroline-kiarie.html)
 
 **Country and year**. Kenya, December 2021 – December 2022
 
