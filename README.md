@@ -7,7 +7,7 @@ nav_order: 1
 menu_parent: 1
 ---
 
-### Background and purpose 
+## Background and purpose 
 
 In 2022, the UNDP Accelerator Labs launched a survey to get a big picture view on the work that its global network of 91 labs was doing to support innovation ecosystems. The results were surprisingly clear-cut and coherent.  
 
@@ -19,14 +19,21 @@ In 2023, as the Accelerator Labs move to contribute more deliberately to UNDP’
 
 Many champions of innovation in the Global South are to be found within UNDP itself. In particular, we hope this toolkit will help the (many!) Country Offices that are moving to support their government partners on nurturing national innovation ecosystems; the Regional Bureaus of Africa and Asia Pacific (and hopefully the others, soon) in their work on public sector innovation; and – since innovation ecosystems are by definition multistakeholder and need constructive government-civil society partnerships – the Governance Community of Practice in its drive to expand civic spaces. 
 
-Your feedback is hugely appreciated, even (especially!) if critical. Please direct it to anyone in the curation task force. 
 
-**Curation task force:** Tayo Akinyemi (Global Team), Alberto Cottica (Global Team), Ana Grijalva (Ecuador), Eduardo Gustale (Global Team), Calum Handforth (Chief Digital Office), Nicola Holden (Chief Digital Office). 
+## Architecture
 
-**Contributors:** Jerson Del Rosario (Dominican Republic), Caroline Kiarie-Kimondo (Kenya), Yrika Maritz (Namibia), Nampaka Nkumbula (Zambia), Nguyen Tuan Luong (Viet Nam), Cristhian Parra (Paraguay). 
+This website uses the metaphor of a toolkit, consisting of several "tools". Please visit [this page](/Getting started/how-to-use-the-toolkit.html) for a full explanation. 
 
-**Peer review:** Lazar Pop Ivanov (North Macedonia), Paola Costantino (Guatemala).
+## Adding a tool 
 
-**Technical support:** Adedapo Aderemi, Jeremy Boy (Global Team).
+Each tool consists of a *Factsheet*, that lives as a markdown page in the website; and of one or more *resources*, which live in UNDP's corporate filesystem. Resources are linked from the corresponding factsheet. 
 
-**Design guru:** Bas Leurs (Global Team)
+To add a tool, duplicate one of the factsheet files and keep the structure (items are marked in bold). Do not forget to insert a live link to the contributor's page (see below).
+
+## Adding a contributor
+
+The file `contributors.yml` contains the data about contributors. The website uses it to generate dynamically each contributor's page, as well as the [contributors page](/team.html). To add a new contributor, you must: 
+
+2. Add a picture of the contributor in the `public/imgs/contributors` folder.
+1. Create an entry in the `contributors.yml` file. Each entry has a key of the form NAME-SURNAME (do not forget the hyphen between the two), and a value in the form of a set of key:value pairs. Follow the structure provided.
+3. You can now create live links to the contributor's page from the factsheets of the tool she or he has helped create. The link takes the form `[Name Surname](/national_innovation_ecosystems_toolkit/contributors/NAME-SURNAME.html)`.
