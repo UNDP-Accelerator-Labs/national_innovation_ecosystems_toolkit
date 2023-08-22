@@ -22,7 +22,7 @@ Many champions of innovation in the Global South are to be found within UNDP its
 
 ## Architecture
 
-This website uses the metaphor of a toolkit, consisting of several "tools". Please visit [this page](/Getting started/how-to-use-the-toolkit.html) for a full explanation. 
+This website uses the metaphor of a toolkit, consisting of several "tools". Please visit [this page](https://github.com/UNDP-Accelerator-Labs/national_innovation_ecosystems_toolkit/blob/main/Getting%20started/how-to-use-the-toolkit.md) for a full explanation. 
 
 ## Adding a tool 
 
@@ -32,8 +32,8 @@ To add a tool, duplicate one of the factsheet files and keep the structure (item
 
 ## Adding a contributor
 
-The file `contributors.yml` contains the data about contributors. The website uses it to generate dynamically each contributor's page, as well as the [contributors page](/team.html). To add a new contributor, you must: 
+The file `contributors.yml` contains the data about contributors. The website uses it to generate dynamically each contributor's page, as well as the [contributors page](https://undp-accelerator-labs.github.io/national_innovation_ecosystems_toolkit/Team.html). To add a new contributor, you must: 
 
-2. Add a picture of the contributor in the `public/imgs/contributors` folder.
+1. Add a picture of the contributor in the `public/imgs/contributors` folder.
 1. Create an entry in the `contributors.yml` file. Each entry has a key of the form NAME-SURNAME (do not forget the hyphen between the two), and a value in the form of a set of key:value pairs. Follow the structure provided.
 3. You can now create live links to the contributor's page from the factsheets of the tool she or he has helped create. The link takes the form `[Name Surname](/national_innovation_ecosystems_toolkit/contributors/NAME-SURNAME.html)`.
