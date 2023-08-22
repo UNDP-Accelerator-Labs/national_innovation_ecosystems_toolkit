@@ -26,7 +26,7 @@ menu_parent: 5
 
 **People** (team numerosity): Accelerator Lab + 2 key technical Ethics and Integrity staff from the Office of the Prime Minister
 
-**Focal point**. [Yrika Maritz](/national_innovation_ecosystems_toolkit/contributors/yrika-maritz.html)
+**Focal point**. [Yrika Maritz](/national_innovation_ecosystems_toolkit/contributors/Yrika-Maritz.html)
 
 **Country and year**. Namibia 2022
 

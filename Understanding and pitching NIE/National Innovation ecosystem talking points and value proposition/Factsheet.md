@@ -27,7 +27,7 @@ menu_parent: 2
 
 **People** (team numerosity): 1
 
-**Focal point**. Alberto Cottica and Eduardo Gustale
+**Focal point**. [Alberto Cottica](/national_innovation_ecosystems_toolkit/contributors/Alberto-Cottica.html) and [Eduardo Gustale](/national_innovation_ecosystems_toolkit/contributors/Eduardo-Gustale.html)
 
 **Country and year**. Global Team, 2023
 

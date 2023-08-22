@@ -26,7 +26,7 @@ menu_parent: 5
 
 **People** : 3 from the Accelerator Lab and 3 from the Office of the Prime Minister.
 
-**Focal point**. [Yrika Maritz](/national_innovation_ecosystems_toolkit/contributors/yrika-maritz.html
+**Focal point**. [Yrika Maritz](/national_innovation_ecosystems_toolkit/contributors/Yrika-Maritz.html
 
 **Country and year**. Namibia 2021
 

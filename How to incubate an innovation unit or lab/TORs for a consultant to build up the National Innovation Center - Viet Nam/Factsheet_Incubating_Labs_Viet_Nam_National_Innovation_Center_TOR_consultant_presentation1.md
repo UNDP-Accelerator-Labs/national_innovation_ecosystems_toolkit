@@ -27,7 +27,7 @@ menu_parent: 4
 
 **People** (team numerosity): about 64 (from UNDP) and 10 (from NIC)
 
-**Focal point**. [Nguyen Tuan Luong](/national_innovation_ecosystems_toolkit/contributors/nguyen-tuan-luong.html)
+**Focal point**. [Nguyen Tuan Luong](/national_innovation_ecosystems_toolkit/contributors/Nguyen-Tuan-Luong.html)
 
 **Country and year**. Viet Nam, 2022
 
