@@ -18,18 +18,17 @@ Ana-Grijalva:
   twitter: #
   linkedin: https://www.linkedin.com/in/ana-grijalva
 
-Nguyen-Tuan-Luong:
-
-	name: Nguyen Tuan Luong
-	email: nguyen.tuan.luong@undp.org
-	job_title: Head of Solutions Mapping
-	organization: UNDP Viet Nam Accelerator Lab
-	bio: | 
-		Luong grew up around the world as a “third culture kid” and now sees himself as a global citizen. Having worked with the Innovation Partnership Programme between Finland and Vietnam, and contributed towards developing a thriving innovation ecosystem in Vietnam, Luong brings expertise in public-private partnerships. He is passionate about helping changemaker communities such as Knowmads Hanoi and Art of Hosting in creating space for meaningful conversations. 
-		Luong is a Swedish Institute alumnus and graduated in Master’s in strategic leadership toward Sustainability from Sweden. By combining his cross-cultural understanding, tech-savviness, and business sense, he hopes to facilitate organizations transformation toward greater sustainability, collaboration and creativity. 
-		In his spare time, you can find him learning and practicing his hobbies. He is always excited to meet new people and looks forward to listening and sharing good stories with them. 
-  picture_dir: '/imgs/contributors/nguyen_luong.jpg'
-  twitter: #
+Nguyen-Tuan-Luong: 
+  name: Nguyen Tuan Luong 
+  email: nguyen.tuan.luong@undp.org 
+  job_title: Head of Solutions Mapping 
+  organization: UNDP Viet Nam Accelerator Lab 
+  bio: |  
+    Luong grew up around the world as a “third culture kid” and now sees himself as a global citizen. Having worked with the Innovation Partnership Programme between Finland and Vietnam, and contributed towards developing a thriving innovation ecosystem in Vietnam, Luong brings expertise in public-private partnerships. He is passionate about helping changemaker communities such as Knowmads Hanoi and Art of Hosting in creating space for meaningful conversations.  
+    Luong is a Swedish Institute alumnus and graduated in Master’s in strategic leadership toward Sustainability from Sweden. By combining his cross-cultural understanding, tech-savviness, and business sense, he hopes to facilitate organizations transformation toward greater sustainability, collaboration and creativity.  
+    In his spare time, you can find him learning and practicing his hobbies. He is always excited to meet new people and looks forward to listening and sharing good stories with them.  
+  picture_dir: '/imgs/contributors/nguyen_luong.jpg' 
+  twitter: # 
   linkedin: https://www.linkedin.com/in/luongn/
 
 Sandy-Ramirez:
@@ -68,16 +67,16 @@ Alena-Klatte:
   picture_dir: '/imgs/contributors/alena_klatte.jpg'
   linkedin: #
 
-Christof-Hawle:
-	name: Christof Hawle
-	email: christof.hawle@undp.org
-	job_title: Digital Innovation and Transformation Specialist
-	organization: UNDP Chief Digital Office
-	bio: >-
-		Christof has a background in private sector digital transformation consulting and development innovation and has been with the CDO since 2021. He has been supporting individual digital innovation projects and Digital X, and coordinates efforts to implement "Digital by Default": assuring digital is embedded in our(1) business processes and programming life cycle.
-	picture_dir: '/imgs/contributors/christof_hawle.jpg'
-	linkedin: https://www.linkedin.com/in/christof-hawle/
-	
+Christof-Hawle: 
+  name: Christof Hawle 
+  email: christof.hawle@undp.org 
+  job_title: Digital Innovation and Transformation Specialist 
+  organization: UNDP Chief Digital Office 
+  bio: >- 
+    Christof has a background in private sector digital transformation consulting and development innovation and has been with the CDO since 2021. He has been supporting individual digital innovation projects and Digital X, and coordinates efforts to implement "Digital by Default": assuring digital is embedded in our(1) business processes and programming life cycle. 
+  picture_dir: '/imgs/contributors/christof_hawle.jpg' 
+  linkedin: https://www.linkedin.com/in/christof-hawle/
+
 Yrika-Maritz:
   name: Yrika Maritz
   email: yrika.maritz@undp.org
