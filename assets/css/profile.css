@@ -41,7 +41,7 @@ button:hover, a:hover {
 .row {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  /* justify-content: space-between; */
 }
 
 .column {
@@ -71,3 +71,7 @@ button:hover, a:hover {
 .title {
   color: grey;
 }
+
+.bio { 
+  text-align: left; 
+} 
