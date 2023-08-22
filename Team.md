@@ -2,7 +2,7 @@
 title: Contributors
 layout: default
 
-parent: Home
+parent: Getting Started
 has_children: false
 
 menu: 7
