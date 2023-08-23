@@ -73,14 +73,14 @@ Christof-Hawle:
   job_title: Digital Innovation and Transformation Specialist 
   organization: UNDP Chief Digital Office 
   bio: >- 
-    Christof has a background in private sector digital transformation consulting and development innovation and has been with the CDO since 2021. He has been supporting individual digital innovation projects and Digital X, and coordinates efforts to implement "Digital by Default": assuring digital is embedded in our(1) business processes and programming life cycle. 
+    Christof has a background in private sector digital transformation consulting and development innovation and has been with the CDO since 2021. He has been supporting individual digital innovation projects and Digital X, and coordinates efforts to implement "Digital by Default": assuring digital is embedded in our business processes and programming life cycle. 
   picture_dir: '/imgs/contributors/christof_hawle.jpg' 
   linkedin: https://www.linkedin.com/in/christof-hawle/
 
 Yrika-Maritz:
   name: Yrika Maritz
   email: yrika.maritz@undp.org
-  job title: Head of Experimentation
+  job_title: Head of Experimentation
   organization: UNDP Namibia Accelerator Lab
   bio: Yrika Vanessa Maritz is the Head of Experimentation at the UNDP Accelerator Lab Namibia. She previously worked at the Office of the Prime Minister in various roles, including Learning and Development Officer and Deputy Director of the Efficiency and Charter Unit.  She also served as the former Director of the Centre for Management and Leadership Development at the National School of Government, NIPAM.  Yrika is a Clinical Psychologist by profession and holds a Master in Public Administration, as well as a PhD in Public and Development Management.  She has been trained in various specialized learning and development models and schools in Tanzania, the UK, Germany, Sweden, Japan, and China. She is an accredited Management Consultant with the CIMC in the UK and registered with the Social Work and Psychology Council of Namibia.
   picture_dir: '/imgs/contributors/yrika_maritz.jpg'
@@ -89,7 +89,7 @@ Yrika-Maritz:
 Cristhian-Parra:
   name: Cristhian Parra
   email: cristhian.parra@undp.org
-  job title: Head of Experimentation
+  job_title: Head of Experimentation
   organization: UNDP Paraguay Accelerator Lab
   bio: Cristian Parra has a Ph.D. in Information and Communication Technologies from University of Trento, Italy, and an Informatics Engineering degree from the Polytechnic School of UNA. For the past 10 years, he has been working in social informatics R&D projects, using participatory design and human-centered design approaches to topics in community-based public health, social inclusion, civic technologies and citizen participation. He was a postdoctoral researcher at the University of California, Berkeley, where he led the projects of the Social Apps Lab (CITRIS). As consultant, he helped organizations like the World Bank, the IADB, the SSI of Berkeley, among others. Before joining AccLab, he was working as a Senior Researcher at the Catholic University of Asunción, where he led projects like TopaDengue, which combines community participation with technologies to fight the spread of the Aedes Aegypti through a bottom-up citizen science approach, within a controlled experiment. In 2018, with his team, he was the recipient of one of the Honorific Mentions of the National Prize for Science for some of these works. Cristhian has always had a passion for initiatives at intersections, bridging Computer and Social Sciences to inform research, development, and implementation of innovative socio-technical solutions for social or community challenges. This passion led him straight to this lab, where he sees a unique opportunity to contribute to the already great work that UNDP is doing in solving the big societal and development challenges of our century.
   picture_dir: '/imgs/contributors/cristhian_parra.jpg'
@@ -98,7 +98,7 @@ Cristhian-Parra:
 Eduardo-Gustale:
   name: Eduardo Gustale
   email: eduardo.gustale@undp.org
-  job title: Monitoring, Experimentation and Learning Specialist
+  job_title: Monitoring, Experimentation and Learning Specialist
   organization: UNDP Accelerator Labs
   picture_dir: '/imgs/contributors/eduardo_gustale.jpg'
   bio: >-
@@ -108,7 +108,7 @@ Eduardo-Gustale:
 Tayo-Akinyemi:
   name: Tayo Akinyemi
   email: tayo.akinyemi@undp.org
-  job title: Learning and Community Manager
+  job_title: Learning and Community Manager
   organization: UNDP Accelerator Labs
   picture_dir: '/imgs/contributors/tayo_akinyemi.jpg'
   linkedin: https://www.linkedin.com/in/tayoakinyemi/
@@ -117,7 +117,7 @@ Tayo-Akinyemi:
 Calum-Handforth:
   name: Calum Handforth
   email: calum.handforth@undp.org
-  job title: Digital Programmes Strategic Manager
+  job_title: Digital Programmes Strategic Manager
   organization: UNDP Chief Digital Office
   picture_dir: '/imgs/contributors/calum_handforth.jpg'
   linkedin: https://www.linkedin.com/in/calumhandforth/
@@ -126,7 +126,7 @@ Calum-Handforth:
 Alberto-Cottica:
   name: Alberto Cottica
   email: alberto.cottica@undp.org
-  job title: R&D Specialist
+  job_title: R&D Specialist
   organization: UNDP Accelerator Labs
   bio: Originally a development/environmental economist, now more of a quantitative social scientist. Anthropology, ethnography, network science. Interested in epistemology. Committed citizen. Runner. Ex-minor rockstar.
   picture_dir: '/imgs/contributors/alberto_cottica.jpg'
@@ -135,7 +135,7 @@ Alberto-Cottica:
 Nicola-Holden:
   name: Nicola Holden
   email: nicola.holden@undp.org
-  job title: Digital Experience Advisor
+  job_title: Digital Experience Advisor
   organization: UNDP Chief Digital Office
   bio: #
   picture_dir: '/imgs/contributors/nicola_holden.jpg'
@@ -144,7 +144,7 @@ Nicola-Holden:
 Adedapo-Aderemi:
   name: Adedapo Aderemi
   email: adedapo.aderemi@undp.org
-  job title: Full Stack Developer
+  job_title: Full Stack Developer
   organization: UNDP Accelerator Labs
   bio: Senior software engineer.
   picture_dir: '/imgs/contributors/adedapo_aderemi.jpg'
