@@ -40,4 +40,4 @@ The file `contributors.yml` contains the data about contributors. The website us
 
 ### Monitoring usage
 
-As of 2023-08-23, we have added a simple pageviews counter. We chose [Goat Counter](https://www.goatcounter.com) because it's completely open source, independent, and free for small sites. If you are duplicating the repo, remember to replace the snippet of code that calls the usage monitoring script: you will find it at the end of the `default.htlm` file, before the `</body>` tag. Ask [Alberto Cottica](mailto: alberto.cottica@undp.org) about usage statistics if you are curious. 
+As of 2023-08-23, we have added a simple pageviews counter. We chose [Goat Counter](https://www.goatcounter.com) because it's completely open source, independent, and free for small sites. If you are duplicating the repo, remember to replace the snippet of code that calls the usage monitoring script: you will find it at the end of the `default.htlm` file, before the `</body>` tag. Usage statistics are visible here: https://undp-nie-toolkit.goatcounter.com/.  [Alberto Cottica](mailto: alberto.cottica@undp.org) is the admin of the Goat Counter account. 
