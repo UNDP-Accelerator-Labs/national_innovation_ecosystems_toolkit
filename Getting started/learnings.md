@@ -8,7 +8,7 @@ menu_parent: 1
 ---
 ## Making this toolkit and lessons learned
 
-###Making this toolkit
+### Making this toolkit
 
 The [UNDP Accelerator Labs](https://acceleratorlabs.undp.org) created this website in 2023 as part of a R&D cycle on supporting national ecosystems of innovation. The rationale for doing so is explained in the [About page](../Getting started/about.html). We followed a logic of *build, engage, scale*: starting from an idea, first build a prototype you can show to prospective allies and partners. Next, look for allies via activities to socialize and disseminate the prototype to others. Once you have found them, go – with your new partners – to look for the resources to scale up your prototype into a fully developed project or service.
 
