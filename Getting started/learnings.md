@@ -8,13 +8,13 @@ menu_parent: 1
 ---
 ## Making this toolkit 
 
-We created this website in 2023 as part of a R&D cycle on supporting national ecosystems of innovation. The rationale for doing so is explained in the [About page](../Getting started/about.html). The timeline is as follows: 
+The [UNDP Accelerator Labs](https://acceleratorlabs.undp.org) created this website in 2023 as part of a R&D cycle on supporting national ecosystems of innovation. The rationale for doing so is explained in the [About page](../Getting started/about.html). The timeline is as follows: 
 
 * **April**: the Accelerator Labs' global team assembles a small curation task force of four people. We, the curation force, meet physically in New York for a one-week production sprint and put together a lo-fi prototype, in the form of a hierarchy of folders on UNDP's OneDrive facility, which contains 8 tools. As the week draws to a close, we present the prototype to our team leader and colleagues and gather early feedback. 
 * **May**. We document more tools and migrate the prototype to a barebones website. 
 * **June**, we started a phase of socialization and sharing of the prototype. We organize a number of presentations to various teams and bureaus of UNDP, as well as to the broader Accelerator Labs network. In parallel, we continue to improve the website and add yet more tools, ending at 16. As a consequence of one of these presentations, we are asked to join a new initiative, still being discussed with the Executive Office of the Secretary General.
-* **July**. The proposal is approved. The initiative is called FutureGov facility ([pre-launch home page](https://www.un.org/en/conferences/SDGSummit2023/SDG-Action-Weekend/futuregov)). It is led by UNDP, and specifically by the Governance team of the Bureau for Policy and Programme Support, the Accelerator Labs and the Chief Digital Office; UNDESA is also a participant. 
-* **August**. We give the website a final once over as the R&D cycle moveds onto the next phase. We imagine the next iteration of the toolkit to be a part of the FutureGov facility's offer. 
+* **July**. The proposal is approved. The initiative is branded "the FutureGov facility" ([pre-launch home page](https://www.un.org/en/conferences/SDGSummit2023/SDG-Action-Weekend/futuregov)). It is led by UNDP, and specifically by the Governance team of the Bureau for Policy and Programme Support, the Accelerator Labs and the Chief Digital Office; UNDESA is also a participant. 
+* **August**. We give the website a final once-over as the R&D cycle moves onto the next phase. We imagine the next iteration of the toolkit to be a part of the FutureGov facility's offer. 
 * **September**. FutureGov launches at the SDG summit. Ecuador and Paraguay, two governments whose work with the Labs is featured in the toolkit, join the FutureGov facility as founding members. After launch, we proceed to joint resource mobilization with the other entities involved.
 
 Overall, we observed a satisfyingly fast turnaround. The added value of curating the most actionable learnings of the Accelerator Labs network around national innovation ecosystems was fairly easy to communicate. 
