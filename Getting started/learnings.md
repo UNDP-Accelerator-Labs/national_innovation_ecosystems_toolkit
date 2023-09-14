@@ -2,7 +2,7 @@
 title: Lessons learned
 parent: Getting Started
 layout: default
-nav_order: 10
+nav_order: 3
 
 menu_parent: 1
 ---
