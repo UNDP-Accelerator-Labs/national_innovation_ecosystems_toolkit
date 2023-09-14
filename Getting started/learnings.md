@@ -8,7 +8,7 @@ menu_parent: 1
 ---
 ## Making this toolkit 
 
-We created this website in 2023 as part of a R&D cycle on supporting national ecosystems of innovation. The rationale for doing so is explained in the [About page](../Getting_started/about.md). The timeline is as follows: 
+We created this website in 2023 as part of a R&D cycle on supporting national ecosystems of innovation. The rationale for doing so is explained in the [About page](../Getting started/about.md). The timeline is as follows: 
 
 * In April, the Accelerator Labs' global team assembled a small curation task force of four people. We, the curation force, met physically in New York for a one-week production sprint and put together a lo-fi prototype, in the form of a hierarchy of folders on UNDP's OneDrive facility, which contained 8 tools. As the week came to a close, we presented the prototype to our team leader and colleagues and gathered early feedback. 
 * In May, we gathered 5 more tools and migrated the prototype to a website. 
