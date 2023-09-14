@@ -9,7 +9,7 @@ menu_parent: 1
 
 ## About
 
-In 2022, the UNDP Accelerator Labs launched a survey to get a big picture view on the work that its global network of 91 labs was doing to support innovation ecosystems. The results were surprisingly clear-cut and coherent.
+In 2022, the [UNDP Accelerator Labs](https://acceleratorlabs.undp.org) launched a survey to get a big picture view on the work that its global network of 91 labs was doing to support innovation ecosystems. The results were surprisingly clear-cut and coherent.
 
 First, **we learned that a solid majority of Labs had partnered with governments to deploy interventions in support of national innovation ecosystems, or was planning to do so in the near future**. We were looking at a surge of government investment in innovation across the Global South. Furthermore, these Global South governments were looking beyond the usual Global North example of policies to support innovation and learning from each other.
 
