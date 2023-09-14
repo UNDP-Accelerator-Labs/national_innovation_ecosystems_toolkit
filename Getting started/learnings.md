@@ -6,9 +6,13 @@ nav_order: 3
 
 menu_parent: 1
 ---
-## Making this toolkit 
+## Making this toolkit and lessons learned
 
-The [UNDP Accelerator Labs](https://acceleratorlabs.undp.org) created this website in 2023 as part of a R&D cycle on supporting national ecosystems of innovation. The rationale for doing so is explained in the [About page](../Getting started/about.html). The timeline is as follows: 
+###Making this toolkit
+
+The [UNDP Accelerator Labs](https://acceleratorlabs.undp.org) created this website in 2023 as part of a R&D cycle on supporting national ecosystems of innovation. The rationale for doing so is explained in the [About page](../Getting started/about.html). We followed a logic of *build, engage, scale*: starting from an idea, first build a prototype you can show to prospective allies and partners. Next, look for allies via activities to socialize and disseminate the prototype to others. Once you have found them, go – with your new partners – to look for the resources to scale up your prototype into a fully developed project or service.
+
+The timeline of this work is as follows: 
 
 * **April**: the Accelerator Labs' global team assembles a small curation task force of four people. We, the curation force, meet physically in New York for a one-week production sprint and put together a lo-fi prototype, in the form of a hierarchy of folders on UNDP's OneDrive facility, which contains 8 tools. As the week draws to a close, we present the prototype to our team leader and colleagues and gather early feedback. 
 * **May**. We document more tools and migrate the prototype to a barebones website. 
@@ -19,7 +23,7 @@ The [UNDP Accelerator Labs](https://acceleratorlabs.undp.org) created this websi
 
 Overall, we observed a satisfyingly fast turnaround. The added value of curating the most actionable learnings of the Accelerator Labs network around national innovation ecosystems was fairly easy to communicate. 
 
-## Lessons learned
+### Lessons learned
 
 1. A toolkit is about turning contextual-and-implicit knowledge into universal-and-codified. This is a notoriously difficult task. Instead of attempting to write the perfect documentation, we decided that **this toolkit would have *two* components: this website and human focal points**. Each tool in the toolkit comes with the name and contact information of someone who understands the full (contextual) story behind our simple web pages, and who agreed to make themselves available should they receive a request for more information. To highlight the toolkit's human component, we insisted on building a [Team page](../Team.html) and individual pages for each contributor. This gestures towards what we see as a possible next iteration: a shopfront website from which people and organization who want to expand the capacity to innovate in their economies can invoke human expertise, the real  precious resource UNDP has to offer. This implies sophisticated service design, and we will not attempt it without allies and extra resources.
 2. **Building the toolkit as a basic website hit a sweet spot, which we might dub a "mid-fi prototype"**. It was simple to do technically (see below), and, while very basic visually (so, not hi-fi), it still was far better than a hierarchy of folder or a PDF (so, not lo-fi either). Our colleagues in the Regional Bureau for Latin America and the Caribbean asked us to provide them with a whitelabel version of our website for their own use.
