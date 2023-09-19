@@ -37,3 +37,5 @@ With CONACYT, the UNDP Paraguay Accelerator lab has collaborated with mentoring 
 * [Program Syllabus](https://drive.google.com/drive/u/1/folders/1tYMYZzm5dSIvAXPwZ1E5mZngW-xrFGRk)
 
 * [Content, Slides and Recordings of 15 workshops from the Public Innovators Program](https://drive.google.com/drive/u/1/folders/1DkX2xO2XDX2U5kWHN-zkU2iufa2cDCvm)
+
+* [Materials used to run the 15 workshops](https://miro.com/app/board/uXjVPUtGELo=/)
