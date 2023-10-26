@@ -1,7 +1,7 @@
 <div class="side-bar" style="background-color: {{ site.data.site_styles.sidebar_styles.background_color }}; ">
   <div class="site-header">
     <a href="{{ '/' | relative_url }}" class="site-title lh-tight">
-      <img src="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" width="150" alt="undp_accelerator_labs_logo">
+      <img src="{{ site.url }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" width="150" alt="undp_accelerator_labs_logo">
     </a>
     <a href="#" id="menu-button" class="site-button">
       <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
@@ -14,7 +14,7 @@
         {% for page in ordered_pages %}
           {% if page.menu %}
             <li class="menu-item{% if page.has_children %} collapsed {% endif %}">
-              <a class="menu-link" href="{% if page.has_children == false %} {{ site.baseurl }}{{ page.url }} {% else %} # {% endif %}">{{ page.title }}</a>
+              <a class="menu-link" href="{% if page.has_children == false %} {{ site.url }}{{ page.url }} {% else %} # {% endif %}">{{ page.title }}</a>
               {% if page.has_children == false  %}
               {% else %}
               <i class="menu-icon fa fa-chevron-left"></i>
@@ -25,7 +25,7 @@
                 <ul class="submenu-list">
                   {% for submenu_page in submenu_pages %}
                     <li class="submenu-item">
-                      <a class="submenu-link" href="{{ site.baseurl }}{{ submenu_page.url }}">{{ submenu_page.title }}</a>
+                      <a class="submenu-link" href="{{ site.url }}{{ submenu_page.url }}">{{ submenu_page.title }}</a>
                     </li>
                   {% endfor %}
                 </ul>
