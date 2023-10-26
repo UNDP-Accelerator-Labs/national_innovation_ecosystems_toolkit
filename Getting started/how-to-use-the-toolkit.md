@@ -22,9 +22,8 @@ We use the metaphor of the toolkit to emphasize the operational, enabling nature
 
 #### 1. Decide what you want to do and browse the catalogue
 
-The tools in this kit are labelled according to function. A catalogue is in the table of contents in [the home page](../../README.html) you will find tools with names like "How to map the innovation ecosystem" and "How to take a newly created innovation unit to fully operational status". If one of these labels is right for you, look at the tools themselves.
+The tools in this kit are labelled according to function, with names like "How to map the innovation ecosystem" and "How to take a newly created innovation unit to fully operational status". They  are sorted into into four main categories, based on the requests that UNDP's government partners have brought to the Accelerator Labs in the period 2019-2022. Tools within the same category combine naturally. The navigation bar on the left of the screen acts as a catalogue: browse it and navigate to any tool you like.
 
-Tools are sorted into into four main categories, based on the requests that UNDP's government partners have brought to the Accelerator Labs in the period 2019-2022. Tools within the same category combine naturally.
 
 #### 2. Read the description from this website
 
