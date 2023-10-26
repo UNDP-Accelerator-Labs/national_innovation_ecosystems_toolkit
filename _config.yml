@@ -1,3 +1,4 @@
 exclude:
   - README.md
 baseurl: "/national_innovation_ecosystems_toolkit"
+url: "https://nie.sdg-innovation-commons.org"
