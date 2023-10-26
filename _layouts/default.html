@@ -31,9 +31,6 @@
     <!-- <meta property="og:image:height" content="300" /> -->
     <meta property="og:image:alt" content="UNDP Accelerator Labs Logo" />
 
-    <!-- REDIRECT TO CUSTOM DOMAIN NAME -->
-    <meta http-equiv="refresh" content="0;url=https://nie.sdg-innovation-commons.org/">
-
   </head>
   <body>
     {% include components/sidebar.html %}
@@ -67,6 +64,21 @@
       console.log('{{site}}')
       console.log('{{site.github}}')
     </script>
+    <script type="text/javascript">
+      // Function to get the referrer URL
+      function getReferrer() {
+          return document.referrer;
+      }
+  
+      var oldURL = "https://undp-accelerator-labs.github.io/national_innovation_ecosystems_toolkit";
+  
+      // Check if the referrer matches the old URL
+      if (getReferrer() === oldURL) {
+          // Redirect to the new URL
+          window.location.href = "https://nie.sdg-innovation-commons.org/";
+      }
+  </script>
+  
 		<script data-goatcounter="https://UNDP-NIE-toolkit.goatcounter.com/count"
 		        async src="//gc.zgo.at/count.js"></script>
   </body>
