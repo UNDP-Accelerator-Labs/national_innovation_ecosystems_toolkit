@@ -1,4 +1,4 @@
 exclude:
   - README.md
-baseurl: "https://nie.sdg-innovation-commons.org"
+baseurl: "/"
 url: "https://nie.sdg-innovation-commons.org"
