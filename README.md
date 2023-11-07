@@ -32,7 +32,7 @@ To add a tool, duplicate one of the factsheet files and keep the structure (item
 
 ## Adding a contributor
 
-The file `contributors.yml` contains the data about contributors. The website uses it to generate dynamically each contributor's page, as well as the [contributors page](https://undp-accelerator-labs.github.io/national_innovation_ecosystems_toolkit/Team.html). To add a new contributor, you must: 
+The file `contributors.yml` contains the data about contributors. The website uses it to generate dynamically each contributor's page, as well as the [contributors page](/Team.html). To add a new contributor, you must: 
 
 1. Add a picture of the contributor in the `public/imgs/contributors` folder.
 1. Create an entry in the `contributors.yml` file. Each entry has a key of the form NAME-SURNAME (do not forget the hyphen between the two), and a value in the form of a set of key:value pairs. Follow the structure provided.

@@ -24,7 +24,7 @@ Your feedback is hugely appreciated, even (especially!) if critical. Please dire
 
 ### Team
 
-Huge thanks to everyone who contributed to creating this prototype. Contact information for all contributors is visible on the [Team page](/national_innovation_ecosystems_toolkit/Team.html).
+Huge thanks to everyone who contributed to creating this prototype. Contact information for all contributors is visible on the [Team page](/Team.html).
 
 **Curation task force:** Tayo Akinyemi (Global Team), Alberto Cottica (Global Team), Ana Grijalva (Ecuador), Eduardo Gustale (Global Team), Calum Handforth (Chief Digital Office), Nicola Holden (Chief Digital Office). 
 
