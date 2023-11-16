@@ -34,7 +34,7 @@ One of the first results of the collaboration among the various actors running _
 * A course leader who strategizes the use of the course and generates the needed partnerships.
 * A course administrator in charge of solving all enquiries related to the platform and managing the registration process.
 
-**Focal point**. [Ana Grijalva](/national_innovation_ecosystems_toolkit/contributors/Ana-Grijalva.html)
+**Focal point**. [Ana Grijalva](/contributors/Ana-Grijalva.html)
 
 **Country, year, and language**. Ecuador, 2022, Spanish
 

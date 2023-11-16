@@ -29,7 +29,7 @@ Finally, in a COVID-19 pandemic context, the newly established Digital Innovatio
 
 **People** (team numerosity): not reported
 
-**Focal point**. [Sandy Ramirez](/national_innovation_ecosystems_toolkit/contributors/Sandy-Ramirez.html)
+**Focal point**. [Sandy Ramirez](/contributors/Sandy-Ramirez.html)
 
 **Country and year**. Dominican Republic, 2021-2022
 

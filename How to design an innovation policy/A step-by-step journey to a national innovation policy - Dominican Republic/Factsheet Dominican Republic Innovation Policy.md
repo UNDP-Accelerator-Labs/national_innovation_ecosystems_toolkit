@@ -40,7 +40,7 @@ The Lab took on the task of designing theory of change for the national innovati
 
 **People**. Two UNDP Staff working full time.
 
-**Focal point**. [Jerson del Rosario](/national_innovation_ecosystems_toolkit/contributors/Jerson-del-Rosario.html).
+**Focal point**. [Jerson del Rosario](/contributors/Jerson-del-Rosario.html).
 
 **Country and year** : Dominican Republic 2021
 

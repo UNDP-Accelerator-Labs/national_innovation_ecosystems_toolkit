@@ -36,7 +36,7 @@ The file `contributors.yml` contains the data about contributors. The website us
 
 1. Add a picture of the contributor in the `public/imgs/contributors` folder.
 1. Create an entry in the `contributors.yml` file. Each entry has a key of the form NAME-SURNAME (do not forget the hyphen between the two), and a value in the form of a set of key:value pairs. Follow the structure provided.
-3. You can now create live links to the contributor's page from the factsheets of the tool she or he has helped create. The link takes the form `[Name Surname](/national_innovation_ecosystems_toolkit/contributors/NAME-SURNAME.html)`. Remember these links are case-sensitive. 
+3. You can now create live links to the contributor's page from the factsheets of the tool she or he has helped create. The link takes the form `[Name Surname](/contributors/NAME-SURNAME.html)`. Remember these links are case-sensitive. 
 
 ### Monitoring usage
 

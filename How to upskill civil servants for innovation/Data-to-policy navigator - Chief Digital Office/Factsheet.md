@@ -24,7 +24,7 @@ menu_parent: 5
 
 **People**. The Data to Policy Navigator is a self-led tool. However, managers may want to consider facilitating group discussions, learning, and broader mentoring to embed data-driven policymaking.
 
-**Focal point**. [Alena Klatte](/national_innovation_ecosystems_toolkit/contributors/Alena-Klatte.html)
+**Focal point**. [Alena Klatte](/contributors/Alena-Klatte.html)
 
 **Country, year, and language**. Global, 2023, English (translation to French & Spanish planned in 2023)
 

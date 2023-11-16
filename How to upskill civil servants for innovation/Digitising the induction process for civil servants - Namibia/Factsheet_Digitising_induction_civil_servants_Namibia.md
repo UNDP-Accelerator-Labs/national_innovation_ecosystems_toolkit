@@ -26,7 +26,7 @@ menu_parent: 5
 
 **People** : 3 digital advocates from the Accelerator Labs; 6 technical staff from the Office of the Prime Minister
 
-**Focal point**. [Yrika Maritz](/national_innovation_ecosystems_toolkit/contributors/Yrika-Maritz.html)
+**Focal point**. [Yrika Maritz](/contributors/Yrika-Maritz.html)
 
 **Country and year**. Namibia 2023
 

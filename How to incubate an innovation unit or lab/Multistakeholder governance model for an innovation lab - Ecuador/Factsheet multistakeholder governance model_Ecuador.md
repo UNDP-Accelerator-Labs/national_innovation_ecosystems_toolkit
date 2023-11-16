@@ -45,7 +45,7 @@ To use this tool the following team members will be required:
 1. A person to pitch key ideas to the government to have multi-actor governance model. Also, to convene and coordinate joint work between actors and set a common agenda.
 2. A person to support all the logistics of the coordination work and set first drafts on a common agenda.
 
-**Focal point**. [Ana M. Grijalva](/national_innovation_ecosystems_toolkit/contributors/Ana-Grijalva.html)
+**Focal point**. [Ana M. Grijalva](/contributors/Ana-Grijalva.html)
 
 **Country, year, and language**
 
