@@ -54,7 +54,7 @@ Ecuador, 2023, Spanish
 
 **Resources (in Spanish)**.
 
-- National[innovation ecosystem mapping tool](https://devthinkia.hanansoft.com/iniciativasmapa)
+- [National innovation ecosystem mapping tool](https://devthinkia.hanansoft.com/iniciativasmapa)
 - [Manual of how to use the national innovation ecosystem mapping tool](https://devthinkia.hanansoft.com/sites/default/files/2023-04/01.%20Instructivo%20iniciativas.pdf)
 - [Directory of actors registered on the innovation ecosystem](https://devthinkia.hanansoft.com/iniciativas)
 - [Dashboard of actors and initiatives registered](https://devthinkia.hanansoft.com/analitica)
