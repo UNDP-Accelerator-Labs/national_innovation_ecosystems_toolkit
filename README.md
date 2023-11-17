@@ -1,12 +1,3 @@
----
-title: Background and purpose 
-parent: Getting Started
-layout: default
-nav_order: 1
-
-menu_parent: 1
----
-
 ## Background and purpose 
 
 In 2022, the UNDP Accelerator Labs launched a survey to get a big picture view on the work that its global network of 91 labs was doing to support innovation ecosystems. The results were surprisingly clear-cut and coherent.  
