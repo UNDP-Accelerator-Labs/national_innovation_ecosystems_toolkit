@@ -35,3 +35,7 @@ Huge thanks to everyone who contributed to creating this prototype. Contact info
 **Technical support:** Adedapo Aderemi, Jeremy Boy (Global Team).
 
 **Design guru:** Bas Leurs (Global Team)
+
+## License
+
+The content of this website is property of the United Nations Development Programme, and published under a [Creative Commons 4.0 Attribution license](https://creativecommons.org/licenses/by/4.0/).
