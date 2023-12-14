@@ -2,26 +2,63 @@
 layout: default
 ---
 
-<div class="card">
-    {% if page.contributor.picture_dir %}
-    <img src="{{ site.url }}/public{{ page.contributor.picture_dir }}" alt="{{ page.contributor.name }}" class="profile-image">
-    {% else %}
-    <img src="{{ site.url }}/public/imgs/contributors/blank.png" alt="Blank" class="profile-image">
-    {% endif %}
-    <h1>{{ page.contributor.name }}</h1>
-    <p class="title">{{ page.contributor.title }}</p>
-    <p class="title">{{ page.contributor.job_title }}</p>
-    <p>{{ page.contributor.organization }}</p>
-    <p class="bio">{{ page.contributor.bio }}</p>
-    <a class="profile-link" target="_blank" href="{{ page.contributor.email }}"><i class="fa fa-email"></i></a>
-    <a class="profile-link" target="_blank" href="{{ page.contributor.twitter }}"><i class="fa fa-twitter"></i></a>
-    <a class="profile-link" target="_blank" href="{{ page.contributor.linkedin }}"><i class="fa fa-linkedin"></i></a>
-    <a class="profile-link" target="_blank" href="{{ page.contributor.github }}"><i class="fa fa-github"></i></a>
-    <p>
-        <button>
-            <a href="mailto:{{ page.contributor.email }}" style="color: white;">
-                Contact 
-            </a>
-        </button>
-    </p>
+<div class="grid-container fluid author-page">
+  <div class="grid-x">
+    <div class="cell medium-offset-1 medium-10 small-12">
+      <div class="author-summary inviewport" data-viewport="true">
+        <div class="author-summary-left">
+          <div class="author__img large">
+            {% if page.contributor.picture_dir %}
+            <img
+              src="{{ site.baseurl }}/public{{ page.contributor.picture_dir }}"
+              alt="{{ page.contributor.name }}"
+              class="profile-image"
+            />
+            {% else %}
+            <img
+              src="{{ site.baseurl }}/public/imgs/contributors/blank.png"
+              alt="Blank"
+              class="profile-image"
+            />
+            {% endif %}
+          </div>
+          <div class="author-summary-text">
+            <h2 class="" tabindex="0" data-viewport="false">
+              {{ page.contributor.name }}
+            </h2>
+            <p>{{ page.contributor.organization }}</p>
+            <p>{{ page.contributor.job_title }}</p>
+          </div>
+        </div>
+        <div class="author-summary-right">
+          <p>{{ page.contributor.bio }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="grid-container fluid author-page">
+  <div class="grid-x">
+    <div class="cell medium-offset-1 medium-10 small-12">
+      <div class="author-summary-left">
+        <div class="cta__link cta--space">
+          <span style="padding-right: 0.4em"
+            ><a href="mailto:{{ page.contributor.email | encode_email }}">Contact </a></span
+          >
+          <span style="padding-right: 0.4em"
+            ><a target="_blank" href="{{ page.contributor.twitter }}"
+              ><i class="fa fa-twitter"></i></a
+          ></span>
+          <span style="padding-right: 0.4em"
+            ><a target="_blank" href="{{ page.contributor.linkedin }}"
+              ><i class="fa fa-linkedin"></i></a
+          ></span>
+          <span style="padding-right: 0.4em"
+            ><a target="_blank" href="{{ page.contributor.github }}"
+              ><i class="fa fa-github"></i></a
+          ></span>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

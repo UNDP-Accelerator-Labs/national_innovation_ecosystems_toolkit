@@ -1,0 +1,24 @@
+title: "National Innovation Ecosystems (NIEs) Toolkit"
+description: "Welcome to the National Innovation Ecosystems (NIEs) Toolkit"
+
+header_background_color: "#FF5733"
+
+header_info_text: "This is a prototype. Please help the UNDP Accelerator Labs contribute to it. Contribute to this toolkit on <a href= 'https://github.com/UNDP-Accelerator-Labs/national_innovation_ecosystems_toolkit' target= '_blank'>Github.</a>."
+header_logo_image_path: "/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
+
+# Footer Configuration
+footer_organization: "UNDP Accelerator Labs"
+about_url: "https://www.undp.org/acceleratorlabs"
+fraud_report_url: "https://www.undp.org/accountability/audit/investigations"
+scam_alert_url: "https://www.undp.org/scam-alert"
+terms_of_use_url: "https://www.undp.org/copyright-terms-use"
+current_year: 2023
+copyright_holder: "United Nations Development Programme"
+linkedin_url: "https://www.linkedin.com/company/undp-accelerator-labs"
+twitter_url: "https://twitter.com/UNDPAccLabs"
+instagram_url: "https://www.instagram.com/acceleratorlabs/"
+
+# Image URLs
+logo_image_url: "/public/imgs/logo.png"
+partners_image_url: "/public/imgs/UNDP_Acc_Labs_Patners_2022_CorePartners_Horizontal_RGB.png"
+github_url: "https://github.com/UNDP-Accelerator-Labs/national_innovation_ecosystems_toolkit"
