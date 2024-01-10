@@ -1,21 +1,4 @@
-baseurl: "/"
-url: "https://nie.sdg-innovation-commons.org"
-plugins:
-    - jekyll-seo-tag
-gems:
-  - jekyll-email-protect
 exclude:
   - README.md
-  - markdown_styling.md 
-  - Tutorials/
-  - vendor
-  - CNAME
-  - README.md
-  - node_modules
-  - .sass-cache
-  - Gemfile
-  - Gemfile.lock
-  - package.json
-  - package-lock.json
-  - packages
-  - bin
+baseurl: "/"
+url: "https://nie.sdg-innovation-commons.org"
