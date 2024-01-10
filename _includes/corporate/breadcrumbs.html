@@ -1,0 +1,11 @@
+<nav aria-label="breadcrumbs" data-viewport="true" class="breadcrumb">
+    <ul>
+        <li><a href="{{ site.url }}/" aria-label="Home">Home</a></li>
+        {% for post in site.pages %}
+            {% if page.menu_parent and post.menu == page.menu_parent %}
+                <li><a href="{{site.url}}/{{ page.url }}" aria-label="Second-level">{{ post.title  }}</a></li>
+            {% endif %}
+        {% endfor %}
+        <li aria-current="Page title">{{ page.title }}</li>
+    </ul>
+</nav>

@@ -1,8 +1,3 @@
-{% if site.logo %}
-  <div class="site-logo">
-    <img src="{{ site.url }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
-  </div>
-{% else %}
-  {{ site.title }}
-  <img src="{{ site.url }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"  width="150" alt="undp_accelerator_labs_logo">
-{% endif %}
+<div class="site-logo">
+  <img src="{{ site.url }}/{{ site.data.site_info.logo_image_path }}" width="150" alt="undp_accelerator_labs_logo">
+</div>
