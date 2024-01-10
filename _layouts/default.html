@@ -335,5 +335,22 @@
       });
   });
     </script>
+    <script type="text/javascript">
+      // Function to get the referrer URL
+      function getReferrer() {
+          return document.referrer;
+      }
+  
+      var oldURL = "https://undp-accelerator-labs.github.io/national_innovation_ecosystems_toolkit";
+  
+      // Check if the referrer matches the old URL
+      if (getReferrer() === oldURL) {
+          // Redirect to the new URL
+          window.location.href = "https://nie.sdg-innovation-commons.org/";
+      }
+  </script>
+  
+		<script data-goatcounter="https://UNDP-NIE-toolkit.goatcounter.com/count"
+		        async src="//gc.zgo.at/count.js"></script>
   </body>
 </html>
