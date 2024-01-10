@@ -4,66 +4,338 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/public/imgs/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/public/imgs/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/public/imgs/favicon-16x16.png">
-    <link rel="icon" type="image/x-icon" href="{{ site.url }}/public/imgs/favicon.ico">
-    <!-- <link rel="manifest" href="../public/imgs/site.webmanifest"> -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/public/imgs/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/public/imgs/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/public/imgs/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/public/imgs/favicon.ico">
 
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/base-minimal.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-card.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-column.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/cta-link.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/global-header.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/language-switcher.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/menu.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/mega-menu.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/mobile-nav.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/breadcrumbs.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/authors.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-summary.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/content-card.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/chips.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/input-fields.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/buttons.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/newsletter-signup.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/accordion.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/footer.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/author-page.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/menu-overflow.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/sidebar.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/sidebar-data.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/page-hero.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/progress.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/fluid-image-size-carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/generic-page.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/search-expand.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/country-site-header.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/filter-and-search-bar.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/multi-select.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/checkbox.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/radio.min.css">
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+  />
+  
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/custom.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/footer.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/profile.css?v=" | append: site.github.build_revision | relative_url }}">
 
-    <title>National Innovation Ecosystems (NIEs) Toolkit</title>
+    <title>{{ site.data.site_info.title }}</title>
 
     <!-- OGP tags -->
-    <meta property="og:title" content="National Innovation Ecosystem (NIE) Toolkit">
-    <meta property="og:description" content="This toolkit was produced in the cultural context of UNDP’s Accelerator Labs and Chief Digital Office. It inherits their culture of deep listening, immersion within the everyday reality of the Global South, respect for grassroots innovation, openness, and epistemological humility. It does not seek to provide turnkey solutions, but to share the knowledge accumulated along the way, in the hope of making the task of supporting innovation ecosystems a little less difficult.">
-    <meta property="og:site_name" content="National Innovation Ecosystem (NIE) Toolkit">
+    <meta property="og:title" content="{{ site.data.site_info.title }}">
+    <meta property="og:description" content="{{ site.data.site_info.description }}">
     
-    <meta property="og:image" content="{{ site.url }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
-    <meta property="og:image:secure_url" content="{{ site.url }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
-    <!-- <meta property="og:image:type" content="image/png" /> -->
+    <meta property="og:image" content="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image:secure_url" content="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
     <meta property="og:image:width" content="400" />
-    <!-- <meta property="og:image:height" content="300" /> -->
     <meta property="og:image:alt" content="UNDP Accelerator Labs Logo" />
 
+    {% seo %}
   </head>
   <body>
-    {% include components/sidebar.html %}
 
-    {% include components/header.html %}
+    <div class="generic-page">
+      <!-- START HEARDER -->
+      <header class="country-header country-load-animation run-animation">
+        <section class="header">
+          <div class="grid-container fluid">
+            <div class="grid-x grid-margin-x align-content-middle">
+              <div class="cell small-8 large-8 shrink align-self-middle top-left">
+                <a href="{{ site.baseurl }}/" class="logo" tabindex="0" title="UNDP Logo homepage link">
+                  <img
+                    src="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
+                    style="max-width: 30%; height: auto; margin-right: 1em;"
+                    alt="UNDP Logo"
+                  />
+                </a>
+                <div class="site-title" style="padding-left: 10em">
+                  <span><a href="#" title="UNDP homepage link">TOOLKITS</a></span>
+                  <span><a href="#" title="UNDP homepage link">{{ site.data.site_info.title }}</a></span>
+                </div>
+              </div>
+              <div class="cell small-1 large-6 align-content-middle top-center">
+                <nav class="menu">
+                  <ul class="">
+                    <li data-menu-id="headerlink1">
+                      <a href="{{ site.data.site_info.github_url }}" target="_blank" class="" tabindex="0" aria-expanded="true">
+                        Get Involved
+                      </a>
+                    </li>
+                    <li data-menu-id="headerlink2">
+                    <div class="expand-search align-content-middle top-center">
+                      <button class="expand-button">
+                        <span class="icon-search"></span>
+                      </button>
+                      <input type="text" aria-label="expand-search" id="search"/>
+                    </div>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="cell small-3 large-2 top-right">
+                <button id="google_translate_element" style="border: 0;" ></button>          
+              </div>
+            </div>
+          </div>
+        </section>
+      </header>
+      <!-- END HEADER -->
 
-    {% include components/partial-header.html %}
+        <!-- START SIDEBAR FOR MOBILE -->
+        <div class="grid-x">
+          <div class="cell small-12 sidebar-width">
+            <div class="column sidebar-mobile">
+              <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
+                <div class="grid-x">
+                  <div class="cell undefined">
+                    <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
+                    <ul>
+                      {% assign ordered_pages = site.pages | sort: 'menu' %}
+                            {% for page in ordered_pages %}
+                            {% if page.menu %}
+                                <li aria-label="Sidebar heading" >
+                                    <a  href="{% if page.has_children == false %} {{ site.baseurl }}{{ page.url }} {% else %} # {% endif %}">{{ page.title }}</a>
+                                {% if page.has_children == false  %}
+                                {% else %}
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                {% endif %}
+                                
+                                {% assign submenu_pages = site.pages | where: 'menu_parent', page.menu | sort: 'nav_order' %}
+                                {% if submenu_pages.size > 0 %}
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    {% for submenu_page in submenu_pages %}
+                                    <li >
+                                      <a  href="{{ site.baseurl }}{{ submenu_page.url }}">{{ submenu_page.title }}</a></li>
+                                    {% endfor %}
+                                    </ul>
+                                {% endif %}
+                                </li>
+                            {% endif %}
+                            {% endfor %}
+                    </ul>
+                  </div>
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+        <!-- END SIDEBAR FRO MOBILE -->
+        
+        {% include components/partial-header.html %}
+        <div class="grid-container fluid content-bottom">
+          <div class="grid-x margin-top-72">
+            
+            <!-- START SIDEBAR FOR DESKTOP -->
+            <div class="cell large-3 small-12 sidebar-width">
+              <div class="column sidebar-desktop">
+                <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
+                  <div class="grid-x">
+                    <div class="cell medium-12">
+                      <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
+                      <ul>
+                        {% assign ordered_pages = site.pages | sort: 'menu' %}
+                            {% for page in ordered_pages %}
+                            {% if page.menu %}
+                                <li aria-label="Sidebar heading" >
+                                    <a  href="{% if page.has_children == false %} {{ site.baseurl }}{{ page.url }} {% else %} # {% endif %}">{{ page.title }}</a>
+                                {% if page.has_children == false  %}
+                                {% else %}
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                {% endif %}
+                                
+                                {% assign submenu_pages = site.pages | where: 'menu_parent', page.menu | sort: 'nav_order' %}
+                                {% if submenu_pages.size > 0 %}
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    {% for submenu_page in submenu_pages %}
+                                    <li >
+                                      <a  href="{{ site.baseurl }}{{ submenu_page.url }}">{{ submenu_page.title }}</a></li>
+                                    {% endfor %}
+                                    </ul>
+                                {% endif %}
+                                </li>
+                            {% endif %}
+                            {% endfor %}
+                      </ul>
+                    </div>
+                  </div>
+                </nav>
 
-    <div class="container-lg px-3 my-5 markdown-body">
+                <!-- BEGGIN FILTERS -->
+                <div class="search-filter">
+                  <div class="select-wrapper">
+                    <div id="tag-div"></div>
+                    <div id="sdg-div"></div>
+                    
+                    
+                    <span class="active-filter">Active Filters:</span>
+                    <div class="selected-chips"></div>
+                    <button class="clear-search-filter">Clear All</button>
+                  </div>
+                </div>
+                <!-- END FILTER -->
 
-      {% include components/breadcrumbs.html %}
+              </div>
+            </div>
+            <!-- END SIDEBAR FOR DESKTOP -->
+
+            <!-- BEGIN PAGE CONTENT -->
+            <div class="cell large-9 small-12 generic-content">
+              <div class="grid-x">
+                <div class="markdown-body">
+
+                  <!-- START BREADCRUMBS NAV -->
+                  {% include corporate/breadcrumbs.html %}
+                  <!-- END BREADCRUMBS NAV -->
+
+                  <div id="results"></div>
+                  <div id="content">
+                    {{ content }}
+                  </div>
+
+                  <!-- BEGIN TAGS AND SDG CHIPS -->
+                  {% if page.tags or page.sdg %}
+                  <div class="pt-3" >
+                  <hr/>
+                  <div>
+                    {% if page.tags %}
+                    <h5> Tags</h5>
+                    {% include corporate/tag-chip.html %}
+                    {% endif %}
+                  </div>
+
+                  <div>
+                    {% if page.sdg %}
+                    <h5> SDG</h5>
+                    {% include corporate/category-chip.html %}
+                    {% endif %}
+                  </div>
+                </div>
+                {% endif %}
+                  <!-- END TAGS AND CATEGORY CHIPS -->
+
+                </div>
+              </div>
+            </div>
+            <!-- END PAGE CONTENT -->
+
+          </div>
+        </div>
+
+        <!-- BEGIN PAGE FOOTER -->
+        {% include corporate/footer.html %}
+      </div>      
 
 
-      {{ content }}
-
-      {% if site.github.private != true and site.github.license %}
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. Improve this page.
-      </div>
-      {% endif %}
-
-      
-    </div>
-
-    {% include components/footer.html %}
-  <!-- </div> -->
-  
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    <script type='javascript'>
-      console.log('{{site}}')
-      console.log('{{site.github}}')
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+      }
     </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/gsap.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/animation.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/navigation.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/undp.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/accordion.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/viewport.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/sidebar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/lang-switcher.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/scrolling-progressbar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/swiper.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/expand-search.min.js"></script>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/filter-search-bar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/multi-select.min.js"></script>
+
+    <!-- <script src="{{ site.baseurl}}/public/js/indexload.js"></script> -->
+    <script src="{{ site.baseurl}}/assets/lunr-min.js"></script>
+    <script src="{{ site.baseurl}}/assets/lunr-feed.js"></script>
+    <script>
+    $(document).ready(function(){
+      navigationInitialize();
+      navigationOverFlow();
+      navigationMultiLevelEdgeDetection();
+
+      accordion();
+      sidebarNav();
+      sidebarMenu();
+
+      langSwitch();
+
+      accordion('[data-accordion="mobile"]', '.footer-panel', 'active');
+      expandToSize('.pagehero-full');
+      swiper('.fluid-carousel', '.slide-content'); 
+
+      expandSearch()
+      multiSelect()
+      toggleFilter()
+    });
+
+    $(document).ready(function() {
+      var current = window.location.pathname;
+      $('li a').each(function() {
+          var $this = $(this);
+          if($this.attr('href') === current) {
+            $this.closest('li[aria-label="Sidebar heading"]').find('ul.accordion__panel').addClass('display-block-important');
+            $this.closest('li[aria-label="Sidebar heading"]').addClass('active');
+          }
+          else {
+            $this.closest('ul.accordion__panel').css('display', 'none');
+          }
+      });
+  });
+    </script>
+
     <script type="text/javascript">
       // Function to get the referrer URL
       function getReferrer() {
