@@ -9,7 +9,6 @@ exclude:
   - markdown_styling.md 
   - Tutorials/
   - vendor
-  - CNAME
   - README.md
   - node_modules
   - .sass-cache
