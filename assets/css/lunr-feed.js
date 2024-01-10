@@ -79,7 +79,7 @@ $(document).ready(function() {
       var searchitem = `
       <div class="tertiary">
         <h5 class="" tabindex="0" data-viewport="false">
-        <a href="{{site.baseurl}}${store[ref]?.url}">
+        <a href="{{site.url}}/${store[ref]?.url}">
             ${store[ref]?.title}
         </a>
         </h5>
@@ -182,7 +182,7 @@ let sdglist = []
 let searchitemfn = post => `
 <div class="tertiary">
     <h5 class="" tabindex="0" data-viewport="false">
-    <a href="{{site.baseurl}}${post?.url}">
+    <a href="{{site.url}}/${post?.url}">
         ${post?.title}
     </a>
     </h5>

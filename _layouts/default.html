@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/public/imgs/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/public/imgs/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/public/imgs/favicon-16x16.png">
-    <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/public/imgs/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/public/imgs/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/public/imgs/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/public/imgs/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="{{ site.url }}/public/imgs/favicon.ico">
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/base-minimal.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-card.min.css">
@@ -64,8 +64,8 @@
     <meta property="og:title" content="{{ site.data.site_info.title }}">
     <meta property="og:description" content="{{ site.data.site_info.description }}">
     
-    <meta property="og:image" content="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
-    <meta property="og:image:secure_url" content="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image" content="{{ site.url }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image:secure_url" content="{{ site.url }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
     <meta property="og:image:width" content="400" />
     <meta property="og:image:alt" content="UNDP Accelerator Labs Logo" />
 
@@ -80,9 +80,9 @@
           <div class="grid-container fluid">
             <div class="grid-x grid-margin-x align-content-middle">
               <div class="cell small-8 large-8 shrink align-self-middle top-left">
-                <a href="{{ site.baseurl }}/" class="logo" tabindex="0" title="UNDP Logo homepage link">
+                <a href="{{ site.url }}/" class="logo" tabindex="0" title="UNDP Logo homepage link">
                   <img
-                    src="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
+                    src="{{ site.url }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
                     style="max-width: 30%; height: auto; margin-right: 1em;"
                     alt="UNDP Logo"
                   />
@@ -133,7 +133,7 @@
                             {% for page in ordered_pages %}
                             {% if page.menu %}
                                 <li aria-label="Sidebar heading" >
-                                    <a  href="{% if page.has_children == false %} {{ site.baseurl }}{{ page.url }} {% else %} # {% endif %}">{{ page.title }}</a>
+                                    <a  href="{% if page.has_children == false %} {{ site.url }}/{{ page.url }} {% else %} # {% endif %}">{{ page.title }}</a>
                                 {% if page.has_children == false  %}
                                 {% else %}
                                 <button
@@ -148,7 +148,7 @@
                                     <ul class="accordion__panel" style="display: block;" >
                                     {% for submenu_page in submenu_pages %}
                                     <li >
-                                      <a  href="{{ site.baseurl }}{{ submenu_page.url }}">{{ submenu_page.title }}</a></li>
+                                      <a  href="{{ site.url }}/{{ submenu_page.url }}">{{ submenu_page.title }}</a></li>
                                     {% endfor %}
                                     </ul>
                                 {% endif %}
@@ -180,7 +180,7 @@
                             {% for page in ordered_pages %}
                             {% if page.menu %}
                                 <li aria-label="Sidebar heading" >
-                                    <a  href="{% if page.has_children == false %} {{ site.baseurl }}{{ page.url }} {% else %} # {% endif %}">{{ page.title }}</a>
+                                    <a  href="{% if page.has_children == false %} {{ site.url }}/{{ page.url }} {% else %} # {% endif %}">{{ page.title }}</a>
                                 {% if page.has_children == false  %}
                                 {% else %}
                                 <button
@@ -195,7 +195,7 @@
                                     <ul class="accordion__panel" style="display: block;" >
                                     {% for submenu_page in submenu_pages %}
                                     <li >
-                                      <a  href="{{ site.baseurl }}{{ submenu_page.url }}">{{ submenu_page.title }}</a></li>
+                                      <a  href="{{ site.url }}/{{ submenu_page.url }}">{{ submenu_page.title }}</a></li>
                                     {% endfor %}
                                     </ul>
                                 {% endif %}
@@ -297,7 +297,7 @@
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/filter-search-bar.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/multi-select.min.js"></script>
 
-    <!-- <script src="{{ site.baseurl}}/public/js/indexload.js"></script> -->
+    <!-- <script src="{{ site.url}}/public/js/indexload.js"></script> -->
     <script src="{{ site.url}}/assets/lunr-min.js"></script>
     <script src="{{ site.url}}/assets/lunr-feed.js"></script>
     <script>

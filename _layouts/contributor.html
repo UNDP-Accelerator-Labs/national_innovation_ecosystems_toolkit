@@ -10,13 +10,13 @@ layout: default
           <div class="author__img large">
             {% if page.contributor.picture_dir %}
             <img
-              src="{{ site.baseurl }}/public{{ page.contributor.picture_dir }}"
+              src="{{ site.url }}/public{{ page.contributor.picture_dir }}"
               alt="{{ page.contributor.name }}"
               class="profile-image"
             />
             {% else %}
             <img
-              src="{{ site.baseurl }}/public/imgs/contributors/blank.png"
+              src="{{ site.url }}/public/imgs/contributors/blank.png"
               alt="Blank"
               class="profile-image"
             />

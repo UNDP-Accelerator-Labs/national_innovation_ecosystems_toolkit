@@ -3,17 +3,17 @@
   = contributor_data[0] %} {% assign contributor = contributor_data[1] %}
   <div class="cell medium-4">
     <div class="author-box">
-      <a href="{{ site.baseurl }}{{contributor.href}}" class="secondary">
+      <a href="{{ site.url }}/{{contributor.href}}" class="secondary">
       <div class="author__img">
         {% if contributor.picture_dir %}
         <img
-          src="{{ site.baseurl }}/public/{{ contributor.picture_dir }}"
+          src="{{ site.url }}/public/{{ contributor.picture_dir }}"
           alt="{{ contributor.name }}"
           class="profile-image"
         />
         {% else %}
         <img
-          src="{{ site.baseurl }}/public/imgs/contributors/blank.png"
+          src="{{ site.url }}/public/imgs/contributors/blank.png"
           alt="Blank"
           class="profile-image"
         />
