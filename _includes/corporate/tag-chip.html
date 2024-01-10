@@ -1,0 +1,3 @@
+{% for tag in page.tags %}
+    <a class="chip tag-chip" href="#"  text-value="{{ tag }}" role="button">{{ tag | capitalize }}</a>
+{% endfor %}

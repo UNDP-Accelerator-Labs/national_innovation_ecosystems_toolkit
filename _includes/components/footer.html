@@ -1,100 +1,33 @@
 <footer style="padding-top:5em;">
-  <style>
-    /* Footer */
-  footer {
-  background-color: #fafafa;
-  color: #006eb5;
-  padding: 2rem;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  font-family: Arial, sans-serif;
-  font-size: 0.8rem;
-  margin-left: 270px;
-}
-
-.footer-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  width: 100%;
-  margin-bottom: 1rem;
-}
-
-.footer-column {
-  flex-basis: 30%;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 1rem;
-  background-color: transparent !important;
-}
-
-h4 {
-  font-weight: bold;
-  margin-bottom: 0.5rem;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-ul li {
-  margin-bottom: 0.5rem;
-}
-
-li {
-  list-style: none;
-  margin-bottom: 0.5rem;
-}
-
-a {
-  color: #006eb5;
-  font-weight: 1.5rem;
-  text-decoration: none;
-}
-
-.social-media-links li {
-  display: inline-block;
-  margin-right: 1rem;
-}
-
-  </style>
-
   <hr />
   <div class="footer-row">
     <div class="footer-column">
-      <img src="{{ site.url }}/public/imgs/logo.png"  width="150" alt="undp accelerator labs logo">
-      <p>UNDP Accelerator Labs</p>
+      <img src="{{ site.baseurl }}{{ site.data.site_info.logo_image_url }}"  width="150" alt="undp accelerator labs logo">
+      <p>{{ site.data.site_info.footer_organization }}</p>
     </div>
     <div class="footer-column">
       <h4>Links</h4>
-      <!-- <ul> -->
-        <li><a target="_blank" href="https://www.undp.org/acceleratorlabs">About Us</a></li>
-        <li><a target="_blank" href="https://www.undp.org/accountability/audit/investigations">Report fraud, abuse, misconduct</a></li>
-        <li><a target="_blank" href="https://www.undp.org/scam-alert">Scam Alert</a></li>
-        <li><a target="_blank" href="https://www.undp.org/copyright-terms-use">Terms of Use</a></li>
-      <!-- </ul> -->
+      <ul>
+        <li><a target="_blank" href="{{ site.data.site_info.about_url }}">About Us</a></li>
+        <li><a target="_blank" href="{{ site.data.site_info.fraud_report_url }}">Report fraud, abuse, misconduct</a></li>
+        <li><a target="_blank" href="{{ site.data.site_info.scam_alert_url }}">Scam Alert</a></li>
+        <li><a target="_blank" href="{{ site.data.site_info.terms_of_use_url }}">Terms of Use</a></li>
+      </ul>
     </div>
     <div class="footer-column">
-      <!-- <h4>Our Partners</h4> -->
-      <img src="{{ site.url }}/public/imgs/UNDP_Acc_Labs_Patners_2022_CorePartners_Horizontal_RGB.png"  alt="undp accelerator Partnerslogo">
+      <img src="{{ site.baseurl }}{{ site.data.site_info.partners_image_url }}"  alt="undp accelerator Partnerslogo">
     </div>
   </div>
   <div class="footer-row">
     <div class="footer-column">
-      <p>&copy; 2023 United Nations Development Programme</p>
+      <p>&copy; {{ site.data.site_info.current_year }} {{ site.data.site_info.copyright_holder }}</p>
     </div>
     <div class="footer-column">
       <h4>Follow Us</h4>
       <div class="social-media-links">
-        <li><a target="_blank" href="https://www.linkedin.com/company/undp-accelerator-labs"><i class="fa fa-linkedin"></i></a></li>
-        <li><a target="_blank" href="https://twitter.com/UNDPAccLabs"><i class="fa fa-twitter"></i></a></li>
-        <li><a target="_blank" href="https://www.instagram.com/acceleratorlabs/"><i class="fa fa-instagram"></i></a></li>
+        <li><a target="_blank" href="{{ site.data.site_info.linkedin_url }}"><i class="fa fa-linkedin"></i></a></li>
+        <li><a target="_blank" href="{{ site.data.site_info.twitter_url }}"><i class="fa fa-twitter"></i></a></li>
+        <li><a target="_blank" href="{{ site.data.site_info.instagram_url }}"><i class="fa fa-instagram"></i></a></li>
       </div>
     </div>
     <div class="footer-column"></div>
