@@ -6836,3 +6836,6 @@ pre {
   .markdown-body, body, h1, h2, h3, h4, h5, h6, h7, p, ul, ol, l1, a, span {
     font-family: "Noto Sans", sans-serif !important;
   }
+  .display-block-important {
+    display: block !important;
+}

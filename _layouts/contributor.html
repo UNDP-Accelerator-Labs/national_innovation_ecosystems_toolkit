@@ -42,21 +42,33 @@ layout: default
     <div class="cell medium-offset-1 medium-10 small-12">
       <div class="author-summary-left">
         <div class="cta__link cta--space">
+          {% if page.contributor.email %}
           <span style="padding-right: 0.4em"
             ><a href="mailto:{{ page.contributor.email | encode_email }}">Contact </a></span
           >
+          {% endif %}
+
+          {% if page.contributor.twitter %}
           <span style="padding-right: 0.4em"
             ><a target="_blank" href="{{ page.contributor.twitter }}"
               ><i class="fa fa-twitter"></i></a
           ></span>
+          {% endif %}
+          
+          {% if page.contributor.linkedin %}
           <span style="padding-right: 0.4em"
             ><a target="_blank" href="{{ page.contributor.linkedin }}"
               ><i class="fa fa-linkedin"></i></a
           ></span>
+          {% endif %}
+
+          {% if page.contributor.github %}
           <span style="padding-right: 0.4em"
             ><a target="_blank" href="{{ page.contributor.github }}"
               ><i class="fa fa-github"></i></a
           ></span>
+          {% endif %}
+
         </div>
       </div>
     </div>

@@ -326,8 +326,11 @@
       $('li a').each(function() {
           var $this = $(this);
           if($this.attr('href') === current) {
-          $this.closest('li[aria-label="Sidebar heading"]').addClass('active');
-
+            $this.closest('li[aria-label="Sidebar heading"]').find('ul.accordion__panel').addClass('display-block-important');
+            $this.closest('li[aria-label="Sidebar heading"]').addClass('active');
+          }
+          else {
+            $this.closest('ul.accordion__panel').css('display', 'none');
           }
       });
   });
