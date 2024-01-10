@@ -325,7 +325,7 @@
       var current = window.location.pathname;
       $('li a').each(function() {
           var $this = $(this);
-          if($this.attr('href') === current) {
+          if($this.attr('href') == current) {
             $this.closest('li[aria-label="Sidebar heading"]').find('ul.accordion__panel').addClass('display-block-important');
             $this.closest('li[aria-label="Sidebar heading"]').addClass('active');
           }
