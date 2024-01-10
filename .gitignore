@@ -6,4 +6,5 @@ _site
 .jekyll-cache
 .sass-cache
 _site
+Gemfile.lock
 node_modules
