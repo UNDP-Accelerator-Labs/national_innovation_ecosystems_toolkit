@@ -322,7 +322,7 @@
     });
 
     $(document).ready(function() {
-      var current = window.location.pathname;
+      var current = window.location.href;
       $('li a').each(function() {
           var $this = $(this);
           if($this.attr('href') == current) {
