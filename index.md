@@ -26,9 +26,10 @@ Your feedback is hugely appreciated, even (especially!) if critical. Please dire
 
 Huge thanks to everyone who contributed to creating this prototype. Contact information for all contributors is visible on the [Team page](/Team.html).
 
-**Curation task force:** Tayo Akinyemi (Global Team), Alberto Cottica (Global Team), Ana Grijalva (Ecuador), Eduardo Gustale (Global Team), Calum Handforth (Chief Digital Office), Nicola Holden (Chief Digital Office). 
 
-**Contributors:** Jerson Del Rosario (Dominican Republic), Caroline Kiarie-Kimondo (Kenya), Yrika Maritz (Namibia), Nampaka Nkumbula (Zambia), Nguyen Tuan Luong (Viet Nam), Cristhian Parra (Paraguay). 
+**Contributors:** See the [Contributors page](/Team.html). 
+
+**Curation task force:** Tayo Akinyemi (Global Team), Alberto Cottica (Global Team), Ana Grijalva (Ecuador), Eduardo Gustale (Global Team), Calum Handforth (Chief Digital Office), Nicola Holden (Chief Digital Office). 
 
 **Peer review:** Lazar Pop Ivanov (North Macedonia), Paola Costantino (Guatemala).
 
