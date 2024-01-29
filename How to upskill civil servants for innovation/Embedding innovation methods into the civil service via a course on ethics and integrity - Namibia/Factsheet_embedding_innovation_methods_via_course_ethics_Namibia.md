@@ -12,7 +12,7 @@ menu_parent: 5
 
 **What it does.** Helps embedding into government the practice of social innovation through functional service areas such as HR, Procurement, Security, Finance, Public Relations and Ethics / Integrity Officers.
 
-**Value proposition for the government or other partner.** By finding alternative structures within government to introduce innovation methods and tools in solving problems for them and practicing how the innovation tools and methods are used, we will enable the public service to use various tools and techniques such as behavioral insights, design thinking, citizen assemblies, legislative theatres, sentiment analysis and other innovation practices to come up with new ways of improving public service delivery. Additional value: by leveraging UNDP and UNDESA resources, implementing parties won't need to go through a Request for Proposals, thus speeding ep implementation.
+**Value proposition for the government or other partner.** By finding alternative structures within government to introduce innovation methods and tools in solving problems for them and practicing how the innovation tools and methods are used, we will enable the public service to use various tools and techniques such as behavioral insights, design thinking, citizen assemblies, legislative theatres, sentiment analysis and other innovation practices to come up with new ways of improving public service delivery. Additional value: by leveraging UNDP and UNDESA resources, implementing parties won't need to go through a Request for Proposals, thus speeding up implementation.
 
 **Why and when to use it**. Use this example when you aim to socialize to the use of innovation methods any category of civil servants, even if they don't work in innovation units.
 
