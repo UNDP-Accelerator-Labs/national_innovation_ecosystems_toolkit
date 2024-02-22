@@ -15,7 +15,7 @@ menu_parent: 6
 
 **Value proposition for the government or other partner.** The ecosystem research and mapping exercise helped Kenya's National Innovation agency understand the landscape and provided data and evidence that builds a case for the agency, i.e. why it should be supported, why there should be a strategy for innovation and ecosystem engagement. For Konza Technopolis (Kenya's "smart city), which will become the center of Kenya's innovation ecosystem from an infrastructure perspective, insights from the mapping will prevent the project from perpetuating the challenges that innovation hubs have faced.
 
-**Why and when to use it**. A mapping exercise is useful when there is a saw the gap in publicly available information and analysis on the innovation landscape particularly from an innovator's perspective, i.e. where an innovator with an idea would go for support, and where s/he would be most likely to find success or face challenges.
+**Why and when to use it**. A mapping exercise is useful when there is a  gap in publicly available information and analysis on the innovation landscape particularly from an innovator's perspective, i.e. when it not clear to all where an innovator with an idea would go for support, and where s/he would be most likely to find success or face challenges.
 
 **Known issues and troubleshooting**. There might be pushback from ecosystem actors who might question the "right" of the mapping entity to do the work.
 
