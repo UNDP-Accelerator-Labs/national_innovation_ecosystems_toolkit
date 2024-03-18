@@ -79,7 +79,7 @@
         <section class="header">
           <div class="grid-container fluid">
             <div class="grid-x grid-margin-x align-content-middle">
-              <div class="cell small-8 large-8 shrink align-self-middle top-left">
+              <div class="cell small-6 large-6 shrink align-self-middle top-left">
                 <a href="{{ site.url }}/" class="logo" tabindex="0" title="UNDP Logo homepage link">
                   <img
                     src="{{ site.url }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
@@ -92,28 +92,34 @@
                   <span><a href="#" title="UNDP homepage link">{{ site.data.site_info.title }}</a></span>
                 </div>
               </div>
-              <div class="cell small-1 large-6 align-content-middle top-center">
+              <div class="cell small-1 large-1 align-content-middle top-center">
                 <nav class="menu">
                   <ul class="">
                     <li data-menu-id="headerlink1">
-                      <a href="{{ site.data.site_info.github_url }}" target="_blank" class="" tabindex="0" aria-expanded="true">
-                        Get Involved
-                      </a>
-                    </li>
-                    <li data-menu-id="headerlink2">
-                    <div class="expand-search align-content-middle top-center">
-                      <button class="expand-button">
-                        <span class="icon-search"></span>
-                      </button>
-                      <input type="text" aria-label="expand-search" id="search"/>
-                    </div>
                     </li>
                   </ul>
                 </nav>
               </div>
-              <div class="cell small-3 large-2 top-right">
-                <button id="google_translate_element" style="border: 0;" ></button>          
-              </div>
+              <div class="cell small-5 large-auto top-right">
+                <div >
+                  <nav class="menu">
+                    <ul class="">
+                      <li data-menu-id="headerlink2">
+                        <a href="{{ site.data.site_info.github_url }}" target="_blank" >Contribute  </a>
+                      </li>
+                      <li>
+                        <button
+                          aria-expanded="false"
+                          id="google_translate_element"
+                          style="border: 0; background: none;"
+                        >
+                        </button>
+                      </li>
+                    </ul>
+                  </nav>
+                  
+                </div>
+            </div>
             </div>
           </div>
         </section>
@@ -128,6 +134,16 @@
                 <div class="grid-x">
                   <div class="cell undefined">
                     <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
+                    <div class="expand-search">
+                      <button class="expand-button">
+                        <img src="https://design.undp.org/static/media/search-black.4642527c.svg" alt="search expand" />
+                      </button>
+                      <input type="text" aria-label="expand-search" id="search" />
+                      <button class="close-button">
+                        <img src="https://design.undp.org/static/media/times.cd26ac2e.svg" alt="search close" />
+                      </button>
+                    </div>
+
                     <ul>
                       {% assign ordered_pages = site.pages | sort: 'menu' %}
                             {% for page in ordered_pages %}
@@ -174,6 +190,17 @@
                 <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
                   <div class="grid-x">
                     <div class="cell medium-12">
+
+                      <div class="expand-search">
+                        <button class="expand-button">
+                          <img src="https://design.undp.org/static/media/search-black.4642527c.svg" alt="search expand" />
+                        </button>
+                        <input type="text" aria-label="expand-search" id="search" />
+                        <button class="close-button">
+                          <img src="https://design.undp.org/static/media/times.cd26ac2e.svg" alt="search close" />
+                        </button>
+                      </div>
+                      
                       <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
                       <ul>
                         {% assign ordered_pages = site.pages | sort: 'menu' %}
