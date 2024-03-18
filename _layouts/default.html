@@ -145,6 +145,10 @@
                     </div>
 
                     <ul>
+                      <li data-menu-id="headerlink2">
+                        <a href="{{ site.data.site_info.github_url }}" target="_blank" >Contribute  </a>
+                      </li>
+                      
                       {% assign ordered_pages = site.pages | sort: 'menu' %}
                             {% for page in ordered_pages %}
                             {% if page.menu %}
