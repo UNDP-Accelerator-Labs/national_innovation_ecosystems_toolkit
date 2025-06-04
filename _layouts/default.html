@@ -132,17 +132,14 @@
             <div class="column sidebar-mobile">
               <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
                 <div class="grid-x">
-                  <div class="cell undefined">
-                    <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
-                    <div class="expand-search">
-                      <button class="expand-button">
-                        <img src="https://design.undp.org/static/media/search-black.4642527c.svg" alt="search expand" />
-                      </button>
-                      <input type="text" aria-label="expand-search" id="search" />
-                      <button class="close-button">
-                        <img src="https://design.undp.org/static/media/times.cd26ac2e.svg" alt="search close" />
-                      </button>
-                    </div>
+                  <div class="cell medium-12">
+                    <input
+                      id="search"
+                      class="multi-select search-icon"
+                      placeholder="Looking for something?"
+                      type="text"
+                      aria-label="expand-search"
+                    />
 
                     <ul>
                       <li data-menu-id="headerlink2">
@@ -347,7 +344,7 @@
       expandToSize('.pagehero-full');
       swiper('.fluid-carousel', '.slide-content'); 
 
-      expandSearch()
+      //expandSearch()
       multiSelect()
       toggleFilter()
     });
