@@ -6803,47 +6803,90 @@ pre {
   background-color: #f8f8f8;
 }
 
-
 .info-section {
-    background-color: #ece4d7;
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    /* margin-bottom: 20px; */
-    justify-content: center;
-    /* margin-left: 270px; */
-  }
-  
-  .info-icon {
-    background-color: #ff8c00;
-    color: white;
-    font-weight: bold;
-    font-size: 16px;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-right: 10px;
-  }
-  
-  .info-text {
-    color: #333333;
-    font-size: 14px;
-  }
-
-  .markdown-body, body, h1, h2, h3, h4, h5, h6, h7, p, ul, ol, l1, a, span {
-    font-family: "Noto Sans", sans-serif !important;
-  }
-  .display-block-important {
-    display: block !important;
+  background-color: #ece4d7;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  /* margin-bottom: 20px; */
+  justify-content: center;
+  /* margin-left: 270px; */
 }
-.goog-te-gadget-simple >span >a {
+
+.info-icon {
+  background-color: #ff8c00;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+.info-text {
+  color: #333333;
+  font-size: 14px;
+}
+
+.markdown-body,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7,
+p,
+ul,
+ol,
+l1,
+a,
+span {
+  font-family: "Noto Sans", sans-serif !important;
+}
+.display-block-important {
+  display: block !important;
+}
+.goog-te-gadget-simple > span > a {
   background-image: none !important;
 }
 
 .goog-te-gadget-simple {
   border: 0 !important;
   background: none !important;
+}
+
+.expand-search {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.expand-search .mobile-search-input {
+  width: 100%;
+  max-width: 180px;
+  padding: 0.4em 0.8em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: width 0.2s;
+}
+
+.expand-search .close-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.expand-search .expand-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.expand-search input[type="text"] {
+  width: 100%;
 }
