@@ -1,0 +1,1320 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://nie.sdg-innovation-commons.org/public/imgs/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://nie.sdg-innovation-commons.org/public/imgs/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://nie.sdg-innovation-commons.org/public/imgs/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="https://nie.sdg-innovation-commons.org/public/imgs/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/base-minimal.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-card.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-column.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/cta-link.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/global-header.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/language-switcher.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/menu.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/mega-menu.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/mobile-nav.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/breadcrumbs.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/authors.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-summary.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/content-card.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/chips.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/input-fields.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/buttons.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/newsletter-signup.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/accordion.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/footer.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/author-page.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/menu-overflow.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/sidebar.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/sidebar-data.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/page-hero.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/progress.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/fluid-image-size-carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/generic-page.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/search-expand.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/country-site-header.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/filter-and-search-bar.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/multi-select.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/checkbox.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/radio.min.css">
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+  />
+  
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+
+    <title>National Innovation Ecosystems (NIEs) Toolkit</title>
+
+    <!-- OGP tags -->
+    <meta property="og:title" content="National Innovation Ecosystems (NIEs) Toolkit">
+    <meta property="og:description" content="Welcome to the National Innovation Ecosystems (NIEs) Toolkit">
+    
+    <meta property="og:image" content="https://nie.sdg-innovation-commons.org/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image:secure_url" content="https://nie.sdg-innovation-commons.org/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:alt" content="UNDP Accelerator Labs Logo" />
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Yrika Maritz</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="Yrika Maritz" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://nie.sdg-innovation-commons.org/contributors/Yrika-Maritz.html" />
+<meta property="og:url" content="https://nie.sdg-innovation-commons.org/contributors/Yrika-Maritz.html" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Yrika Maritz" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Yrika Maritz","url":"https://nie.sdg-innovation-commons.org/contributors/Yrika-Maritz.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+
+    <div class="generic-page">
+      <!-- START HEARDER -->
+      <header class="country-header country-load-animation run-animation">
+        <section class="header">
+          <div class="grid-container fluid">
+            <div class="grid-x grid-margin-x align-content-middle">
+              <div class="cell small-6 large-6 shrink align-self-middle top-left">
+                <a href="https://nie.sdg-innovation-commons.org/" class="logo" tabindex="0" title="UNDP Logo homepage link">
+                  <img
+                    src="https://nie.sdg-innovation-commons.org/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
+                    style="max-width: 30%; height: auto; margin-right: 1em;"
+                    alt="UNDP Logo"
+                  />
+                </a>
+                <div class="site-title" style="padding-left: 10em">
+                  <span><a href="#" title="UNDP homepage link">TOOLKITS</a></span>
+                  <span><a href="#" title="UNDP homepage link">National Innovation Ecosystems (NIEs) Toolkit</a></span>
+                </div>
+              </div>
+              <div class="cell small-1 large-1 align-content-middle top-center">
+                <nav class="menu">
+                  <ul class="">
+                    <li data-menu-id="headerlink1">
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="cell small-5 large-auto top-right">
+                <div >
+                  <nav class="menu">
+                    <ul class="">
+                      <li data-menu-id="headerlink2">
+                        <a href="https://github.com/UNDP-Accelerator-Labs/national_innovation_ecosystems_toolkit" target="_blank" >Contribute  </a>
+                      </li>
+                      <li>
+                        <button
+                          aria-expanded="false"
+                          id="google_translate_element"
+                          style="border: 0; background: none;"
+                        >
+                        </button>
+                      </li>
+                    </ul>
+                  </nav>
+                  
+                </div>
+            </div>
+            </div>
+          </div>
+        </section>
+      </header>
+      <!-- END HEADER -->
+
+        <!-- START SIDEBAR FOR MOBILE -->
+        <div class="grid-x">
+          <div class="cell small-12 sidebar-width">
+            <div class="column sidebar-mobile">
+              <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
+                <div class="grid-x">
+                  <div class="cell medium-12">
+                    
+                    <div class="expand-search" id="mobile-expand-search">
+                    <button
+                      class="expand-button"
+                      id="mobile-expand-search-btn"
+                      aria-label="Open search"
+                    >
+                      <img
+                        src="https://design.undp.org/static/media/search-black.4642527c.svg"
+                        alt="search expand"
+                      />
+                    </button>
+                    <input
+                      type="text"
+                      aria-label="expand-search"
+                      id="search"
+                      class="mobile-search-input"
+                      style="display: none"
+                      placeholder="Search..."
+                    />
+                    <button
+                      class="close-button"
+                      id="mobile-close-search-btn"
+                      style="display: none"
+                      aria-label="Close search"
+                    >
+                      <img
+                        src="https://design.undp.org/static/media/times.cd26ac2e.svg"
+                        alt="search close"
+                      />
+                    </button>
+                  </div>
+
+                    <ul>
+                      <li data-menu-id="headerlink2">
+                        <a href="https://github.com/UNDP-Accelerator-Labs/national_innovation_ecosystems_toolkit" target="_blank" >Contribute  </a>
+                      </li>
+                      
+                      
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">Getting Started</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Getting%20started/about.html">About</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Getting%20started/how-to-use-the-toolkit.html">How to use the toolkit</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Getting%20started/values.html">Values and attitude</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Getting%20started/learnings.html">Lessons learned</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">Understanding and pitching NIEs</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/pitching/talking-points/Factsheet.html">Pitching for NIEs and PSI</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/pitching/understanding/understanding.html">Understanding National Innovation Ecosystems (NIEs) and Public sector innovation (PSI)</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">How to design an innovation policy</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Innovation-Policy/policy-DRepublic/DOM.html">A step-by-step journey to a national innovation policy - Dominican Republic</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">How to incubate an innovation unit or lab</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Mapping/Playbook/DRepublic.html">Playbook for a digital innovation lab - Dominican Republic</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Mapping/Governance-model/Ecuador.html">Multistakeholder governance model for an innovation lab - Ecuador</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Mapping/Consultant/Vietnam.html">TORs for a consultant to build up the National Innovation Center - Viet Nam</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">How to upskill civil servants for innovation</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/digital-standards/CDO.html">Digital Standards for development solutions - Chief Digital Office</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/Data-to-policy%20navigator%20/CDO2.html">Data-to-policy navigator - Chief Digital Office</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/MOOC%20public%20and%20social%20innovation%20concepts%20and%20tools%20-%20Ecuador/Ecuador.html">MOOC public and social innovation concepts and tools - Ecuador</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/digitising/Namibia.html">Digitising the induction process for civil servants - Namibia</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/innovation-methods/Namibia2.html">Embedding innovation methods into the civil service via a course on ethics and integrity - Namibia</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/Public%20Innovators%20Program%20Paraguay/Paraguay.html">Public Innovators Program Paraguay</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">How to support a national innovation ecosystem</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Ecosystem/Online%20and%20collaborative%20mapping%20NIE%20-%20Ecuador/Factsheet.html">Online and collaborative mapping NIE - Ecuador</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Ecosystem/How%20to%20map%20a%20national%20innovation%20ecosystem%20-%20Kenya/Factsheet_Mapping_innovation_ecosystem_Kenya.html">How to map a national innovation ecosystem - Kenya</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Ecosystem/Innovators%20journey%20-%20Zambia/Factsheet_innovators_journey_Zambia.html">Innovators journey - Zambia</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" https://nie.sdg-innovation-commons.org/Team.html ">Contributors</a>
+                                
+                                
+                                
+                                
+                                
+                                </li>
+                            
+                            
+                    </ul>
+                  </div>
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+        <!-- END SIDEBAR FRO MOBILE -->
+        
+        <div class="info-section">
+    <span class="info-icon">i</span>
+    <span class="info-text"><p>This is a prototype. Please help the UNDP Accelerator Labs contribute to it. Contribute to this toolkit on <a href="https://github.com/UNDP-Accelerator-Labs/national_innovation_ecosystems_toolkit" target="_blank">Github.</a>.</p>
+</span>
+</div>
+        <div class="grid-container fluid content-bottom">
+          <div class="grid-x margin-top-72">
+            
+            <!-- START SIDEBAR FOR DESKTOP -->
+            <div class="cell large-3 small-12 sidebar-width">
+              <div class="column sidebar-desktop">
+                <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
+                  <div class="grid-x">
+                    <div class="cell medium-12">
+
+                      <div class="expand-search" id="desktop-expand-search">
+                      <button
+                        class="expand-button"
+                        id="desktop-expand-search-btn"
+                        aria-label="Open search"
+                      >
+                        <img
+                          src="https://design.undp.org/static/media/search-black.4642527c.svg"
+                          alt="search expand"
+                        />
+                      </button>
+                      <input
+                        type="text"
+                        aria-label="expand-search"
+                        id="search"
+                        class="desktop-search-input"
+                        style="display: none"
+                        placeholder="Search..."
+                      />
+                      <button
+                        class="close-button"
+                        id="desktop-close-search-btn"
+                        style="display: none"
+                        aria-label="Close search"
+                      >
+                        <img
+                          src="https://design.undp.org/static/media/times.cd26ac2e.svg"
+                          alt="search close"
+                        />
+                      </button>
+                    </div>
+
+                      <ul>
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">Getting Started</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Getting%20started/about.html">About</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Getting%20started/how-to-use-the-toolkit.html">How to use the toolkit</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Getting%20started/values.html">Values and attitude</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Getting%20started/learnings.html">Lessons learned</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">Understanding and pitching NIEs</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/pitching/talking-points/Factsheet.html">Pitching for NIEs and PSI</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/pitching/understanding/understanding.html">Understanding National Innovation Ecosystems (NIEs) and Public sector innovation (PSI)</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">How to design an innovation policy</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Innovation-Policy/policy-DRepublic/DOM.html">A step-by-step journey to a national innovation policy - Dominican Republic</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">How to incubate an innovation unit or lab</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Mapping/Playbook/DRepublic.html">Playbook for a digital innovation lab - Dominican Republic</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Mapping/Governance-model/Ecuador.html">Multistakeholder governance model for an innovation lab - Ecuador</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Mapping/Consultant/Vietnam.html">TORs for a consultant to build up the National Innovation Center - Viet Nam</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">How to upskill civil servants for innovation</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/digital-standards/CDO.html">Digital Standards for development solutions - Chief Digital Office</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/Data-to-policy%20navigator%20/CDO2.html">Data-to-policy navigator - Chief Digital Office</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/MOOC%20public%20and%20social%20innovation%20concepts%20and%20tools%20-%20Ecuador/Ecuador.html">MOOC public and social innovation concepts and tools - Ecuador</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/digitising/Namibia.html">Digitising the induction process for civil servants - Namibia</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/innovation-methods/Namibia2.html">Embedding innovation methods into the civil service via a course on ethics and integrity - Namibia</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Upskill/Public%20Innovators%20Program%20Paraguay/Paraguay.html">Public Innovators Program Paraguay</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">How to support a national innovation ecosystem</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Ecosystem/Online%20and%20collaborative%20mapping%20NIE%20-%20Ecuador/Factsheet.html">Online and collaborative mapping NIE - Ecuador</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Ecosystem/How%20to%20map%20a%20national%20innovation%20ecosystem%20-%20Kenya/Factsheet_Mapping_innovation_ecosystem_Kenya.html">How to map a national innovation ecosystem - Kenya</a></li>
+                                    
+                                    <li >
+                                      <a  href="https://nie.sdg-innovation-commons.org/Ecosystem/Innovators%20journey%20-%20Zambia/Factsheet_innovators_journey_Zambia.html">Innovators journey - Zambia</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" https://nie.sdg-innovation-commons.org/Team.html ">Contributors</a>
+                                
+                                
+                                
+                                
+                                
+                                </li>
+                            
+                            
+                      </ul>
+                    </div>
+                  </div>
+                </nav>
+
+                <!-- BEGGIN FILTERS -->
+                <div class="search-filter">
+                  <div class="select-wrapper">
+                    <div id="tag-div"></div>
+                    <div id="sdg-div"></div>
+                    
+                    
+                    <span class="active-filter">Active Filters:</span>
+                    <div class="selected-chips"></div>
+                    <button class="clear-search-filter">Clear All</button>
+                  </div>
+                </div>
+                <!-- END FILTER -->
+
+              </div>
+            </div>
+            <!-- END SIDEBAR FOR DESKTOP -->
+
+            <!-- BEGIN PAGE CONTENT -->
+            <div class="cell large-9 small-12 generic-content">
+              <div class="grid-x">
+                <div class="markdown-body">
+
+                  <!-- START BREADCRUMBS NAV -->
+                  <nav aria-label="breadcrumbs" data-viewport="true" class="breadcrumb">
+    <ul>
+        <li><a href="https://nie.sdg-innovation-commons.org/" aria-label="Home">Home</a></li>
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <li aria-current="Page title">Yrika Maritz</li>
+    </ul>
+</nav>
+                  <!-- END BREADCRUMBS NAV -->
+
+                  <div id="results"></div>
+                  <div id="content">
+                    <div class="grid-container fluid author-page">
+  <div class="grid-x">
+    <div class="cell medium-offset-1 medium-10 small-12">
+      <div class="author-summary inviewport" data-viewport="true">
+        <div class="author-summary-left">
+          <div class="author__img large">
+            
+            <img
+              src="https://nie.sdg-innovation-commons.org/public/imgs/contributors/yrika_maritz.jpg"
+              alt="Yrika Maritz"
+              class="profile-image"
+            />
+            
+          </div>
+          <div class="author-summary-text">
+            <h2 class="" tabindex="0" data-viewport="false">
+              Yrika Maritz
+            </h2>
+            <p>UNDP Namibia Accelerator Lab</p>
+            <p>Head of Experimentation</p>
+          </div>
+        </div>
+        <div class="author-summary-right">
+          <p>Yrika Vanessa Maritz is the Head of Experimentation at the UNDP Accelerator Lab Namibia. She previously worked at the Office of the Prime Minister in various roles, including Learning and Development Officer and Deputy Director of the Efficiency and Charter Unit.  She also served as the former Director of the Centre for Management and Leadership Development at the National School of Government, NIPAM.  Yrika is a Clinical Psychologist by profession and holds a Master in Public Administration, as well as a PhD in Public and Development Management.  She has been trained in various specialized learning and development models and schools in Tanzania, the UK, Germany, Sweden, Japan, and China. She is an accredited Management Consultant with the CIMC in the UK and registered with the Social Work and Psychology Council of Namibia.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="grid-container fluid author-page">
+  <div class="grid-x">
+    <div class="cell medium-offset-1 medium-10 small-12">
+      <div class="author-summary-left">
+        <div class="cta__link cta--space">
+          
+          <span style="padding-right: 0.4em"
+            ><a href="mailto:yrika.maritz@undp.org">Contact </a></span
+          >
+          
+
+          
+          
+          
+          <span style="padding-right: 0.4em"
+            ><a target="_blank" href="https://www.linkedin.com/in/yrika-vanessa-maritz-she-her-5310a952"
+              ><i class="fa fa-linkedin"></i></a
+          ></span>
+          
+
+          
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+                  </div>
+
+                  <!-- BEGIN TAGS AND SDG CHIPS -->
+                  
+                  <!-- END TAGS AND CATEGORY CHIPS -->
+
+                </div>
+              </div>
+            </div>
+            <!-- END PAGE CONTENT -->
+
+          </div>
+        </div>
+
+        <!-- BEGIN PAGE FOOTER -->
+        <footer class="footer">
+    <div class="grid-x">
+      <div class="cell medium-10 medium-offset-1">
+        <div class="grid-x footer-head">
+          <div class="cell medium-5">
+            <div class="footer-logo">
+              <a>
+                <img
+                  src="https://nie.sdg-innovation-commons.org/public/imgs/UNDP_accelerator_labs_logo_vertical_left_align_white_RGB.png"
+                  alt="Logo"
+                />
+              </a>
+              <h5 class="" tabindex="0" data-viewport="false">
+                United Nations Development Programme
+              </h5>
+            </div>
+          </div>
+        </div>
+        <div class="grid-x grid-margin-x" data-accordion="mobile">
+          <div class="cell medium-8">
+            <div class="grid-x grid-margin-x footer-items">
+              <div class="cell footer-item">
+                <button
+                  type="button"
+                  id="footer-item-1"
+                  class="footer-heading desktop-event-none"
+                  tabindex="0"
+                  aria-controls="footer-panel-1"
+                  aria-expanded="false"
+                >
+                  What we do
+                </button>
+                <div
+                  id="footer-panel-1"
+                  class="footer-panel desktop-visible"
+                  aria-label="footer-item-1"
+                  aria-hidden="false"
+                  role="region"
+                >
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/aboutus"
+                  >
+                    About us
+                  </a>
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/our-work"
+                  >
+                    Our work
+                  </a>
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/partnerships-core-our-network"
+                  >
+                    Partnerships: the core of our network
+                  </a>
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/our-work/untapped"
+                  >
+                    UNTAPPED
+                  </a>
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/peoplepowered"
+                  >
+                    Grassroots Energy Solutions
+                  </a>
+                </div>
+              </div>
+              <div class="cell footer-item">
+                <button
+                  type="button"
+                  id="footer-item-2"
+                  class="footer-heading desktop-event-none"
+                  tabindex="0"
+                  aria-controls="footer-panel-1"
+                  aria-expanded="false"
+                >
+                  Where we are
+                </button>
+                <div
+                  id="footer-panel-1"
+                  class="footer-panel desktop-visible"
+                  aria-label="footer-item-1"
+                  aria-hidden="false"
+                  role="region"
+                >
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/our-locations"
+                  >
+                    Our Locations
+                  </a>
+                </div>
+              </div>
+              <div class="cell footer-item">
+                <button
+                  type="button"
+                  id="footer-item-3"
+                  class="footer-heading desktop-event-none"
+                  tabindex="0"
+                  aria-controls="footer-panel-1"
+                  aria-expanded="false"
+                >
+                  Our Learnings
+                </button>
+                <div
+                  id="footer-panel-1"
+                  class="footer-panel desktop-visible"
+                  aria-label="footer-item-1"
+                  aria-hidden="false"
+                  role="region"
+                >
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/globalpublications"
+                  >
+                    Global Publications
+                  </a>
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/localpublications"
+                  >
+                    Country Publications
+                  </a>
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/blog"
+                  >
+                    Blog
+                  </a>
+                </div>
+              </div>
+              <div class="cell footer-item">
+                <button
+                  type="button"
+                  id="footer-item-4"
+                  class="footer-heading desktop-event-none"
+                  tabindex="0"
+                  aria-controls="footer-panel-1"
+                  aria-expanded="false"
+                >
+                  News
+                </button>
+                <div
+                  id="footer-panel-1"
+                  class="footer-panel desktop-visible"
+                  aria-label="footer-item-1"
+                  aria-hidden="false"
+                  role="region"
+                >
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/news-updates"
+                  >
+                    News center
+                  </a>
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/events"
+                  >
+                    Events
+                  </a>
+                  <a
+                    class="footer-menu-item light"
+                    href="https://www.undp.org/acceleratorlabs/newsletters"
+                  >
+                    Newsletters
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="cell medium-4">
+            <ul class="footer-links">
+              <li><a href="https://www.undp.org/acceleratorlabs">About Us</a></li>
+              <li>
+                <a href="https://www.undp.org/accountability/audit/investigations"
+                  >Report Fraud, Abuse, Misconduct</a
+                >
+              </li>
+              <li>
+                <a href="https://www.undp.org/scam-alert">Scam Alert</a>
+              </li>
+              <li>
+                <a href="https://www.undp.org/copyright-terms-use"
+                  >Terms Of Use</a
+                >
+              </li>
+            </ul>
+            <ul class="footer-icons">
+              <li>
+                <a
+                  href="https://www.linkedin.com/company/undp-accelerator-labs"
+                  class="linkedin"
+                  title="LinkedIn"
+                  >linkedIn</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.instagram.com/acceleratorlabs/"
+                  class="instagram"
+                  title="Instagram"
+                  >instagram</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://twitter.com/UNDPAccLabs"
+                  class="twitter"
+                  title="Twitter"
+                  >twitter</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-copyright">
+          <p tabindex="0">
+            © 2023 United Nations Development Programme
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+      </div>      
+
+
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+      }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/gsap.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/animation.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/navigation.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/undp.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/accordion.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/viewport.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/sidebar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/lang-switcher.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/scrolling-progressbar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/swiper.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/expand-search.min.js"></script>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/filter-search-bar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/multi-select.min.js"></script>
+
+    <!-- <script src="https://nie.sdg-innovation-commons.org/public/js/indexload.js"></script> -->
+    <script src="/assets/js/lunr-min.js"></script>
+    <script src="/assets/js/lunr-feed.js"></script>
+    <script>
+    $(document).ready(function(){
+      navigationInitialize();
+      navigationOverFlow();
+      navigationMultiLevelEdgeDetection();
+
+      accordion();
+      sidebarNav();
+      sidebarMenu();
+
+      langSwitch();
+
+      accordion('[data-accordion="mobile"]', '.footer-panel', 'active');
+      expandToSize('.pagehero-full');
+      swiper('.fluid-carousel', '.slide-content'); 
+
+      //expandSearch()
+      multiSelect()
+      toggleFilter()
+    });
+
+    $(document).ready(function() {
+      var current = window.location.href;
+      $('li a').each(function() {
+          var $this = $(this);
+          if($this.attr('href') == current) {
+            $this.closest('li[aria-label="Sidebar heading"]').find('ul.accordion__panel').addClass('display-block-important');
+            $this.closest('li[aria-label="Sidebar heading"]').addClass('active');
+          }
+          else {
+            $this.closest('ul.accordion__panel').css('display', 'none');
+          }
+      });
+  });
+    </script>
+
+    <script type="text/javascript">
+      // Function to get the referrer URL
+      function getReferrer() {
+          return document.referrer;
+      }
+  
+      var oldURL = "https://undp-accelerator-labs.github.io/national_innovation_ecosystems_toolkit";
+  
+      // Check if the referrer matches the old URL
+      if (getReferrer() === oldURL) {
+          // Redirect to the new URL
+          window.location.href = "https://nie.sdg-innovation-commons.org/";
+      }
+  </script>
+  
+   <script>
+      $(document).ready(function () {
+        // MOBILE
+        $("#mobile-expand-search-btn").on("click", function () {
+          $("#mobile-expand-search-btn").hide();
+          $("#mobile-expand-search #search").show().focus();
+          $("#mobile-close-search-btn").show();
+        });
+        $("#mobile-close-search-btn").on("click", function () {
+          $("#mobile-expand-search #search").val("").hide();
+          $("#mobile-close-search-btn").hide();
+          $("#mobile-expand-search-btn").show();
+        });
+
+        // DESKTOP
+        $("#desktop-expand-search-btn").on("click", function () {
+          $("#desktop-expand-search-btn").hide();
+          $("#desktop-expand-search #search").show().focus();
+          $("#desktop-close-search-btn").show();
+        });
+        $("#desktop-close-search-btn").on("click", function () {
+          $("#desktop-expand-search #search").val("").hide();
+          $("#desktop-close-search-btn").hide();
+          $("#desktop-expand-search-btn").show();
+        });
+
+        // Optional: Synchronize values if both search fields are present
+        $("#mobile-expand-search #search").on("input", function () {
+          $("#desktop-expand-search #search").val($(this).val());
+        });
+        $("#desktop-expand-search #search").on("input", function () {
+          $("#mobile-expand-search #search").val($(this).val());
+        });
+      });
+    </script>
+    
+		<script data-goatcounter="https://UNDP-NIE-toolkit.goatcounter.com/count"
+		        async src="//gc.zgo.at/count.js"></script>
+  </body>
+</html>
